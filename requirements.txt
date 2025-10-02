@@ -1,0 +1,24 @@
+# Core Dependencies
+Flask==2.3.3
+Werkzeug==2.3.7
+mysql-connector-python==8.1.0
+python-dotenv==1.0.0
+
+# Document Processing
+python-docx==0.8.11
+PyPDF2==3.0.1
+
+# Fuzzy String Matching
+rapidfuzz==3.3.1
+
+# Full semantic similarity support (heavy dependencies)
+sentence-transformers==2.2.2
+torch==2.0.1
+transformers==4.33.2
+
+# HTTP Requests for API calls
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# Utilities
+click==8.1.7
