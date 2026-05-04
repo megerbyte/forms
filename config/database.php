@@ -4,6 +4,9 @@
 // Adjust these values for your environment or use a
 // .env-style override by setting environment variables
 // before this file is included.
+//
+// NOTE: DB_PASS defaults to empty string for local development only.
+// In production, always set the DB_PASS environment variable explicitly.
 // -------------------------------------------------------
 
 define('DB_HOST',     getenv('DB_HOST')     ?: 'localhost');

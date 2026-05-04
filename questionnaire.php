@@ -66,7 +66,7 @@ if ($step === '0') {
             header('Location: questionnaire.php?step=0&error=1');
             exit;
         }
-        // initialise session storage for this questionnaire run
+        // initialize session storage for this questionnaire run
         $_SESSION['qform_id']     = $form_id;
         $_SESSION['qrecord_name'] = $record_name;
         $_SESSION['qanswers']     = [];

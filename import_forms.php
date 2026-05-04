@@ -59,7 +59,7 @@ foreach ($htmlFiles as $filepath) {
     // ── extract form_number and title from filename ────────────────────────
     // e.g. Form_2B-1_Petition_-_General_Form.html
     //       → number: "2B-1", title: "Petition - General Form"
-    if (!preg_match('/^Form_([A-Z0-9]+-\d+[A-Z]?)_(.+)\.html$/i', $filename, $fm)) {
+    if (!preg_match('/^Form_([A-Za-z0-9]+-\d+[A-Za-z]?)_(.+)\.html$/', $filename, $fm)) {
         out("  SKIP (unrecognised filename pattern): $filename", $is_cli);
         continue;
     }

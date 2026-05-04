@@ -145,7 +145,14 @@ $records = $stmt->fetchAll();
           <td><?= h($rec['record_name']) ?></td>
           <td><span class="badge bg-secondary"><?= h($rec['form_number']) ?></span>
               <?= h($rec['form_title']) ?></td>
-          <td><?= h(date('Y-m-d H:i', strtotime($rec['created_at']))) ?></td>
+          <?php
+            try {
+                $dt = new DateTime($rec['created_at']);
+                echo '<td>' . h($dt->format('Y-m-d H:i')) . '</td>';
+            } catch (Exception $e) {
+                echo '<td>' . h($rec['created_at']) . '</td>';
+            }
+          ?>
           <td class="text-nowrap">
             <?php if ($rec['output_filename'] && is_file(__DIR__ . '/' . $rec['output_filename'])): ?>
               <a href="<?= h($rec['output_filename']) ?>" target="_blank"
