@@ -1,0 +1,6 @@
+# Generated form outputs
+output/*.html
+
+# PHP / OS
+.DS_Store
+*.log
