@@ -1,0 +1,62 @@
+form_id: 6H-1
+title: Request for Production — Cover Sheet & Definitions
+source: forms/Form_6H-1_Request_for_Production_-_Cover_Sheet_&amp;_Definitions.html
+template: templates/6H-1.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>PARTY</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>NUMBER</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>Adverse party</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>his/her/its</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>Adverse party</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>specify location where adverse party is to produce documents</i>}"
+    field: TODO
+  - token: p014
+    raw: '{<i>See</i> <i class="c6">O’Connor’s Texas Rules</i><i>, “Procedure,” ch. 6-H, §3.1, p. 440.</i>}'
+    field: TODO
+  - token: p015
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>his/her/its</i>}"
+    field: TODO
+  - token: p018
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p019
+    raw: "{<i>his/her/its</i>}"
+    field: TODO

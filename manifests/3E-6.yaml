@@ -1,0 +1,80 @@
+form_id: "3E-6"
+title: Answer — Personal Injury, Slip & Fall
+source: forms/Form_3E-6_Answer_-_Personal_Injury,_Slip_&amp;_Fall.html
+template: templates/3E-6.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p004
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “General Denial,” ch. 3-E, §3, p. 182.</i>}'
+    field: TODO
+  - token: p005
+    raw: "{<i>ADD SECTIONS B-I AS APPROPRIATE</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p007
+    raw: '{<i>See FORM 3F:1;</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Plea to the Jurisdiction-Challenging the Court,” ch. 3-F, p. 191.</i>}'
+    field: TODO
+  - token: p008
+    raw: '{<i>For verified pleas, see FORM 3E:9;</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Verified Pleas,” ch. 3-E, §4, p. 182.</i>}'
+    field: TODO
+  - token: p009
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPHS 4-5</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p011
+    raw: '{<i>See</i> <i class="c5">O’Connor’s COA</i><i>, “Plaintiff’s fault,” ch. 20-A, §5.3, p. 540.</i>}'
+    field: TODO
+  - token: p012
+    raw: '{<i>For other affirmative defenses, see FORM 3E:10;</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Affirmative Defenses,” ch. 3-E, §5, p. 184;</i> <i class="c5">O’Connor’s COA</i><i>, “Defenses,” ch. 22-B, §5.1, p. 630.</i>}'
+    field: TODO
+  - token: p013
+    raw: "{<i>CHOOSE APPROPRIATE ISSUES</i>}"
+    field: TODO
+  - token: p014
+    raw: "{<i>acts/omissions</i>}"
+    field: TODO
+  - token: p015
+    raw: "{<i>name of tortfeasor</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p017
+    raw: '{<i>See</i> <i class="c5">O’Connor’s COA</i><i>, “Sole proximate cause,” ch. 20-A, §5.10.2, p. 547.</i>}'
+    field: TODO
+  - token: p018
+    raw: '{<i>For other inferential rebuttal defenses, see</i> <i class="c5">O’Connor’s COA</i><i>, “Inferential rebuttals,” ch. 20-A, §5.10, p. 545.</i>}'
+    field: TODO
+  - token: p019
+    raw: '{<i>See</i> <i class="c5">O’Connor’s COA</i><i>, “Capping Exemplary Damages,” ch. 46-B, §7, p. 1139.</i>}'
+    field: TODO
+  - token: p020
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Request for Jury Trial,” ch. 5-B, p. 241.</i>}'
+    field: TODO
+  - token: p021
+    raw: "{<i>number</i>}"
+    field: TODO
+  - token: p022
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Unliquidated damages,” ch. 3-G, §2.2.5, p. 198. For the order on special exceptions, see FORM 3G:2.</i>}'
+    field: TODO
+  - token: p023
+    raw: "{<i>For other special exceptions, see FORM 3G:1.</i>}"
+    field: TODO
+  - token: p024
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Content of request,” ch. 6-D, §3.2, p. 392.</i>}'
+    field: TODO
+  - token: p025
+    raw: "{<i>If defendant asserts claims for affirmative relief, include a request for rendition of judgment on those claims. See FORM 2B:1.</i>}"
+    field: TODO

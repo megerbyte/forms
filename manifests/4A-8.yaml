@@ -1,0 +1,83 @@
+form_id: 4A-8
+title: Order Referring Case for Mini-Trial
+source: forms/Form_4A-8_Order_Referring_Case_for_Mini-Trial.html
+template: templates/4A-8.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Mini-trial,” ch. 4-A, §2.2.1, p. 215; “Order for ADR,” ch. 4-A, §5, p. 217.</i>}'
+    field: TODO
+  - token: p003
+    raw: '{<i><span data-token="c001" class="choice-marker">CHOOSE ONE OF THE FOLLOWING</span></i>}'
+    field: TODO
+  - token: p004
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>name of impartial third party</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>selected representatives/impartial third party</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>state the date, time, and place for the mini-trial</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>list parties and their attorneys</i>}"
+    field: TODO
+  - token: p010
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Confidentiality,” ch. 4-A, §7, p. 218.</i>}'
+    field: TODO
+  - token: p011
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Confidentiality,” ch. 4-A, §7, p. 218.</i>}'
+    field: TODO
+  - token: p012
+    raw: |-
+      {<i>ADD PARAGRAPHS 10-13 IF TRIAL CONDUCTED<br>
+        BY IMPARTIAL THIRD PARTY</i>}
+    field: TODO
+  - token: p013
+    raw: "{<i>name of impartial third party</i>}"
+    field: TODO
+  - token: p014
+    raw: "{<i>name of impartial third party</i>}"
+    field: TODO
+  - token: p015
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Confidentiality,” ch. 4-A, §7, p. 218.</i>}'
+    field: TODO
+  - token: p016
+    raw: "{<i>Name of impartial third party</i>}"
+    field: TODO
+  - token: p017
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Confidentiality,” ch. 4-A, §7, p. 218.</i>}'
+    field: TODO
+  - token: p018
+    raw: "{<i>Name of impartial third party</i>}"
+    field: TODO
+  - token: p019
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPH 13</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>state reasonable fee</i>}"
+    field: TODO
+  - token: p021
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Fees,” ch. 4-A, §6.3, p. 218.</i>}'
+    field: TODO
+  - token: p022
+    raw: "{<i>state reasonable fee</i>}"
+    field: TODO
+  - token: p023
+    raw: "{<i>identify method of payment</i>}"
+    field: TODO
+  - token: p024
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Fees,” ch. 4-A, §6.3, p. 218.</i>}'
+    field: TODO
+choices:
+  - token: c001
+    raw: CHOOSE ONE OF THE FOLLOWING
+    field: TODO

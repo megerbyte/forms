@@ -1,0 +1,185 @@
+form_id: 2B-13
+title: Parties — Defendant, Resident Insurer
+source: forms/Form_2B-13_Parties_-_Defendant,_Resident_Insurer.html
+template: templates/2B-13.html
+placeholders:
+  - token: p001
+    raw: "{<i>CHOOSE APPROPRIATE DESIGNATION</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>Domestic insurance carrier</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>name 1</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>home office/principal place of business</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p006
+    raw: "{_______}"
+    field: TODO
+  - token: p007
+    raw: "{<i>name 2</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>the president/an active vice president/the secretary/its attorney in fact</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>Tex. Ins. Code §804.101(b)(1).</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>home office/principal place of business</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p013
+    raw: "{_______}"
+    field: TODO
+  - token: p014
+    raw: "{<i>Tex. Ins. Code §804.101(b)(2).</i>}"
+    field: TODO
+  - token: p015
+    raw: "{<i>name 1</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>name 2</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p018
+    raw: "{_______}"
+    field: TODO
+  - token: p019
+    raw: "{<i>Tex. Ins. Code §804.102(b).</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p021
+    raw: "{<i>defendant has not done so/defendant’s agent cannot with reasonable diligence be found</i>}"
+    field: TODO
+  - token: p022
+    raw: "{<i>Tex. Ins. Code §804.102(c).</i>}"
+    field: TODO
+  - token: p023
+    raw: "{<i>Unauthorized individual doing insurance business in Texas</i>}"
+    field: TODO
+  - token: p024
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p025
+    raw: "{<i>home office/principal place of business</i>}"
+    field: TODO
+  - token: p026
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p027
+    raw: "{_______}"
+    field: TODO
+  - token: p028
+    raw: "{<i>Tex. Ins. Code §804.107(b)(1).</i>}"
+    field: TODO
+  - token: p029
+    raw: "{<i>name 1</i>}"
+    field: TODO
+  - token: p030
+    raw: "{<i>home office/principal place of business</i>}"
+    field: TODO
+  - token: p031
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p032
+    raw: "{_______}"
+    field: TODO
+  - token: p033
+    raw: "{<i>name 2</i>}"
+    field: TODO
+  - token: p034
+    raw: "{<i>Tex. Ins. Code §804.107(d).</i>}"
+    field: TODO
+  - token: p035
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p036
+    raw: "{<i>home office/principal place of business</i>}"
+    field: TODO
+  - token: p037
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p038
+    raw: "{_______}"
+    field: TODO
+  - token: p039
+    raw: "{<i>Texas Department of Insurance/State of Texas</i>}"
+    field: TODO
+  - token: p040
+    raw: '{<i>See Tex. Ins. Code §804.107(c)(1);</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “General rules,” ch. 2-H, §5.1, p. 129.</i>}'
+    field: TODO
+  - token: p041
+    raw: "{<i>Unauthorized insurer doing insurance business in Texas</i>}"
+    field: TODO
+  - token: p042
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p043
+    raw: "{<i>home office/principal place of business</i>}"
+    field: TODO
+  - token: p044
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p045
+    raw: "{_______}"
+    field: TODO
+  - token: p046
+    raw: "{<i>Tex. Ins. Code §804.107(b)(1).</i>}"
+    field: TODO
+  - token: p047
+    raw: "{<i>name 1</i>}"
+    field: TODO
+  - token: p048
+    raw: "{<i>home office/principal place of business</i>}"
+    field: TODO
+  - token: p049
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p050
+    raw: "{_______}"
+    field: TODO
+  - token: p051
+    raw: "{<i>name 2</i>}"
+    field: TODO
+  - token: p052
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p053
+    raw: "{_______}"
+    field: TODO
+  - token: p054
+    raw: "{<i>Tex. Ins. Code §804.107(d).</i>}"
+    field: TODO
+  - token: p055
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p056
+    raw: "{<i>home office/principal place of business</i>}"
+    field: TODO
+  - token: p057
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p058
+    raw: "{_______}"
+    field: TODO
+  - token: p059
+    raw: "{<i>Texas Department of Insurance/State of Texas</i>}"
+    field: TODO
+  - token: p060
+    raw: '{<i>See Tex. Ins. Code §804.107(c)(1);</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “General rules,” ch. 2-H, §5.1, p. 129.</i>}'
+    field: TODO

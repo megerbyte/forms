@@ -1,0 +1,104 @@
+form_id: 6G-18
+title: Response to Motion to Strike Deemed Admissions
+source: forms/Form_6G-18_Response_to_Motion_to_Strike_Deemed_Admissions.html
+template: templates/6G-18.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>PARTY</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p005
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Response to motion to strike,” ch. 6-G, §7.2.4, p. 437.</i>}'
+    field: TODO
+  - token: p006
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>state basis of suit</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>1/2/3</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>will end/ended</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p012
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Discovery Control Plans,” ch. 6-A, §7, p. 332.</i>}'
+    field: TODO
+  - token: p013
+    raw: "{<i>trial/hearing</i>}"
+    field: TODO
+  - token: p014
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p015
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>his/her/its</i>}"
+    field: TODO
+  - token: p018
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p019
+    raw: "{<i>number</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p021
+    raw: "{<i>Adverse party</i>}"
+    field: TODO
+  - token: p022
+    raw: "{<i>State other facts relevant to the response.</i>}"
+    field: TODO
+  - token: p023
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p024
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p025
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Good cause,” ch. 6-G, §7.2.2(1), p. 436.</i>}'
+    field: TODO
+  - token: p026
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p027
+    raw: "{<i>summarize reasons adverse party asserted that constitute good cause</i>}"
+    field: TODO
+  - token: p028
+    raw: "{<i>argue why this is not good cause, or dispute adverse party’s factual allegations, e.g., adverse party knew the requests had been served and refused to serve responses until a motion for summary judgment was filed</i>}"
+    field: TODO
+  - token: p029
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p030
+    raw: "{<i>explain</i>}"
+    field: TODO
+  - token: p031
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “No prejudice,” ch. 6-G, §7.2.2(2), p. 436.</i>}'
+    field: TODO
+  - token: p032
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p033
+    raw: "{<i>party</i>}"
+    field: TODO

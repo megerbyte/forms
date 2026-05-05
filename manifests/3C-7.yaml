@@ -1,0 +1,161 @@
+form_id: 3C-7
+title: Venue — Response to Motion to Transfer for Convenience
+source: forms/Form_3C-7_Venue_-_Response_to_Motion_to_Transfer_for_Convenience.html
+template: templates/3C-7.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>current</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>current</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>state basis of suit</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>current</i>}"
+    field: TODO
+  - token: p008
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Venue not convenient elsewhere,” ch. 3-C, §2.6.5, p. 166.</i>}'
+    field: TODO
+  - token: p009
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>State other facts relevant to the response.</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>list each venue fact pleaded in defendant’s motion to transfer</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>state venue facts</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p014
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Proof of convenience issues,” ch. 3-C, §2.7.3, p. 166.</i>}'
+    field: TODO
+  - token: p015
+    raw: "{<i>current</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>proposed</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPHS 9-14</i>}"
+    field: TODO
+  - token: p018
+    raw: "{<i>his/her/its</i>}"
+    field: TODO
+  - token: p019
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>Current</i>}"
+    field: TODO
+  - token: p021
+    raw: "{<i>identify mandatory venue provision and state facts showing mandatory venue in this county</i>}"
+    field: TODO
+  - token: p022
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Mandatory venue,” ch. 3-C, §2.3.1, p. 163.</i>}'
+    field: TODO
+  - token: p023
+    raw: "{<i>current</i>}"
+    field: TODO
+  - token: p024
+    raw: "{<i>state why suit in current county will not be inconvenient and why suit in the proposed county would be</i>}"
+    field: TODO
+  - token: p025
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “No hardship on defendant,” ch. 3-C, §2.6.5(1), p. 166.</i>}'
+    field: TODO
+  - token: p026
+    raw: "{<i>current</i>}"
+    field: TODO
+  - token: p027
+    raw: "{<i>list factors that weigh in favor of keeping case in current county</i>}"
+    field: TODO
+  - token: p028
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Balance of interests,” ch. 3-C, §2.6.5(2), p. 166.</i>}'
+    field: TODO
+  - token: p029
+    raw: "{<i>state specific reasons the move will impose a hardship on the plaintiff and any other parties</i>}"
+    field: TODO
+  - token: p030
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Hardship on plaintiff,” ch. 3-C, §2.6.5(3), p. 166.</i>}'
+    field: TODO
+  - token: p031
+    raw: "{<i>Proposed</i>}"
+    field: TODO
+  - token: p032
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p033
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Improper county for transfer,” ch. 3-C, §2.6.5(4), p. 166.</i>}'
+    field: TODO
+  - token: p034
+    raw: "{<i>ADD SECTION D IF APPLICABLE</i>}"
+    field: TODO
+  - token: p035
+    raw: "{<i>his/her/its</i>}"
+    field: TODO
+  - token: p036
+    raw: "{<i>letter</i>}"
+    field: TODO
+  - token: p037
+    raw: "{<i>his/her/its</i>}"
+    field: TODO
+  - token: p038
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Continuance,” ch. 3-C, §2.10.3, p. 167.</i>}'
+    field: TODO
+  - token: p039
+    raw: "{<i>conduct discovery/secure affidavits</i>}"
+    field: TODO
+  - token: p040
+    raw: "{<i>send interrogatories to/send requests for admissions to/take the deposition of/get an affidavit from</i>}"
+    field: TODO
+  - token: p041
+    raw: "{<i>identify type of information sought</i>}"
+    field: TODO
+  - token: p042
+    raw: "{<i>explain</i>}"
+    field: TODO
+  - token: p043
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Description of necessary evidence,” ch. 5-D, §8.1, p. 256.</i>}'
+    field: TODO
+  - token: p044
+    raw: "{<i>testimony/evidence</i>}"
+    field: TODO
+  - token: p045
+    raw: "{<i>he/she/it</i>}"
+    field: TODO
+  - token: p046
+    raw: "{<i>Summarize discovery attempts demonstrating diligence. If known, state why discovery attempts did not secure evidence.</i>}"
+    field: TODO
+  - token: p047
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Diligence,” ch. 5-D, §8.3, p. 257.</i>}'
+    field: TODO
+  - token: p048
+    raw: "{<i>Add appropriate paragraphs 14-19 from FORM 5D:1.</i>}"
+    field: TODO
+  - token: p049
+    raw: "{<i>current</i>}"
+    field: TODO
+  - token: p050
+    raw: "{<i>proper/ mandatory</i>}"
+    field: TODO
+  - token: p051
+    raw: "{<i>proposed</i>}"
+    field: TODO
+  - token: p052
+    raw: "{<i>add if applicable: or, in the alternative, grant plaintiff’s request for a continuance to conduct additional discovery and collect affidavits</i>}"
+    field: TODO

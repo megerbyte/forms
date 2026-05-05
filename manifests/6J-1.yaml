@@ -1,0 +1,185 @@
+form_id: 6J-1
+title: Motion to ENTER Property of Nonparty
+source: forms/Form_6J-1_Motion_to_ENTER_Property_of_Nonparty.html
+template: templates/6J-1.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>name of nonparty</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p006
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Motion,” ch. 6-J, §4.1, p. 455.</i>}'
+    field: TODO
+  - token: p007
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>name of nonparty</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>state basis of suit</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>1/2/3</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>will end/ended</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p014
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Discovery Control Plans,” ch. 6-A, §7, p. 332.</i>}'
+    field: TODO
+  - token: p015
+    raw: "{<i>trial/hearing</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>name of nonparty</i>}"
+    field: TODO
+  - token: p018
+    raw: "{<i>a person/an entity</i>}"
+    field: TODO
+  - token: p019
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>number</i>}"
+    field: TODO
+  - token: p021
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p022
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p023
+    raw: "{<i>name of nonparty</i>}"
+    field: TODO
+  - token: p024
+    raw: "{<i>inspecting/ measuring/surveying/photographing/testing/sampling</i>}"
+    field: TODO
+  - token: p025
+    raw: "{<i>State other facts relevant to the motion.</i>}"
+    field: TODO
+  - token: p026
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p027
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p028
+    raw: "{<i>name of nonparty</i>}"
+    field: TODO
+  - token: p029
+    raw: "{<i>specify facts supporting good cause</i>}"
+    field: TODO
+  - token: p030
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p031
+    raw: "{<i>name of nonparty</i>}"
+    field: TODO
+  - token: p032
+    raw: "{<i>explain why entry is relevant or is likely to lead to the discovery of relevant evidence</i>}"
+    field: TODO
+  - token: p033
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p034
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p035
+    raw: "{<i>time</i>}"
+    field: TODO
+  - token: p036
+    raw: "{<i>name of nonparty</i>}"
+    field: TODO
+  - token: p037
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p038
+    raw: "{<i>inspect/measure/survey/photograph/test/ sample</i>}"
+    field: TODO
+  - token: p039
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p040
+    raw: "{<i>inspection/measurement/survey/photographing/testing/ sampling</i>}"
+    field: TODO
+  - token: p041
+    raw: "{<i>identify scope</i>}"
+    field: TODO
+  - token: p042
+    raw: "{<i>inspection/measurement/survey/ photographing/testing/sampling</i>}"
+    field: TODO
+  - token: p043
+    raw: "{<i>name of person</i>}"
+    field: TODO
+  - token: p044
+    raw: "{<i>inspection/measurement/survey/photographing/testing/sampling</i>}"
+    field: TODO
+  - token: p045
+    raw: "{<i>his/her</i>}"
+    field: TODO
+  - token: p046
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p047
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p048
+    raw: "{<i>identify other persons who will attend, e.g., attorney</i>}"
+    field: TODO
+  - token: p049
+    raw: "{<i>IF TESTING OR SAMPLING, ADD PARAGRAPH 19</i>}"
+    field: TODO
+  - token: p050
+    raw: "{<i>testing/sampling</i>}"
+    field: TODO
+  - token: p051
+    raw: "{<i>identify the specific means for testing or sampling</i>}"
+    field: TODO
+  - token: p052
+    raw: "{<i>testing/sampling</i>}"
+    field: TODO
+  - token: p053
+    raw: "{<i>tested/sampled</i>}"
+    field: TODO
+  - token: p054
+    raw: "{<i>Elaborate, if necessary.</i>}"
+    field: TODO
+  - token: p055
+    raw: "{<i>Briefly summarize the motion.</i>}"
+    field: TODO
+  - token: p056
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p057
+    raw: "{<i>his/her/its</i>}"
+    field: TODO
+  - token: p058
+    raw: "{<i>name of nonparty</i>}"
+    field: TODO
+  - token: p059
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p060
+    raw: "{<i>his/her/its</i>}"
+    field: TODO

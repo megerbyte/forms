@@ -1,0 +1,89 @@
+form_id: 1K-1
+title: Subpoena
+source: forms/Form_1K-1_Subpoena.html
+template: templates/1K-1.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Who may serve subpoenas,” ch. 1-K, §3.4, p. 65.</i>}'
+    field: TODO
+  - token: p003
+    raw: "{<i>name of witness</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>street address, city, county, state, zip code, phone number</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>street address, city, county, state, zip code</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>time</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>CHOOSE APPROPRIATE DIRECTIONS</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>identify judge and court</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>a hearing/trial</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>plaintiff/defendant</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>name of deposition officer</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>plaintiff/defendant</i>}"
+    field: TODO
+  - token: p014
+    raw: "{<i>ADD FOLLOWING PARAGRAPH IF REQUESTING DOCUMENTS</i>}"
+    field: TODO
+  - token: p015
+    raw: "{<i>Name of witness</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>list and number documents individually or by category and describe with reasonable particularity each item or category</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>identify court in which cause is pending</i>}"
+    field: TODO
+  - token: p018
+    raw: "{<i>CHOOSE APPROPRIATE SIGNATURE BLOCK</i>}"
+    field: TODO
+  - token: p019
+    raw: "{<i>District/County</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>Name of clerk</i>}"
+    field: TODO
+  - token: p021
+    raw: "{<i>District/County</i>}"
+    field: TODO
+  - token: p022
+    raw: "{<i>County</i>}"
+    field: TODO
+  - token: p023
+    raw: "{<i>Address, city, state, &amp; zip code</i>}"
+    field: TODO
+  - token: p024
+    raw: "{<i>Name of attorney or deposition officer</i>}"
+    field: TODO
+  - token: p025
+    raw: "{<i>Address, city, state, &amp; zip code</i>}"
+    field: TODO
+  - token: p026
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p027
+    raw: "{<i>name of party’s attorney</i>}"
+    field: TODO
+  - token: p028
+    raw: "{<i>street address, city, state, zip code, telephone number</i>}"
+    field: TODO

@@ -1,0 +1,163 @@
+form_id: 2B-8
+title: Petition — Bill of Review
+source: forms/Form_2B-8_Petition_-_Bill_of_Review.html
+template: templates/2B-8.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>2/3</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>190.3/190.4</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>explain</i>}"
+    field: TODO
+  - token: p005
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Discovery Control Plans,” ch. 2-B, §2, p. 71.</i>}'
+    field: TODO
+  - token: p006
+    raw: '{<i>For plaintiff designation, see FORM 2B:9;</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Plaintiff,” ch. 2-B, §3.4, p. 75.</i>}'
+    field: TODO
+  - token: p007
+    raw: '{<i>For defendant designation, see FORMS 2B:10 through 2B:19;</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Defendant,” ch. 2-B, §3.5, p. 75.</i>}'
+    field: TODO
+  - token: p008
+    raw: "{<i>Tex. Civ. Prac. &amp; Rem. Code §16.051.</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>number</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>style of case</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>state basis of suit</i>}"
+    field: TODO
+  - token: p013
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Pleading a Cause of Action,” ch. 2-B, §6, p. 78.</i>}'
+    field: TODO
+  - token: p014
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p015
+    raw: "{<i>judgment/default judgment</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>letter</i>}"
+    field: TODO
+  - token: p017
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Bill of review,” ch. 7-A, §7.1.3, p. 470.</i>}'
+    field: TODO
+  - token: p018
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPH 7</i>}"
+    field: TODO
+  - token: p019
+    raw: "{<i>state facts proving lack of service of process</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>name of affiant</i>}"
+    field: TODO
+  - token: p021
+    raw: "{<i>letter</i>}"
+    field: TODO
+  - token: p022
+    raw: "{<i>hearing/trial</i>}"
+    field: TODO
+  - token: p023
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p024
+    raw: "{<i>state facts proving lack of service of notice</i>}"
+    field: TODO
+  - token: p025
+    raw: "{<i>name of affiant</i>}"
+    field: TODO
+  - token: p026
+    raw: "{<i>letter</i>}"
+    field: TODO
+  - token: p027
+    raw: "{<i>number</i>}"
+    field: TODO
+  - token: p028
+    raw: "{<i>fraud/an accident/a wrongful act</i>}"
+    field: TODO
+  - token: p029
+    raw: "{<i>identify specific act, e.g., fraudulent failure to serve party with service, failure to notify party of trial setting, and state how it prevented plaintiff from asserting its meritorious defense. See Lambert v. Coachmen Indus., Inc., 761 S.W.2d 82, 87 (Tex. App.—Houston [14th Dist.] 1988, writ denied)</i>}"
+    field: TODO
+  - token: p030
+    raw: "{<i>name of affiant</i>}"
+    field: TODO
+  - token: p031
+    raw: "{<i>letter</i>}"
+    field: TODO
+  - token: p032
+    raw: "{<i>number</i>}"
+    field: TODO
+  - token: p033
+    raw: "{<i>identify specific act, e.g., clerk’s failure to send notice of a dismissal, misplacement of the original answer, failure of clerk to send notice of judgment, and state how it prevented plaintiff from asserting its meritorious defense. See Baker v. Goldsmith, 582 S.W.2d 404, 407 (Tex. 1979); K.B. Video &amp; Elecs., Inc. v. Naylor, 847 S.W.2d 401, 407 (Tex. App.—Amarillo 1993, writ denied)</i>}"
+    field: TODO
+  - token: p034
+    raw: "{<i>name of affiant</i>}"
+    field: TODO
+  - token: p035
+    raw: "{<i>letter</i>}"
+    field: TODO
+  - token: p036
+    raw: "{<i>judgment/default judgment</i>}"
+    field: TODO
+  - token: p037
+    raw: "{<i>Explain in detail plaintiff’s diligence in availing itself of all legal remedies, e.g., party exercised due diligence but did not learn of the judgment until the deadline for appeal and motion for new trial had passed.</i>}"
+    field: TODO
+  - token: p038
+    raw: "{<i>name of affiant</i>}"
+    field: TODO
+  - token: p039
+    raw: "{<i>letter</i>}"
+    field: TODO
+  - token: p040
+    raw: |-
+      {<i>ADD SECTION F ONLY IF GROUNDS FOR BILL ARE<br>
+        FRAUD, ACCIDENT, WRONGFUL ACT, OR OFFICIAL MISTAKE</i>}
+    field: TODO
+  - token: p041
+    raw: "{<i>identify cause of action</i>}"
+    field: TODO
+  - token: p042
+    raw: "{<i>Identify defense and state facts establishing each element of the defense.</i>}"
+    field: TODO
+  - token: p043
+    raw: "{<i>name of affiant</i>}"
+    field: TODO
+  - token: p044
+    raw: "{<i>letter</i>}"
+    field: TODO
+  - token: p045
+    raw: "{<i>ADD SECTION G IF APPROPRIATE</i>}"
+    field: TODO
+  - token: p046
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Content of request,” ch. 6-D, §3.2, p. 392.</i>}'
+    field: TODO
+  - token: p047
+    raw: "{<i>CHOOSE APPROPRIATE REMEDIES</i>}"
+    field: TODO
+  - token: p048
+    raw: "{<i>number</i>}"
+    field: TODO
+  - token: p049
+    raw: "{<i>style of case</i>}"
+    field: TODO
+  - token: p050
+    raw: "{<i>number</i>}"
+    field: TODO
+  - token: p051
+    raw: "{<i>number</i>}"
+    field: TODO
+  - token: p052
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Prayer,” ch. 2-B, §14, p. 83.</i>}'
+    field: TODO

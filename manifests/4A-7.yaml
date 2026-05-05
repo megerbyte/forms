@@ -1,0 +1,83 @@
+form_id: 4A-7
+title: Agreed Motion for Mini-Trial
+source: forms/Form_4A-7_Agreed_Motion_for_Mini-Trial.html
+template: templates/4A-7.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Mini-trial,” ch. 4-A, §2.2.1, p. 215.</i>}'
+    field: TODO
+  - token: p003
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>state basis of suit</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>1/2/3</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>will end/ended</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p009
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Discovery Control Plans,” ch. 6-A, §7, p. 332.</i>}'
+    field: TODO
+  - token: p010
+    raw: "{<i>All/Most/A significant part/No significant part/None</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>trial/hearing</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>State facts relevant to the motion.</i>}"
+    field: TODO
+  - token: p014
+    raw: '{<i><span data-token="c001" class="choice-marker">CHOOSE ONE OF THE FOLLOWING</span></i>}'
+    field: TODO
+  - token: p015
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>selected representatives/impartial third party</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>selected representatives/impartial third party</i>}"
+    field: TODO
+  - token: p018
+    raw: |-
+      {<i>IF IMPARTIAL THIRD-PARTY APPOINTED,<br>
+        ADD APPROPRIATE PARAGRAPHS d-f</i>}
+    field: TODO
+  - token: p019
+    raw: "{<i>state reasonable fee</i>}"
+    field: TODO
+  - token: p020
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Fees,” ch. 4-A, §6.3, p. 218.</i>}'
+    field: TODO
+  - token: p021
+    raw: "{<i>identify method of payment</i>}"
+    field: TODO
+  - token: p022
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Fees,” ch. 4-A, §6.3, p. 218.</i>}'
+    field: TODO
+  - token: p023
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Fees,” ch. 4-A, §6.3, p. 218.</i>}'
+    field: TODO
+  - token: p024
+    raw: "{<i>Briefly summarize the motion.</i>}"
+    field: TODO
+choices:
+  - token: c001
+    raw: CHOOSE ONE OF THE FOLLOWING
+    field: TODO

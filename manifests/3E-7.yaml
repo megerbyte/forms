@@ -1,0 +1,245 @@
+form_id: "3E-7"
+title: Answer — DTPA
+source: forms/Form_3E-7_Answer_-_DTPA.html
+template: templates/3E-7.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>name of defendant</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>name of plaintiff</i>}"
+    field: TODO
+  - token: p004
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “General Denial,” ch. 3-E, §3, p. 182.</i>}'
+    field: TODO
+  - token: p005
+    raw: "{<i>ADD SECTIONS B-K AS APPROPRIATE</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>cite state or federal law that preempts action</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p008
+    raw: '{<i>See</i> <i class="c5">O’Connor’s COA</i><i>, “Preemption,” ch. 8, §5.14, p. 203.</i>}'
+    field: TODO
+  - token: p009
+    raw: '{<i>For other challenges to jurisdiction, see FORM 3F:1;</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Plea to the Jurisdiction-Challenging the Court,” ch. 3-F, p. 191.</i>}'
+    field: TODO
+  - token: p010
+    raw: "{<i>CHOOSE APPROPRIATE STATEMENT</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p012
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Motion to Abate-Challenging the Suit,” ch. 3-H, p. 204;</i> <i class="c5">O’Connor’s COA</i><i>, “Abatement,” ch. 8, §6.1.3, p. 204.</i>}'
+    field: TODO
+  - token: p013
+    raw: "{<i>identify other conditions precedent that have not been performed or have not occurred</i>}"
+    field: TODO
+  - token: p014
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Denial of conditions precedent,” ch. 3-E, §5.4, p. 188.</i>}'
+    field: TODO
+  - token: p015
+    raw: '{<i>For other verified pleas, see FORM 3E:9;</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Verified Pleas,” ch. 3-E, §4, p. 182.</i>}'
+    field: TODO
+  - token: p016
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPHS 6-16</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>CHOOSE APPROPRIATE DEFENSES</i>}"
+    field: TODO
+  - token: p018
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p019
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p021
+    raw: '{<i>See</i> <i class="c5">O’Connor’s COA</i><i>, “Limitations,” ch. 8, §4, p. 199.</i>}'
+    field: TODO
+  - token: p022
+    raw: "{<i>identify type of immunity</i>}"
+    field: TODO
+  - token: p023
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p024
+    raw: '{<i>See</i> <i class="c5">O’Connor’s COA</i><i>, “Defenses,” chs. 50-52, p. 1197.</i>}'
+    field: TODO
+  - token: p025
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p026
+    raw: '{<i>See</i> <i class="c5">O’Connor’s COA</i><i>, “Plaintiff’s fault,” ch. 8, §5.3, p. 199.</i>}'
+    field: TODO
+  - token: p027
+    raw: "{<i>describe goods</i>}"
+    field: TODO
+  - token: p028
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p029
+    raw: '{<i>See</i> <i class="c5">O’Connor’s COA</i><i>, “‘As is’ contract,” ch. 8, §5.9, p. 201.</i>}'
+    field: TODO
+  - token: p030
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p031
+    raw: '{<i>See</i> <i class="c5">O’Connor’s COA</i><i>, “Waiver of warranties,” ch. 8, §5.10, p. 202; “Waiver of DTPA remedies,” ch. 8, §5.11, p. 202.</i>}'
+    field: TODO
+  - token: p032
+    raw: '{<i>For other affirmative defenses, see FORM 3E:10;</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Affirmative Defenses,” ch. 3-E, §5, p. 184.</i>}'
+    field: TODO
+  - token: p033
+    raw: "{<i>with assets/owned by a company with assets</i>}"
+    field: TODO
+  - token: p034
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p035
+    raw: '{<i>See</i> <i class="c5">O’Connor’s COA</i>, “<i>Standing - business consumers,” ch. 8, §5.4, p. 199.</i>}'
+    field: TODO
+  - token: p036
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p037
+    raw: '{<i>See</i> <i class="c5">O’Connor’s COA</i>, “<i>Exempt defendants,” ch. 8, §5.5.1, p. 200.</i>}'
+    field: TODO
+  - token: p038
+    raw: "{<i>defendant’s claim/the transaction between defendant and plaintiff</i>}"
+    field: TODO
+  - token: p039
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p040
+    raw: '{<i>See</i> <i class="c5">O’Connor’s COA</i>, “<i>Exempt claims - acts regulated by FTC,” §5.5.2, p. 200; “Exempt transactions,” §5.5.3, p. 200.</i>}'
+    field: TODO
+  - token: p041
+    raw: "{<i>identify source of information</i>}"
+    field: TODO
+  - token: p042
+    raw: "{<i>falsity/inaccuracy</i>}"
+    field: TODO
+  - token: p043
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p044
+    raw: '{<i>See</i> <i class="c5">O’Connor’s COA</i><i>, “Reliance on information from other sources,” ch. 8, §5.8, p. 201.</i>}'
+    field: TODO
+  - token: p045
+    raw: "{<i>describe product</i>}"
+    field: TODO
+  - token: p046
+    raw: "{<i>name of intermediary</i>}"
+    field: TODO
+  - token: p047
+    raw: "{<i>describe product</i>}"
+    field: TODO
+  - token: p048
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p049
+    raw: '{<i>See</i> <i class="c5">O’Connor’s COA</i><i>, “Learned intermediary,” ch. 8, §5.13, p. 203.</i>}'
+    field: TODO
+  - token: p050
+    raw: "{<i>personal injury/death/mental anguish</i>}"
+    field: TODO
+  - token: p051
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p052
+    raw: '{<i>See</i> <i class="c5">O’Connor’s COA</i><i>, “Claims for personal injury, death, or mental anguish,” ch. 8, §5.6, p. 200.</i>}'
+    field: TODO
+  - token: p053
+    raw: "{<i>puffing/ opinion</i>}"
+    field: TODO
+  - token: p054
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p055
+    raw: '{<i>See</i> <i class="c5">O’Connor’s COA</i><i>, “Puffing or opinion,” ch. 8, §5.12, p. 203.</i>}'
+    field: TODO
+  - token: p056
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p057
+    raw: '{<i>See</i> <i class="c5">O’Connor’s COA</i><i>, “Mere breach of contract,” ch. 8, §5.15, p. 203.</i>}'
+    field: TODO
+  - token: p058
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p059
+    raw: '{<i>See</i> <i class="c5">O’Connor’s COA</i><i>, “Proportionate Responsibility &amp; Contribution,” ch. 55, p. 1263.</i>}'
+    field: TODO
+  - token: p060
+    raw: "{<i>For other pleas, defenses, and claims, see FORM 3E:1.</i>}"
+    field: TODO
+  - token: p061
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p062
+    raw: '{<i>See</i> <i class="c5">O’Connor’s COA</i><i>, “Additional damages,” ch. 8, §3.2, p. 197.</i>}'
+    field: TODO
+  - token: p063
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p064
+    raw: "{<i>letter</i>}"
+    field: TODO
+  - token: p065
+    raw: "{<i>letter</i>}"
+    field: TODO
+  - token: p066
+    raw: "{<i>letter</i>}"
+    field: TODO
+  - token: p067
+    raw: '{<i>See</i> <i class="c5">O’Connor’s COA</i><i>, “Response to settlement demand,” ch. 8, §5.7, p. 201; “Offers of settlement,” ch. 8, §6.2, p. 204.</i>}'
+    field: TODO
+  - token: p068
+    raw: "{<i>17.5051(a)/17.5051(f)</i>}"
+    field: TODO
+  - token: p069
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p070
+    raw: '{<i>See</i> <i class="c5">O’Connor’s COA</i><i>, “Compelled mediation,” ch. 8, §6.4, p. 205.</i>}'
+    field: TODO
+  - token: p071
+    raw: "{<i>groundless in fact or law/brought in bad faith/brought for the purpose of harassment</i>}"
+    field: TODO
+  - token: p072
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p073
+    raw: "{<i>his/her/ its</i>}"
+    field: TODO
+  - token: p074
+    raw: '{<i>See Tex. Bus. &amp; Com. Code §17.50(c);</i> <i class="c5">O’Connor’s COA</i><i>, “For the defendant,” ch. 8, §3.7.2, p. 198.</i>}'
+    field: TODO
+  - token: p075
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Request for Jury Trial,” ch. 5-B, p. 241.</i>}'
+    field: TODO
+  - token: p076
+    raw: "{<i>number</i>}"
+    field: TODO
+  - token: p077
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Unliquidated damages,” ch. 3-G, §2.2.5, p. 198.</i> <i>For the order on special exceptions, see FORM 3G:2.</i>}'
+    field: TODO
+  - token: p078
+    raw: "{<i>For other special exceptions, see FORM 3G:1.</i>}"
+    field: TODO
+  - token: p079
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Content of request,” ch. 6-D, §3.2, p. 392.</i>}'
+    field: TODO
+  - token: p080
+    raw: "{<i>If defendant asserts claims for affirmative relief, include a request for rendition of judgment on those claims. See FORM 2B:1.</i>}"
+    field: TODO

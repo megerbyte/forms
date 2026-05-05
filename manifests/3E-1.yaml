@@ -1,0 +1,182 @@
+form_id: "3E-1"
+title: Answer — General Form
+source: forms/Form_3E-1_Answer_-_General_Form.html
+template: templates/3E-1.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>name of defendant</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>name of plaintiff</i>}"
+    field: TODO
+  - token: p004
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “General Denial,” ch. 3-E, §3, p. 182.</i>}'
+    field: TODO
+  - token: p005
+    raw: "{<i>ADD SECTIONS B-M AS APPROPRIATE</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p007
+    raw: '{<i>See FORM 3F:1;</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Plea to the Jurisdiction-Challenging the Court,” ch. 3-F, p. 191.</i>}'
+    field: TODO
+  - token: p008
+    raw: '{<i>For verified pleas, see FORM 3E:9;</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Verified Pleas,” ch. 3-E, §4, p. 182.</i>}'
+    field: TODO
+  - token: p009
+    raw: '{<i>For affirmative defenses, see FORM 3E:10;</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Affirmative Defenses,” ch. 3-E, §5, p. 184.</i>}'
+    field: TODO
+  - token: p010
+    raw: "{<i>Identify cause of action against plaintiff, e.g., plaintiff breached plaintiff’s fiduciary duty to defendant</i>. <i>In separately numbered paragraphs, identify elements and facts supporting the counterclaim.</i>}"
+    field: TODO
+  - token: p011
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Counterclaims,” ch. 3-E, §6.1, p. 188.</i>}'
+    field: TODO
+  - token: p012
+    raw: "{<i>name of co-defendant</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>name of defendant</i>}"
+    field: TODO
+  - token: p014
+    raw: "{<i>identify cause of action against co-defendant</i>}"
+    field: TODO
+  - token: p015
+    raw: "{<i>In separately numbered paragraphs, identify elements and facts supporting the cross-claim.</i>}"
+    field: TODO
+  - token: p016
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Cross-claims,” ch. 3-E, §6.2, p. 189.</i>}'
+    field: TODO
+  - token: p017
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “RTP - unknown criminal,” ch. 3-E, §6.4.3, p. 190.</i>}'
+    field: TODO
+  - token: p018
+    raw: "{<i>John Doe/Jane Doe</i>}"
+    field: TODO
+  - token: p019
+    raw: "{<i>John Doe/Jane Doe</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p021
+    raw: "{<i>Tex. Civ. Prac. &amp; Rem. Code §33.004(j).</i>}"
+    field: TODO
+  - token: p022
+    raw: "{<i>John Doe/Jane Doe</i>}"
+    field: TODO
+  - token: p023
+    raw: "{<i>State sufficient facts to show a reasonable probability the act was criminal.</i>}"
+    field: TODO
+  - token: p024
+    raw: "{<i>Tex. Civ. Prac. &amp; Rem. Code §33.004(j)(1).</i>}"
+    field: TODO
+  - token: p025
+    raw: "{<i>John Doe/Jane Doe</i>}"
+    field: TODO
+  - token: p026
+    raw: "{<i>state all identifying characteristics known when the answer is filed</i>}"
+    field: TODO
+  - token: p027
+    raw: "{<i>Tex. Civ. Prac. &amp; Rem. Code §33.004(j)(2).</i>}"
+    field: TODO
+  - token: p028
+    raw: "{<i>John Doe/Jane Doe</i>}"
+    field: TODO
+  - token: p029
+    raw: "{<i>state sufficient facts about the unknown criminal’s responsibility to satisfy the pleading requirements of the Texas Rules of Civil Procedure</i>}"
+    field: TODO
+  - token: p030
+    raw: "{<i>Tex. Civ. Prac. &amp; Rem. Code §33.004(j)(3).</i>}"
+    field: TODO
+  - token: p031
+    raw: '{<i>See</i> <i class="c5">O’Connor’s COA</i><i>, “Capping Exemplary Damages,” ch. 46-B, §7, p. 1139.</i>}'
+    field: TODO
+  - token: p032
+    raw: "{<i>describe injunctive relief sought</i>}"
+    field: TODO
+  - token: p033
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Respondent’s Response,” ch. 2-C, §8, p. 94.</i>}'
+    field: TODO
+  - token: p034
+    raw: "{<i>CHOOSE APPROPRIATE STATEMENTS</i>}"
+    field: TODO
+  - token: p035
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p036
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Probable right to relief,” ch. 2-C, §4.2.2, p. 88.</i>}'
+    field: TODO
+  - token: p037
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p038
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Probable injury,” ch. 2-C, §4.2.3, p. 88.</i>}'
+    field: TODO
+  - token: p039
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p040
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Inadequate remedy,” ch. 2-C, §4.2.3(3), p. 89.</i>}'
+    field: TODO
+  - token: p041
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p042
+    raw: "{<i>Texas Foundries, Inc. v. International Moulders &amp; Foundry Workers’ Un., 248 S.W.2d 460, 464 (Tex. 1952).</i>}"
+    field: TODO
+  - token: p043
+    raw: "{<i>Transport Co. v. Robertson Transports, Inc., 261 S.W.2d 549, 553-54 (Tex. 1953).</i>}"
+    field: TODO
+  - token: p044
+    raw: "{<i>elaborate</i>}"
+    field: TODO
+  - token: p045
+    raw: "{<i>Elaborate, identifying inequitable conduct, e.g., laches, unclean hands.</i>}"
+    field: TODO
+  - token: p046
+    raw: "{<i>San Miguel v. City of Windcrest, 40 S.W.3d 104, 110 (Tex. App.—San Antonio 2000, no pet.).</i>}"
+    field: TODO
+  - token: p047
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p048
+    raw: "{<i>Office Employees Int’l Un. v. Houston Lighting &amp; Power Co., 314 S.W.2d 315, 325 (Tex. App.—Austin 1958, writ ref. n.r.e.).</i>}"
+    field: TODO
+  - token: p049
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p050
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p051
+    raw: "{<i>identify code, statute, or contract permitting recovery of attorney fees</i>}"
+    field: TODO
+  - token: p052
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p053
+    raw: '{<i>See</i> <i class="c5">O’Connor’s COA</i><i>, “Attorney Fees,” ch. 49, p. 1161;</i> <i class="c5">O’Connor’s COA Pleadings</i><i>, FORMS 49.</i>}'
+    field: TODO
+  - token: p054
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Request for Jury Trial,” ch. 5-B, p. 241.</i>}'
+    field: TODO
+  - token: p055
+    raw: "{<i>number</i>}"
+    field: TODO
+  - token: p056
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Unliquidated damages,” ch. 3-G, §2.2.5, p. 198. For the order on special exceptions, see FORM 3G:2.</i>}'
+    field: TODO
+  - token: p057
+    raw: "{<i>For other special exceptions, see FORM 3G:1.</i>}"
+    field: TODO
+  - token: p058
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Content of request,” ch. 6-D, §3.2, p. 392.</i>}'
+    field: TODO
+  - token: p059
+    raw: "{<i>If defendant asserts claims for affirmative relief, include a request for rendition of judgment on those claims. See FORM 2B:1.</i>}"
+    field: TODO

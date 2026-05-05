@@ -1,0 +1,232 @@
+# Canonical field catalog for Connor's Texas forms questionnaire.
+# Every form manifest references keys defined here.
+# Clients answer each key once per intake session.
+#
+# Field schema:
+#   key:         dotted path, unique. List items use [i] for index.
+#   type:        string | text | date | currency | integer | boolean | enum | set | list
+#   group:       UI grouping for the questionnaire
+#   label:       short human label
+#   helper:      optional explanatory text
+#   enum:        inline list of allowed values (for type: enum or set)
+#   enum_source: file path for large enums (e.g. counties)
+#   when:        condition under which this field is collected
+#   item:        for type: list, the schema of each item
+#
+# This is the v0 seed. Phase 2 will expand it as draft manifests reveal new fields.
+
+# ─── Case caption (Form 1B-2 captures these once per case) ───
+- key: case.court_name
+  type: string
+  group: case
+  label: "Court name"
+  helper: "e.g. 'In the District Court of Travis County, Texas'"
+
+- key: case.county
+  type: enum
+  enum_source: data/texas_counties.yaml
+  group: case
+  label: "County of suit"
+
+- key: case.cause_number
+  type: string
+  group: case
+  label: "Cause / case number"
+
+- key: case.style
+  type: string
+  group: case
+  label: "Case style"
+  helper: "e.g. 'Smith v. Jones' — usually generated from party names"
+
+- key: case.filing_date
+  type: date
+  group: case
+  label: "Filing date"
+
+# ─── Plaintiff(s) ───
+- key: plaintiffs
+  type: list
+  group: parties.plaintiff
+  label: "Plaintiff(s)"
+  item:
+    - { key: name, type: string, label: "Full legal name" }
+    - { key: address, type: string, label: "Address" }
+    - { key: county, type: enum, enum_source: data/texas_counties.yaml, label: "County of residence" }
+    - { key: entity_type, type: enum, enum: [individual, corporation, partnership, association, insurer, joint_stock, governmental], label: "Entity type" }
+    - { key: residency, type: enum, enum: [resident, nonresident], label: "Texas resident?" }
+
+# ─── Defendant(s) ───
+- key: defendants
+  type: list
+  group: parties.defendant
+  label: "Defendant(s)"
+  item:
+    - { key: name, type: string, label: "Full legal name" }
+    - { key: address, type: string, label: "Address (place of business or abode)" }
+    - { key: address_kind, type: enum, enum: [business, abode], label: "Address kind" }
+    - { key: county, type: enum, enum_source: data/texas_counties.yaml, label: "County of residence/business" }
+    - { key: entity_type, type: enum, enum: [individual, corporation, partnership, association, insurer, joint_stock, governmental], label: "Entity type" }
+    - { key: residency, type: enum, enum: [resident, nonresident], label: "Texas resident?" }
+    - { key: registered_agent_name, type: string, label: "Registered agent name", when: { entity_type: corporation } }
+    - { key: dba, type: string, label: "Doing-business-as name (if any)" }
+
+# ─── Attorney / counsel of record ───
+- key: attorney.name
+  type: string
+  group: attorney
+  label: "Attorney name"
+- key: attorney.bar_number
+  type: string
+  group: attorney
+  label: "State Bar number"
+- key: attorney.firm
+  type: string
+  group: attorney
+  label: "Firm name"
+- key: attorney.address
+  type: string
+  group: attorney
+  label: "Firm address"
+- key: attorney.phone
+  type: string
+  group: attorney
+  label: "Phone"
+- key: attorney.email
+  type: string
+  group: attorney
+  label: "Email"
+- key: attorney.fax
+  type: string
+  group: attorney
+  label: "Fax (if any)"
+
+# ─── Contract / breach-of-contract claim ───
+- key: contract.has_claim
+  type: boolean
+  group: contract
+  label: "Is this a breach-of-contract matter?"
+
+- key: contract.date
+  type: date
+  group: contract
+  label: "Date of contract"
+  when: { contract.has_claim: true }
+
+- key: contract.plaintiff_obligations
+  type: text
+  group: contract
+  label: "Plaintiff's contractual obligations"
+  when: { contract.has_claim: true }
+
+- key: contract.defendant_obligations
+  type: text
+  group: contract
+  label: "Defendant's contractual obligations"
+  when: { contract.has_claim: true }
+
+- key: contract.unperformed_obligations
+  type: text
+  group: contract
+  label: "Obligations the defendant failed to perform"
+  when: { contract.has_claim: true }
+
+- key: contract.remedy_choice
+  type: enum
+  enum: [perform_and_pay, rescind, cancel, reform]
+  group: contract
+  label: "Remedy sought"
+  when: { contract.has_claim: true }
+
+- key: contract.amount_due
+  type: currency
+  group: contract
+  label: "Amount due under the contract"
+  when: { contract.has_claim: true }
+
+- key: contract.notice_response_days
+  type: integer
+  group: contract
+  label: "Days to respond to demand notice (must be >= 30)"
+  when: { contract.has_claim: true }
+
+# ─── Damages ───
+- key: damages.actual_amount
+  type: currency
+  group: damages
+  label: "Actual damages claimed"
+
+- key: damages.exemplary.requested
+  type: boolean
+  group: damages
+  label: "Are exemplary (punitive) damages sought?"
+
+- key: damages.exemplary.basis
+  type: set
+  enum: [gross_negligence, malice, fraud]
+  group: damages
+  label: "Basis for exemplary damages"
+  when: { damages.exemplary.requested: true }
+
+- key: damages.attorney_fees_amount
+  type: currency
+  group: damages
+  label: "Attorney's fees sought"
+
+# ─── Notice / pre-suit demand ───
+- key: notice.letter_date
+  type: date
+  group: notice
+  label: "Demand-letter date"
+
+- key: notice.letterhead
+  type: text
+  group: notice
+  label: "Letterhead block (firm name + address as it appears on letterhead)"
+
+# ─── Narrative / facts ───
+- key: facts.narrative
+  type: text
+  group: narrative
+  label: "Statement of facts supporting the cause of action"
+
+- key: venue.basis
+  type: text
+  group: venue
+  label: "Venue basis (why this county is proper)"
+
+# ─── Jury / trial ───
+- key: jury.demanded
+  type: boolean
+  group: trial
+  label: "Is a jury demanded?"
+
+# ─── Certificate of conference ───
+- key: conference.opposing_counsel_name
+  type: string
+  group: conference
+  label: "Opposing counsel name"
+- key: conference.attempts
+  type: list
+  group: conference
+  label: "Conference attempts"
+  item:
+    - { key: date, type: date, label: "Date of attempt" }
+    - { key: time, type: string, label: "Time" }
+    - { key: method, type: enum, enum: [phone, email, in_person, letter], label: "Method" }
+    - { key: outcome, type: enum, enum: [agreed, opposed, no_response], label: "Outcome" }
+- key: conference.agreement
+  type: enum
+  enum: [agreed, opposed]
+  group: conference
+  label: "Did opposing counsel agree?"
+
+# ─── Judge (recusal/disqualification motions) ───
+- key: judge.name
+  type: string
+  group: judge
+  label: "Trial judge's name"
+- key: judge.recusal_grounds
+  type: text
+  group: judge
+  label: "Grounds for recusal/disqualification"

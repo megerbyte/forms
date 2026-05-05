@@ -1,0 +1,80 @@
+form_id: 4A-3
+title: Objection to Court's Referral to ADR
+source: forms/Form_4A-3_Objection_to_Court's_Referral_to_ADR.html
+template: templates/4A-3.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>PARTY</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>state basis of suit</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>1/2/3</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>will end/ended</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p010
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Discovery Control Plans,” ch. 6-A, §7, p. 332.</i>}'
+    field: TODO
+  - token: p011
+    raw: "{<i>All/Most/A significant part/No significant part/None</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>trial/hearing</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p014
+    raw: "{<i>State facts relevant to the objection.</i>}"
+    field: TODO
+  - token: p015
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>CHOOSE APPROPRIATE ARGUMENTS</i>}"
+    field: TODO
+  - token: p017
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “No conference with parties,” ch. 4-A, §4.3.2, p. 217.</i>}'
+    field: TODO
+  - token: p018
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Less than ten days’ notice,” ch. 4-A, §4.3.3, p. 217.</i>}'
+    field: TODO
+  - token: p019
+    raw: "{<i>state how order is overbroad, e.g., it orders parties to negotiate in good faith</i>}"
+    field: TODO
+  - token: p020
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Too broad,” ch. 4-A, §4.3.1, p. 217.</i>}'
+    field: TODO
+  - token: p021
+    raw: "{<i>explain</i>}"
+    field: TODO
+  - token: p022
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Multiple referrals in same case,” ch. 4-A, §4.3.6, p. 217.</i>}'
+    field: TODO
+  - token: p023
+    raw: "{<i>include any other appropriate arguments from FORM 4A:2, §C</i>}"
+    field: TODO
+  - token: p024
+    raw: "{<i>Briefly summarize the objection.</i>}"
+    field: TODO
+  - token: p025
+    raw: "{<i>party</i>}"
+    field: TODO

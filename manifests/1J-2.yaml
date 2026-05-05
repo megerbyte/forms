@@ -1,0 +1,110 @@
+form_id: 1J-2
+title: Objection to Appointment of Master
+source: forms/Form_1J-2_Objection_to_Appointment_of_Master.html
+template: templates/1J-2.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>CHOOSE APPROPRIATE STATEMENT</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>state basis of suit</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>1/2/3</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>will end/ended</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>trial/hearing</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPH 5</i>}"
+    field: TODO
+  - token: p014
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p015
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>describe the details of the requested appointment</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p018
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p019
+    raw: "{<i>describe the details of the appointment</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>State other facts relevant to the objection.</i>}"
+    field: TODO
+  - token: p021
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p022
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPHS 8-11</i>}"
+    field: TODO
+  - token: p023
+    raw: "{<i>Specify why the case is not exceptional and why there is no good cause to appoint a master, e.g., although there have been numerous motions, none of them were particularly complex.</i>}"
+    field: TODO
+  - token: p024
+    raw: "{<i>Specify how the referral order is too broad or nonspecific, e.g., it refers future issues, it confers powers of discovery production without the necessity of a request.</i>}"
+    field: TODO
+  - token: p025
+    raw: "{<i>Name of master</i>}"
+    field: TODO
+  - token: p026
+    raw: "{<i>he/she</i>}"
+    field: TODO
+  - token: p027
+    raw: "{<i>is not a citizen of Texas/is related to one of the parties/is an attorney for one of the parties</i>}"
+    field: TODO
+  - token: p028
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p029
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p030
+    raw: "{<i>him/ her</i>}"
+    field: TODO
+  - token: p031
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p032
+    raw: "{<i>Briefly summarize the objection.</i>}"
+    field: TODO
+  - token: p033
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p034
+    raw: "{<i>CHOOSE APPROPRIATE STATEMENT</i>}"
+    field: TODO
+  - token: p035
+    raw: "{<i>adverse party</i>}"
+    field: TODO

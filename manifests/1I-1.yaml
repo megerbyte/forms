@@ -1,0 +1,140 @@
+form_id: 1I-1
+title: Motion for Guardian Ad Litem
+source: forms/Form_1I-1_Motion_for_Guardian_Ad_Litem.html
+template: templates/1I-1.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p003
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Appointing a Guardian Ad Litem Under TRCP 173,” ch. 1-I, §3, p. 54.</i>}'
+    field: TODO
+  - token: p004
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>state basis of suit</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>Name of incapacitated party</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>plaintiff/defendant/intervenor</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>name of guardian or next friend</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>his/her</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>guardian/next friend</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>Identify any other incapacitated party and her guardian or next friend.</i>}"
+    field: TODO
+  - token: p014
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPH 5</i>}"
+    field: TODO
+  - token: p015
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>name of incapacitated party</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>guardian/next friend</i>}"
+    field: TODO
+  - token: p018
+    raw: "{<i>name of incapacitated party</i>}"
+    field: TODO
+  - token: p019
+    raw: "{<i>name of incapacitated party</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>his/her</i>}"
+    field: TODO
+  - token: p021
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p022
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p023
+    raw: "{<i>name of incapacitated party</i>}"
+    field: TODO
+  - token: p024
+    raw: "{<i>guardian/next friend</i>}"
+    field: TODO
+  - token: p025
+    raw: "{<i>name of incapacitated party</i>}"
+    field: TODO
+  - token: p026
+    raw: "{<i>State facts relevant to the motion.</i>}"
+    field: TODO
+  - token: p027
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p028
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPH 8</i>}"
+    field: TODO
+  - token: p029
+    raw: "{<i>name of incapacitated party</i>}"
+    field: TODO
+  - token: p030
+    raw: "{<i>his/her</i>}"
+    field: TODO
+  - token: p031
+    raw: "{<i>guardian/next friend</i>}"
+    field: TODO
+  - token: p032
+    raw: "{<i>state facts establishing an adverse interest</i>}"
+    field: TODO
+  - token: p033
+    raw: "{<i>name of incapacitated party</i>}"
+    field: TODO
+  - token: p034
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p035
+    raw: "{<i>name of incapacitated party</i>}"
+    field: TODO
+  - token: p036
+    raw: "{<i>his/her</i>}"
+    field: TODO
+  - token: p037
+    raw: "{<i>guardian/next friend</i>}"
+    field: TODO
+  - token: p038
+    raw: "{<i>state facts establishing potential adverse interest</i>}"
+    field: TODO
+  - token: p039
+    raw: "{<i>ADD PARAGRAPH 9 IF APPLICABLE</i>}"
+    field: TODO
+  - token: p040
+    raw: "{<i>Name of incapacitated party</i>}"
+    field: TODO
+  - token: p041
+    raw: "{<i>name of second incapacitated party</i>}"
+    field: TODO
+  - token: p042
+    raw: "{<i>explain</i>}"
+    field: TODO
+  - token: p043
+    raw: "{<i>Briefly summarize the motion.</i>}"
+    field: TODO
+  - token: p044
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p045
+    raw: "{<i>name of incapacitated party</i>}"
+    field: TODO

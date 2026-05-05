@@ -1,0 +1,155 @@
+form_id: 3B-3
+title: Response to Special Appearance
+source: forms/Form_3B-3_Response_to_Special_Appearance.html
+template: templates/3B-3.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>state basis of suit</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p006
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Special Appearance-Challenging Personal Jurisdiction,” ch. 3-B, p. 152.</i>}'
+    field: TODO
+  - token: p007
+    raw: "{<i>State other facts relevant to the response.</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPHS 6-10</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>his/her/its</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>explain how defendant waived special appearance, e.g., filing an answer before filing a special appearance</i>}"
+    field: TODO
+  - token: p011
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Waiver of Special Appearance,” ch. 3-B, §3, p. 156.</i>}'
+    field: TODO
+  - token: p012
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Verification,” ch. 3-B, §2.4, p. 156.</i>}'
+    field: TODO
+  - token: p013
+    raw: "{<i>state what the suit involves</i>}"
+    field: TODO
+  - token: p014
+    raw: "{<i>list defendant’s contacts that played a part in the incident that resulted in the lawsuit</i>}"
+    field: TODO
+  - token: p015
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Specific jurisdiction,” ch. 3-B, §5.4.1(1), p. 158.</i>}'
+    field: TODO
+  - token: p016
+    raw: "{<i>list substantial contacts defendant had with Texas, e.g., made regular sales to Texas companies, has a permanent office in Texas</i>}"
+    field: TODO
+  - token: p017
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “General jurisdiction,” ch. 3-B, §5.4.1(2), p. 159.</i>}'
+    field: TODO
+  - token: p018
+    raw: "{<i>specify why it is fair to assert jurisdiction over defendant, e.g., defendant has derived financial benefit from doing business in Texas and has enjoyed the protection of Texas laws</i>}"
+    field: TODO
+  - token: p019
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “No issue of fair play,” ch. 3-B, §5.4.2, p. 159.</i>}'
+    field: TODO
+  - token: p020
+    raw: "{<i>ADD SECTION D IF IN RESPONSE TO SPECIAL APPEARANCE FORM 3B:2</i>}"
+    field: TODO
+  - token: p021
+    raw: "{<i>his/ her/its</i>}"
+    field: TODO
+  - token: p022
+    raw: "{<i>letter</i>}"
+    field: TODO
+  - token: p023
+    raw: "{<i>himself/herself/itself</i>}"
+    field: TODO
+  - token: p024
+    raw: "{<i>Elaborate, showing how, when, and where the nonresident made itself subject to the jurisdiction of Texas courts.</i>}"
+    field: TODO
+  - token: p025
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Amend petition,” ch. 3-B, §5.1, p. 158.</i>}'
+    field: TODO
+  - token: p026
+    raw: "{<i>ADD SECTION E IF APPLICABLE</i>}"
+    field: TODO
+  - token: p027
+    raw: "{<i>his/her/its</i>}"
+    field: TODO
+  - token: p028
+    raw: "{<i>letter</i>}"
+    field: TODO
+  - token: p029
+    raw: "{<i>his/her/its</i>}"
+    field: TODO
+  - token: p030
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Continuance,” ch. 3-B, §7, p. 159.</i>}'
+    field: TODO
+  - token: p031
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPH 13</i>}"
+    field: TODO
+  - token: p032
+    raw: "{<i>take the deposition of/secure an affidavit from</i>}"
+    field: TODO
+  - token: p033
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p034
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p035
+    raw: "{<i>deposition/affidavit</i>}"
+    field: TODO
+  - token: p036
+    raw: "{<i>state facts plaintiff intends to prove</i>}"
+    field: TODO
+  - token: p037
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Description of necessary evidence,” ch. 5-D, §8.1, p. 256.</i>}'
+    field: TODO
+  - token: p038
+    raw: "{<i>describe other form of discovery</i>}"
+    field: TODO
+  - token: p039
+    raw: "{<i>describe form of discovery</i>}"
+    field: TODO
+  - token: p040
+    raw: "{<i>state facts plaintiff intends to prove</i>}"
+    field: TODO
+  - token: p041
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Description of necessary evidence,” ch. 5-D, §8.1, p. 256.</i>}'
+    field: TODO
+  - token: p042
+    raw: "{<i>identify issue relating to the special appearance</i>}"
+    field: TODO
+  - token: p043
+    raw: "{<i>state why</i>}"
+    field: TODO
+  - token: p044
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Materiality,” ch. 5-D, §8.2, p. 257.</i>}'
+    field: TODO
+  - token: p045
+    raw: "{<i>testimony/evidence</i>}"
+    field: TODO
+  - token: p046
+    raw: "{<i>he/she/it</i>}"
+    field: TODO
+  - token: p047
+    raw: "{<i>Summarize discovery attempts demonstrating diligence. If known, state why discovery attempts did not secure evidence.</i>}"
+    field: TODO
+  - token: p048
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Diligence,” ch. 5-D, §8.3, p. 257.</i>}'
+    field: TODO
+  - token: p049
+    raw: "{<i>Add appropriate paragraphs 14-19 from FORM 5D:1.</i>}"
+    field: TODO
+  - token: p050
+    raw: "{<i>add if applicable: or, in the alternative, grant plaintiff’s request for a continuance to conduct additional discovery and collect affidavits</i>}"
+    field: TODO

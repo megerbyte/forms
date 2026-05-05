@@ -1,0 +1,73 @@
+form_id: 6I-1
+title: Medical Authorization Form
+source: forms/Form_6I-1_Medical_Authorization_Form.html
+template: templates/6I-1.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>Name of patient</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>Address</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>City, state, zip code</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>Date of birth</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>Social security number</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPH 1</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>For hospital records under Texas Health &amp; Safety Code §241.152</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>name of patient or legally authorized representative</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>name of person authorized to obtain records</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>For other medical records</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>name of patient or legally authorized representative</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>name of person authorized to obtain records</i>}"
+    field: TODO
+  - token: p014
+    raw: "{<i>name of person authorized to obtain records</i>}"
+    field: TODO
+  - token: p015
+    raw: "{<i>name of patient</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>name of patient</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>name of patient</i>}"
+    field: TODO
+  - token: p018
+    raw: "{<i>name of patient</i>}"
+    field: TODO
+  - token: p019
+    raw: '{<i>See</i> <i class="c6">O’Connor’s Texas Rules</i><i>, “No ex parte discovery,” ch. 6-I, §3.2.2, p. 450.</i>}'
+    field: TODO
+  - token: p020
+    raw: "{<i>specify time period,</i> <i>e.g., until January 3, 2005, until the 180th day after the date it is signed, from the date of the accident through date of last treatment</i>}"
+    field: TODO
+  - token: p021
+    raw: '{<i>See</i> <i class="c6">O’Connor’s Texas Rules</i><i>, “Medical authorization,” ch. 6-I, §3.2, p. 450.</i>}'
+    field: TODO
+  - token: p022
+    raw: |-
+      {<i>Name of patient or legally<br>
+        authorized representative</i>}
+    field: TODO

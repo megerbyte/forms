@@ -1,0 +1,74 @@
+form_id: 3B-1
+title: Special Appearance — Allegations of Minimum Contacts
+source: forms/Form_3B-1_Special_Appearance_-_Allegations_of_Minimum_Contacts.html
+template: templates/3B-1.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>his/her/its</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>state basis of suit</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>an individual/a corporation</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>reside/do business</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>resides/does business</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>identify state</i>}"
+    field: TODO
+  - token: p010
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Special Appearance-Challenging Personal Jurisdiction,” ch. 3-B, p. 152.</i>}'
+    field: TODO
+  - token: p011
+    raw: "{<i>State other facts relevant to the special appearance.</i>}"
+    field: TODO
+  - token: p012
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “No minimum contacts,” ch. 3-B, §2.3.2, p. 153.</i>}'
+    field: TODO
+  - token: p013
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPHS 8-9</i>}"
+    field: TODO
+  - token: p014
+    raw: "{<i>his/her/its</i>}"
+    field: TODO
+  - token: p015
+    raw: "{<i>state how action arose and why defendant had no purposeful contacts with Texas that give rise to specific jurisdiction</i>}"
+    field: TODO
+  - token: p016
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Specific jurisdiction,” ch. 3-B, §2.3.2(1), p. 153.</i>}'
+    field: TODO
+  - token: p017
+    raw: "{<i>If defendant had contacts with Texas, identify the contacts and explain why they are neither systematic nor continuous. If defendant had no contacts with Texas, describe the lack of contacts with Texas, e.g., defendant has not traveled to Texas, defendant has no place of business in Texas, defendant has not taken any other action that would put defendant on notice that defendant is subject to the call of a Texas court.</i>}"
+    field: TODO
+  - token: p018
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “General jurisdiction,” ch. 3-B, §2.3.2(2), p. 154.</i>}'
+    field: TODO
+  - token: p019
+    raw: "{<i>his/her/its</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>state how notions of fair play and substantial justice would be offended, analyzing each of the following factors: (1) the burden on defendant, (2) the interests of the forum state in adjudicating the dispute, (3) the plaintiff’s interest in obtaining convenient and effective relief, (4) the interstate judicial system’s interest in obtaining the most efficient resolution of controversies, and (5) the shared interest of the states in furthering fundamental social policies</i>}"
+    field: TODO
+  - token: p021
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Exercise of jurisdiction unfair,” ch. 3-B, §2.3.3, p. 156.</i>}'
+    field: TODO
+  - token: p022
+    raw: "{<i>his/her/its</i>}"
+    field: TODO
+  - token: p023
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Request hearing,” ch. 3-B, §2.6, p. 156.</i>}'
+    field: TODO

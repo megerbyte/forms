@@ -1,0 +1,110 @@
+form_id: 2I-5
+title: Motion to Dismiss Indigent's Suit
+source: forms/Form_2I-5_Motion_to_Dismiss_Indigent's_Suit.html
+template: templates/2I-5.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Contesting the Affidavit,” ch. 2-I, §7, p. 143.</i>}'
+    field: TODO
+  - token: p003
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>state basis of suit</i>}"
+    field: TODO
+  - token: p006
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Affidavit of Indigence,” ch. 2-I, §3, p. 140.</i>}'
+    field: TODO
+  - token: p007
+    raw: "{<i>State other facts relevant to the motion.</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>plaintiff’s allegations of poverty/the timeliness of the filing of plaintiff’s claim/that the suit has any arguable basis in fact/that the suit has any arguable basis in law</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPH 7</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>Suit filed by indigent who is not an inmate</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p012
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Not indigent,” ch. 2-I, §5.4.1, p. 142.</i>}'
+    field: TODO
+  - token: p013
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p014
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “No arguable basis,” ch. 2-I, §5.4.2, p. 142.</i>}'
+    field: TODO
+  - token: p015
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p016
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Hearing,” ch. 2-I, §5.1, p. 142; “No arguable basis,” ch. 2-I, §5.4.2, p. 142.</i>}'
+    field: TODO
+  - token: p017
+    raw: "{<i>Suit filed by indigent who is an inmate</i>}"
+    field: TODO
+  - token: p018
+    raw: "{<i>affidavit/unsworn declaration</i>}"
+    field: TODO
+  - token: p019
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p020
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Not indigent,” ch. 2-I, §5.4.1, p. 142.</i>}'
+    field: TODO
+  - token: p021
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p022
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “No arguable basis,” ch. 2-I, §5.4.2, p. 142.</i>}'
+    field: TODO
+  - token: p023
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p024
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Hearing,” ch. 2-I, §5.1, p. 142; “No arguable basis,” ch. 2-I, §5.4.2, p. 142.</i>}'
+    field: TODO
+  - token: p025
+    raw: "{<i>affidavit/unsworn declaration</i>}"
+    field: TODO
+  - token: p026
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p027
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Inmate - false filing,” ch. 2-I, §5.4.3, p. 142.</i>}'
+    field: TODO
+  - token: p028
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p029
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Inmate - substantially similar claim,” ch. 2-I, §5.4.4, p. 142.</i>}'
+    field: TODO
+  - token: p030
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p031
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Inmate - untimely claim,” ch. 2-I, §5.4.5, p. 142.</i>}'
+    field: TODO
+  - token: p032
+    raw: "{<i>Briefly summarize the motion.</i>}"
+    field: TODO
+  - token: p033
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPH 9</i>}"
+    field: TODO
+  - token: p034
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Hearing,” ch. 2-I, §5.1, p. 142.</i>}'
+    field: TODO
+  - token: p035
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Hearing,” ch. 2-I, §5.1, p. 142.</i>}'
+    field: TODO

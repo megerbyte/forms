@@ -1,0 +1,275 @@
+form_id: 6H-3
+title: Request for Production — Standard Responses
+source: forms/Form_6H-3_Request_for_Production_-_Standard_Responses.html
+template: templates/6H-3.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>PARTY</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>Adverse party</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>his/her/its</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p011
+    raw: '{<i>See</i> <i class="c6">O’Connor’s Texas Rules</i><i>, “Procedure to respond,” ch. 6-H, §3.3, p. 441; “Contents of response,” ch. 6-H, §3.4, p. 442.</i>}'
+    field: TODO
+  - token: p012
+    raw: "{<i>Repeat request.</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>CHOOSE APPROPRIATE RESPONSE</i>}"
+    field: TODO
+  - token: p014
+    raw: "{<i>identify requested action, e.g., production, inspection</i>}"
+    field: TODO
+  - token: p015
+    raw: '{<i>See</i> <i class="c6">O’Connor’s Texas Rules</i><i>, “Party will comply,” ch. 6-H, §3.4.1, p. 442.</i>}'
+    field: TODO
+  - token: p016
+    raw: "{<i>documents/tangible things</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>Provide a list of the documents or other items produced. If documents bear litigation numbers, provide them in the response. The documents must be organized as they are kept in the usual course of business or organized and labeled to correspond to the request.</i>}"
+    field: TODO
+  - token: p018
+    raw: '{<i>See</i> <i class="c6">O’Connor’s Texas Rules</i><i>, “Party will comply,” ch. 6-H, §3.4.1, p. 442.</i>}'
+    field: TODO
+  - token: p019
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p021
+    raw: "{<i>identify time and date</i>}"
+    field: TODO
+  - token: p022
+    raw: "{<i>identify location</i>}"
+    field: TODO
+  - token: p023
+    raw: '{<i>See</i> <i class="c6">O’Connor’s Texas Rules</i><i>, “Objection to method of compliance,” ch. 6-H, §3.4.2(2), p. 442.</i>}'
+    field: TODO
+  - token: p024
+    raw: '{<i>See</i> <i class="c6">O’Connor’s Texas Rules</i><i>, “Contents of response,” ch. 6-H, §3.4, p. 442.</i>}'
+    field: TODO
+  - token: p025
+    raw: "{<i>electronic/magnetic</i>}"
+    field: TODO
+  - token: p026
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p027
+    raw: "{<i>his/her/its</i>}"
+    field: TODO
+  - token: p028
+    raw: "{<i>Provide a list of the data produced in the form specified by the request.</i>}"
+    field: TODO
+  - token: p029
+    raw: '{<i>See</i> <i class="c6">O’Connor’s Texas Rules</i><i>, “Electronic or magnetic data,” ch. 6-H, §3.4.1(3), p. 442.</i>}'
+    field: TODO
+  - token: p030
+    raw: "{<i>identify privilege</i>}"
+    field: TODO
+  - token: p031
+    raw: '{<i>See</i> <i class="c6">O’Connor’s Texas Rules</i><i>, “Withholding statement,” ch. 6-A, §2.6, p. 328; “Party asserts privileges,” ch. 6-H, §3.4.4, p. 443.</i>}'
+    field: TODO
+  - token: p032
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p033
+    raw: "{<i>state ground for objection</i>}"
+    field: TODO
+  - token: p034
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p035
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p036
+    raw: "{<i>number</i>}"
+    field: TODO
+  - token: p037
+    raw: "{<i>identify substance of request, e.g., criminal activity reports for last 20 years for all of defendant’s stores</i>}"
+    field: TODO
+  - token: p038
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p039
+    raw: "{<i>ADD ONE OF THE FOLLOWING</i>}"
+    field: TODO
+  - token: p040
+    raw: "{<i>number</i>}"
+    field: TODO
+  - token: p041
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p042
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p043
+    raw: "{<i>identify limit of compliance, e.g., the criminal activity reports for the last 5 years for the store where plaintiff was assaulted</i>}"
+    field: TODO
+  - token: p044
+    raw: '{<i>See</i> <i class="c6">O’Connor’s Texas Rules</i><i>, “Partial compliance necessary,” ch. 6-A, §17.10.1, p. 347.</i>}'
+    field: TODO
+  - token: p045
+    raw: "{<i>number</i>}"
+    field: TODO
+  - token: p046
+    raw: "{<i>Explain why it is unreasonable, e.g., the request requires a search of thousands of records.</i>}"
+    field: TODO
+  - token: p047
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p048
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p049
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p050
+    raw: '{<i>See</i> <i class="c6">O’Connor’s Texas Rules</i><i>, “No compliance necessary,” ch. 6-A, §17.10.2, p. 347.</i>}'
+    field: TODO
+  - token: p051
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p052
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p053
+    raw: '{<i>See</i> <i class="c6">O’Connor’s Texas Rules</i><i>, “Electronic or magnetic data,” ch. 6-H, §3.4.1(3), p. 442.</i>}'
+    field: TODO
+  - token: p054
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p055
+    raw: "{<i>he/she/it</i>}"
+    field: TODO
+  - token: p056
+    raw: "{<i>retrieve the data requested/produce the data in the form requested</i>}"
+    field: TODO
+  - token: p057
+    raw: '{<i>See</i> <i class="c6">O’Connor’s Texas Rules</i><i>, “Electronic or magnetic data,” ch. 6-H, §3.4.1(3), p. 442.</i>}'
+    field: TODO
+  - token: p058
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p059
+    raw: "{<i>time/place/time and place</i>}"
+    field: TODO
+  - token: p060
+    raw: "{<i>identify requested action, e.g., production, inspection, copying</i>}"
+    field: TODO
+  - token: p061
+    raw: "{<i>time/place/time and place</i>}"
+    field: TODO
+  - token: p062
+    raw: "{<i>time/place/time and place</i>}"
+    field: TODO
+  - token: p063
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p064
+    raw: "{<i>state alternative time and place for discovery</i>}"
+    field: TODO
+  - token: p065
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p066
+    raw: "{<i>identify discovery request</i>}"
+    field: TODO
+  - token: p067
+    raw: "{<i>state alternative time and place for discovery</i>}"
+    field: TODO
+  - token: p068
+    raw: '{<i>See</i> <i class="c6">O’Connor’s Texas Rules</i><i>, “Objection to time &amp; place,” ch. 6-H, §3.4.2(1), p. 442.</i>}'
+    field: TODO
+  - token: p069
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p070
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p071
+    raw: "{<i>identify other form of discovery</i>}"
+    field: TODO
+  - token: p072
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p073
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p074
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p075
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p076
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p077
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p078
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p079
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p080
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p081
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p082
+    raw: "{<i>inspect/test/sample</i>}"
+    field: TODO
+  - token: p083
+    raw: "{<i>identify items for inspection, testing, or sampling</i>}"
+    field: TODO
+  - token: p084
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p085
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p086
+    raw: "{<i>inspection/testing/ sampling</i>}"
+    field: TODO
+  - token: p087
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p088
+    raw: "{<i>identify items for inspection, testing, or sampling</i>}"
+    field: TODO
+  - token: p089
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p090
+    raw: '{<i>See</i> <i class="c6">O’Connor’s Texas Rules</i><i>, “Destruction by testing,” ch. 6-H, §3.4.3(1), p. 443.</i>}'
+    field: TODO

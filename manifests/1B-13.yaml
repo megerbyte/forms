@@ -1,0 +1,104 @@
+form_id: 1B-13
+title: Vexatious Litigant — Motion
+source: forms/Form_1B-13_Vexatious_Litigant_-_Motion.html
+template: templates/1B-13.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>state basis of suit</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>his/her/its</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>original answer/special appearance</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>State other facts relevant to the motion.</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>his/her/its</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>state specific reasons</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPHS 7-9</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>commenced/prosecuted/maintained</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>CHOOSE APPROPRIATE STATEMENT</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>number</i>}"
+    field: TODO
+  - token: p014
+    raw: "{<i>Identify the cause number, style, court, county, and date of filing for each case.</i>}"
+    field: TODO
+  - token: p015
+    raw: "{<i>number</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>Identify the cause number, style, court, county, and date of filing for each case.</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>number</i>}"
+    field: TODO
+  - token: p018
+    raw: "{<i>a trial/an appeals</i>}"
+    field: TODO
+  - token: p019
+    raw: "{<i>frivolous/groundless</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>state laws/federal laws/the rules of procedure</i>}"
+    field: TODO
+  - token: p021
+    raw: "{<i>Identify the cause number, style, court, county, and date of filing for each case.</i>}"
+    field: TODO
+  - token: p022
+    raw: "{<i>has repeatedly relitigated/is attempting to relitigate</i>}"
+    field: TODO
+  - token: p023
+    raw: "{<i>CHOOSE APPROPRIATE STATEMENT</i>}"
+    field: TODO
+  - token: p024
+    raw: "{<i>Identify the cause number, style, court, county, and date of filing for the earlier case.</i>}"
+    field: TODO
+  - token: p025
+    raw: "{<i>cause of action/claim/controversy/issues of fact/issues of law</i>}"
+    field: TODO
+  - token: p026
+    raw: "{<i>Identify the cause number, style, court, county, and date of filing for the earlier case.</i>}"
+    field: TODO
+  - token: p027
+    raw: "{<i>state/federal</i>}"
+    field: TODO
+  - token: p028
+    raw: "{<i>an action/a proceeding</i>}"
+    field: TODO
+  - token: p029
+    raw: "{<i>facts/transactions/occurrences</i>}"
+    field: TODO
+  - token: p030
+    raw: "{<i>Identify the cause number, style, court, county, and date of filing of other case.</i>}"
+    field: TODO
+  - token: p031
+    raw: "{<i>state basis for determining that plaintiff is a vexatious litigant</i>}"
+    field: TODO
+  - token: p032
+    raw: "{<i>amount</i>}"
+    field: TODO
+  - token: p033
+    raw: "{<i>amount</i>}"
+    field: TODO

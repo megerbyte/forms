@@ -1,0 +1,146 @@
+form_id: 3H-2
+title: Motion to Abate or Stay — Same Dispute in Another Forum
+source: forms/Form_3H-2_Motion_to_Abate_or_Stay_-_Same_Dispute_in_Another_Forum.html
+template: templates/3H-2.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>abate/stay</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>current</i>}"
+    field: TODO
+  - token: p004
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Types of Motions to Abate,” ch. 3-H, §§3.2-3.6, pp. 207-08.</i>}'
+    field: TODO
+  - token: p005
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>state basis of suit</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>abate/stay</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPH 4</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>state basis of suit</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>identify other forum</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>identify cause number</i>}"
+    field: TODO
+  - token: p014
+    raw: "{<i>letter</i>}"
+    field: TODO
+  - token: p015
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>identify other forum</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>name of administrative agency</i>}"
+    field: TODO
+  - token: p018
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p019
+    raw: "{<i>identify statute under which administrative proceeding was commenced</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>identify proceeding number</i>}"
+    field: TODO
+  - token: p021
+    raw: "{<i>letter</i>}"
+    field: TODO
+  - token: p022
+    raw: "{<i>identify document from agency, e.g., complaint, request, notice</i>}"
+    field: TODO
+  - token: p023
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p024
+    raw: "{<i>name of administrative agency</i>}"
+    field: TODO
+  - token: p025
+    raw: "{<i>State other facts relevant to the motion.</i>}"
+    field: TODO
+  - token: p026
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPH 8</i>}"
+    field: TODO
+  - token: p027
+    raw: "{<i>other</i>}"
+    field: TODO
+  - token: p028
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>,</i> <i>“Abate - same dispute in another Texas court,” ch. 3-H, §3.2, p. 207.</i>}'
+    field: TODO
+  - token: p029
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Stay - same dispute in federal court,” ch. 3-H, §3.6, p. 208.</i>}'
+    field: TODO
+  - token: p030
+    raw: "{<i>other state</i>}"
+    field: TODO
+  - token: p031
+    raw: "{<i>other state</i>}"
+    field: TODO
+  - token: p032
+    raw: "{<i>other state</i>}"
+    field: TODO
+  - token: p033
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Stay - same dispute in another state’s court,” ch. 3-H, §3.5, p. 208.</i>}'
+    field: TODO
+  - token: p034
+    raw: "{<i>name of administrative agency</i>}"
+    field: TODO
+  - token: p035
+    raw: "{<i>identify statute</i>}"
+    field: TODO
+  - token: p036
+    raw: "{<i>name of administrative agency</i>}"
+    field: TODO
+  - token: p037
+    raw: "{<i>name of administrative agency</i>}"
+    field: TODO
+  - token: p038
+    raw: "{<i>name of administrative agency</i>}"
+    field: TODO
+  - token: p039
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p040
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Abate - administrative agency has primary jurisdiction,” ch. 3-H, §3.4, p. 208.</i>}'
+    field: TODO
+  - token: p041
+    raw: "{<i>Elaborate on argument, applying the facts to the law.</i>}"
+    field: TODO
+  - token: p042
+    raw: "{<i>identify other forum</i>}"
+    field: TODO
+  - token: p043
+    raw: "{<i>identify other forum</i>}"
+    field: TODO
+  - token: p044
+    raw: "{<i>abate/stay</i>}"
+    field: TODO
+  - token: p045
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Hearing,” ch. 3-H, §5, p. 209.</i>}'
+    field: TODO
+  - token: p046
+    raw: "{<i>abate/stay</i>}"
+    field: TODO
+  - token: p047
+    raw: "{<i>abate/stay</i>}"
+    field: TODO

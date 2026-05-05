@@ -1,0 +1,128 @@
+form_id: 2B-20
+title: Jurisdiction
+source: forms/Form_2B-20_Jurisdiction.html
+template: templates/2B-20.html
+placeholders:
+  - token: p001
+    raw: "{<i>CHOOSE APPROPRIATE JURISDICTION ALLEGATION</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>Amount-in-controversy jurisdiction</i>}"
+    field: TODO
+  - token: p003
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Subject-matter jurisdiction,” ch. 2-B, §4.2, p. 77.</i>}'
+    field: TODO
+  - token: p004
+    raw: "{<i>If cause of action is statutory</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>identify statutory provision giving court jurisdiction, e.g., for wrongful-death action, Texas Civil Practice &amp; Remedies Code section 71.002</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>Explain why the statute gives the court jurisdiction over the lawsuit.</i>}"
+    field: TODO
+  - token: p007
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Statutory claims,” ch. 2-B, §4.2.2, p. 78.</i>}'
+    field: TODO
+  - token: p008
+    raw: "{<i>For in-personam jurisdiction</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>himself/herself/itself</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>CHOOSE APPROPRIATE BASIS</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>identify method of contracting, e.g., mail</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>to be performed/performed</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>plaintiff/defendant/both parties</i>}"
+    field: TODO
+  - token: p014
+    raw: "{<i>Elaborate, identifying date of contract, parties to contract, place of performance in Texas, and date of performance.</i>}"
+    field: TODO
+  - token: p015
+    raw: '{<i>See</i> <i>Tex. Civ. Prac. &amp; Rem. Code §17.042(1);</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Statutory claims,” ch. 2-B, §4.2.2, p. 78.</i>}'
+    field: TODO
+  - token: p016
+    raw: "{<i>Elaborate, identifying type of tort, date, and place.</i>}"
+    field: TODO
+  - token: p017
+    raw: '{<i>See</i> <i>Tex. Civ. Prac. &amp; Rem. Code §17.042(2);</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Statutory claims,” ch. 2-B, §4.2.2, p. 78.</i>}'
+    field: TODO
+  - token: p018
+    raw: "{<i>directly/through an intermediary located in Texas</i>}"
+    field: TODO
+  - token: p019
+    raw: "{<i>in/outside</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>Elaborate, identifying actions that occurred in Texas and the dates and places of those actions.</i>}"
+    field: TODO
+  - token: p021
+    raw: '{<i>See</i> <i>Tex. Civ. Prac. &amp; Rem. Code §17.042(3);</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Statutory claims,” ch. 2-B, §4.2.2, p. 78.</i>}'
+    field: TODO
+  - token: p022
+    raw: "{<i>Elaborate, identifying actions that occurred in Texas and the dates and places of those actions.</i>}"
+    field: TODO
+  - token: p023
+    raw: '{<i>See Tex. Civ. Prac. &amp; Rem. Code §17.062;</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Statutory claims,” ch. 2-B, §4.2.2, p. 78.</i>}'
+    field: TODO
+  - token: p024
+    raw: "{<i>make other allegation of defendant’s acts that constitute doing business, that occurred in Texas, and that support either specific or general in personam jurisdiction over defendant</i>}"
+    field: TODO
+  - token: p025
+    raw: "{<i>Elaborate, identifying actions that occurred in Texas and the dates and places of those actions.</i>}"
+    field: TODO
+  - token: p026
+    raw: '{<i>See Tex. Civ. Prac. &amp; Rem. Code §17.042;</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Statutory claims,” ch. 2-B, §4.2.2, p. 78.</i>}'
+    field: TODO
+  - token: p027
+    raw: "{<i>In TTCA suit</i>}"
+    field: TODO
+  - token: p028
+    raw: "{<i>identify governmental unit</i>}"
+    field: TODO
+  - token: p029
+    raw: "{<i>personal injury/death/property damage</i>}"
+    field: TODO
+  - token: p030
+    raw: "{<i>describe act or omission causing injury</i>}"
+    field: TODO
+  - token: p031
+    raw: "{<i>Tex. Civ. Prac. &amp; Rem. Code §101.021.</i>}"
+    field: TODO
+  - token: p032
+    raw: "{<i>Explain why the government’s sovereign immunity was waived.</i>}"
+    field: TODO
+  - token: p033
+    raw: '{<i>See</i> <i class="c3">O’Connor’s COA</i><i>, “Texas Tort Claims Act-Negligence,” ch. 24, p. 705; “Texas Tort Claims Act-Premises,” ch. 25, p. 753;</i> <i class="c3">O’Connor’s COA Pleadings</i><i>, FORMS 24, 25.</i>}'
+    field: TODO
+  - token: p034
+    raw: "{<i>In other suits against government</i>}"
+    field: TODO
+  - token: p035
+    raw: "{<i>identify governmental unit</i>}"
+    field: TODO
+  - token: p036
+    raw: "{<i>identify statutory provision giving court jurisdiction</i>}"
+    field: TODO
+  - token: p037
+    raw: "{<i>Explain facts in the case that involve the waiver.</i>}"
+    field: TODO
+  - token: p038
+    raw: '{<i>See</i> <i class="c3">O’Connor’s COA</i><i>, “Suits Against the Government,” ch. 23, p. 661;</i> <i class="c3">O’Connor’s COA Pleadings</i><i>, FORMS 23.</i>}'
+    field: TODO
+  - token: p039
+    raw: "{<i>If suit is not removable</i>}"
+    field: TODO
+  - token: p040
+    raw: "{<i>identify statute making suit nonremovable, e.g., 28 U.S.C. §1445(a), 45 U.S.C. §§51-60</i>}"
+    field: TODO
+  - token: p041
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Nonremovable claim,” ch. 2-B, §4.3, p. 78.</i>}'
+    field: TODO

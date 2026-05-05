@@ -1,0 +1,230 @@
+form_id: 2B-12
+title: Parties — Defendant, Resident Partnership, Association
+source: forms/Form_2B-12_Parties_-_Defendant,_Resident_Partnership,_Association.html
+template: templates/2B-12.html
+placeholders:
+  - token: p001
+    raw: "{<i>CHOOSE APPROPRIATE DESIGNATION</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>Partnership</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p005
+    raw: "{_______}"
+    field: TODO
+  - token: p006
+    raw: "{<i>Name of partner</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p008
+    raw: "{_______}"
+    field: TODO
+  - token: p009
+    raw: "{<i>Continue to name partners until all are identified by name and address.</i>}"
+    field: TODO
+  - token: p010
+    raw: '{<i>See Tex. Civ. Prac. &amp; Rem. Code §§17.022, 31.003;</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Partnership,” ch. 2-H, §2.6.2, p. 126.</i>}'
+    field: TODO
+  - token: p011
+    raw: "{<i>name 1</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>an office/a place of business/an agency for transacting business in this state</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p014
+    raw: "{_______}"
+    field: TODO
+  - token: p015
+    raw: "{<i>agent/ clerk</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>name 2</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>office/place of business/ agency</i>}"
+    field: TODO
+  - token: p018
+    raw: "{<i>grows out of/is connected with</i>}"
+    field: TODO
+  - token: p019
+    raw: "{<i>is not a resident of the county where the suit arose/is not a resident of Texas/is a resident of the county where the suit arose but has not been found for service of process</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>Tex. Civ. Prac. &amp; Rem. Code §17.021(a).</i>}"
+    field: TODO
+  - token: p021
+    raw: "{<i>Unincorporated association</i>}"
+    field: TODO
+  - token: p022
+    raw: "{<i>name 1</i>}"
+    field: TODO
+  - token: p023
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p024
+    raw: "{_______}"
+    field: TODO
+  - token: p025
+    raw: "{<i>assumed/common</i>}"
+    field: TODO
+  - token: p026
+    raw: "{<i>name 2</i>}"
+    field: TODO
+  - token: p027
+    raw: "{<i>president/secretary/treasurer/general agent</i>}"
+    field: TODO
+  - token: p028
+    raw: "{<i>name 3</i>}"
+    field: TODO
+  - token: p029
+    raw: "{<i>Tex. Rev. Civ. Stat. art. 6134.</i>}"
+    field: TODO
+  - token: p030
+    raw: "{<i>name 1</i>}"
+    field: TODO
+  - token: p031
+    raw: "{<i>an office/a place of business/an agency for transacting business in this state</i>}"
+    field: TODO
+  - token: p032
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p033
+    raw: "{_______}"
+    field: TODO
+  - token: p034
+    raw: "{<i>agent/clerk</i>}"
+    field: TODO
+  - token: p035
+    raw: "{<i>name 2</i>}"
+    field: TODO
+  - token: p036
+    raw: "{<i>office/place of business/agency</i>}"
+    field: TODO
+  - token: p037
+    raw: "{<i>grows out of/is connected with</i>}"
+    field: TODO
+  - token: p038
+    raw: "{<i>is not a resident of the county where the suit arose/is not a resident of Texas/is a resident of the county where the suit arose but has not been found for service of process</i>}"
+    field: TODO
+  - token: p039
+    raw: "{<i>Tex. Civ. Prac. &amp; Rem. Code §17.021(a).</i>}"
+    field: TODO
+  - token: p040
+    raw: "{<i>Joint stock association</i>}"
+    field: TODO
+  - token: p041
+    raw: "{<i>name 1</i>}"
+    field: TODO
+  - token: p042
+    raw: "{<i>president/vice president/secretary/treasurer/cashier/assistant cashier</i>}"
+    field: TODO
+  - token: p043
+    raw: "{<i>name 2</i>}"
+    field: TODO
+  - token: p044
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p045
+    raw: "{_______}"
+    field: TODO
+  - token: p046
+    raw: "{<i>Tex. Civ. Prac. &amp; Rem. Code §17.023(a)(1).</i>}"
+    field: TODO
+  - token: p047
+    raw: "{<i>name 1</i>}"
+    field: TODO
+  - token: p048
+    raw: "{<i>name 2</i>}"
+    field: TODO
+  - token: p049
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p050
+    raw: "{_______}"
+    field: TODO
+  - token: p051
+    raw: "{<i>Tex. Civ. Prac. &amp; Rem. Code §17.023(a)(2).</i>}"
+    field: TODO
+  - token: p052
+    raw: "{<i>name 1</i>}"
+    field: TODO
+  - token: p053
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p054
+    raw: "{_______}"
+    field: TODO
+  - token: p055
+    raw: "{<i>Tex. Civ. Prac. &amp; Rem. Code §17.023(a)(3).</i>}"
+    field: TODO
+  - token: p056
+    raw: "{<i>name 1</i>}"
+    field: TODO
+  - token: p057
+    raw: "{<i>name 2</i>}"
+    field: TODO
+  - token: p058
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p059
+    raw: "{_______}"
+    field: TODO
+  - token: p060
+    raw: "{<i>Tex. Civ. Prac. &amp; Rem. Code §17.023(b).</i>}"
+    field: TODO
+  - token: p061
+    raw: "{<i>Unincorporated joint stock company or association</i>}"
+    field: TODO
+  - token: p062
+    raw: "{<i>name 1</i>}"
+    field: TODO
+  - token: p063
+    raw: "{<i>company/association</i>}"
+    field: TODO
+  - token: p064
+    raw: "{<i>president/ secretary/treasurer/general agent</i>}"
+    field: TODO
+  - token: p065
+    raw: "{<i>name 2</i>}"
+    field: TODO
+  - token: p066
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p067
+    raw: "{_______}"
+    field: TODO
+  - token: p068
+    raw: "{<i>Tex. Rev. Civ. Stat. art. 6134.</i>}"
+    field: TODO
+  - token: p069
+    raw: "{<i>name 1</i>}"
+    field: TODO
+  - token: p070
+    raw: "{<i>stockholder/member</i>}"
+    field: TODO
+  - token: p071
+    raw: "{<i>name 2</i>}"
+    field: TODO
+  - token: p072
+    raw: "{<i>company/association</i>}"
+    field: TODO
+  - token: p073
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p074
+    raw: "{_______}"
+    field: TODO
+  - token: p075
+    raw: "{<i>Tex. Rev. Civ. Stat. art. 6137.</i>}"
+    field: TODO

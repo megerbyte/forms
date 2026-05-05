@@ -1,0 +1,131 @@
+form_id: 2A-3
+title: Notice — DTPA
+source: forms/Form_2A-3_Notice_-_DTPA.html
+template: templates/2A-3.html
+placeholders:
+  - token: p001
+    raw: "{<i>Letterhead</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>Date</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>Name of defendant</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>Address</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>City, state, zip code</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>Description of claim</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>Name of defendant</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>name of client</i>}"
+    field: TODO
+  - token: p009
+    raw: '{<i>See</i> <i class="c3">O’Connor’s COA</i><i>, “Plaintiff was consumer,” ch. 8, §2.1, p. 168; “Consumer Status Under DTPA,” chart 8-1, p. 172; “Presuit notice of claim,” ch. 8, §6.1, p. 204.</i>}'
+    field: TODO
+  - token: p010
+    raw: "{<i>CHOOSE APPROPRIATE STATEMENT</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>identify the deceptive acts and practices from the DTPA “laundry list,” located in Tex. Bus. &amp; Com. Code §17.46(b)</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p013
+    raw: '{<i>See</i> <i class="c3">O’Connor’s COA</i><i>, “False, misleading, or deceptive act or practice,” ch. 8, §2.3.1, p. 184; “Detrimental reliance,” ch. 8, §2.3.1(2), p. 189.</i>}'
+    field: TODO
+  - token: p014
+    raw: "{<i>express/implied</i>}"
+    field: TODO
+  - token: p015
+    raw: "{<i>identify warranty in Tex. Bus. &amp; Com. Code §17.50(a)(2) that defendant breached</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p017
+    raw: '{<i>See</i> <i class="c3">O’Connor’s COA</i><i>, “Breach of warranty,” ch. 8, §2.3.2, p. 189.</i>}'
+    field: TODO
+  - token: p018
+    raw: "{<i>identify the unconscionable course of action</i>}"
+    field: TODO
+  - token: p019
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p020
+    raw: '{<i>See</i> <i class="c3">O’Connor’s COA</i><i>, “Unconscionable act,” ch. 8, §2.3.3, p. 190.</i>}'
+    field: TODO
+  - token: p021
+    raw: "{<i>identify act or practice that violated Chapter 541</i>}"
+    field: TODO
+  - token: p022
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p023
+    raw: '{<i>See</i> <i class="c3">O’Connor’s COA</i><i>, “Violation of Chapter 541,” ch. 8, §2.3.4, p. 192; “Deceptive Insurance Practices,” ch. 13-B, p. 277.</i>}'
+    field: TODO
+  - token: p024
+    raw: "{<i>identify the tie-in statute and the deceptive acts</i>}"
+    field: TODO
+  - token: p025
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p026
+    raw: '{<i>See</i> <i class="c3">O’Connor’s COA</i><i>, “Violation of tie-in statute,” ch. 8, §2.3.5, p. 192; “DTPA Tie-in Statutes,” chart 8-2, p. 192.</i>}'
+    field: TODO
+  - token: p027
+    raw: "{<i>amount</i>}"
+    field: TODO
+  - token: p028
+    raw: "{<i>specify damages incurred</i>}"
+    field: TODO
+  - token: p029
+    raw: '{<i>See</i> <i class="c3">O’Connor’s COA</i>, <i>“Damages for economic injury,” ch. 8, §3.1.1, p. 196.</i>}'
+    field: TODO
+  - token: p030
+    raw: "{<i>ADD NEXT PARAGRAPH IF CONDUCT WAS COMMITTED KNOWINGLY</i>}"
+    field: TODO
+  - token: p031
+    raw: "{<i>amount</i>}"
+    field: TODO
+  - token: p032
+    raw: "{<i>describe conduct that supports allegation of knowing conduct</i>}"
+    field: TODO
+  - token: p033
+    raw: '{<i>See</i> <i class="c3">O’Connor’s COA</i>, <i>“Additional damages,” §3.2, p. 197.</i>}'
+    field: TODO
+  - token: p034
+    raw: "{<i>ADD NEXT PARAGRAPH IF CONDUCT WAS COMMITTED INTENTIONALLY</i>}"
+    field: TODO
+  - token: p035
+    raw: "{<i>describe conduct that supports allegation of intentional conduct</i>}"
+    field: TODO
+  - token: p036
+    raw: '{<i>See</i> <i class="c3">O’Connor’s COA</i>, <i>“Damages for mental anguish,” ch. 8, §3.1.3, p. 197; “Additional damages,” §3.2, p. 197.</i>}'
+    field: TODO
+  - token: p037
+    raw: "{<i>amount</i>}"
+    field: TODO
+  - token: p038
+    raw: "{<i>amount</i>}"
+    field: TODO
+  - token: p039
+    raw: '{<i>See</i> <i class="c3">O’Connor’s COA</i>, <i>“Attorney fees,” ch. 8, §3.7, p. 198.</i>}'
+    field: TODO
+  - token: p040
+    raw: "{<i>amount</i>}"
+    field: TODO
+  - token: p041
+    raw: "{<i>add if appropriate: mental anguish damages,</i>}"
+    field: TODO
+  - token: p042
+    raw: "{<i>Name of client’s attorney</i>}"
+    field: TODO

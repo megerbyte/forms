@@ -1,0 +1,47 @@
+form_id: 3B-2
+title: Special Appearance — No Allegations of Minimum Contacts
+source: forms/Form_3B-2_Special_Appearance_-_No_Allegations_of_Minimum_Contacts.html
+template: templates/3B-2.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>his/her/its</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>state basis of suit</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>resides/does business</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>identify state</i>}"
+    field: TODO
+  - token: p008
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Special Appearance-Challenging Personal Jurisdiction,” ch. 3-B, p. 152.</i>}'
+    field: TODO
+  - token: p009
+    raw: "{<i>letter</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>his/her/its</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>letter</i>}"
+    field: TODO
+  - token: p012
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Not Texas resident,” ch. 3-B, §2.3.1, p. 152.</i>}'
+    field: TODO
+  - token: p013
+    raw: "{<i>letter</i>}"
+    field: TODO
+  - token: p014
+    raw: "{<i>he/she/it</i>}"
+    field: TODO

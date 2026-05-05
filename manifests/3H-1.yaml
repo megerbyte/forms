@@ -1,0 +1,137 @@
+form_id: 3H-1
+title: Motion to Abate — Defective Pleadings
+source: forms/Form_3H-1_Motion_to_Abate_-_Defective_Pleadings.html
+template: templates/3H-1.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Abate - defect in pleadings,” ch. 3-H, §3.1, p. 205.</i>}'
+    field: TODO
+  - token: p003
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>state basis of suit</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>State facts relevant to the motion.</i>}"
+    field: TODO
+  - token: p007
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Verified,” ch. 3-H, §2.3, p. 205.</i>}'
+    field: TODO
+  - token: p008
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPHS 5-16</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>age</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>his/her</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p012
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Minors &amp; incapacitated person,” ch. 3-H, §3.1.1(1), p. 205.</i>}'
+    field: TODO
+  - token: p013
+    raw: "{<i>he/she</i>}"
+    field: TODO
+  - token: p014
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Estate of decedent,” ch. 3-H, §3.1.1(2), p. 205.</i>}'
+    field: TODO
+  - token: p015
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p016
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Death action beneficiary,” ch. 3-H, §3.1.1(3), p. 206;</i> <i class="c3">O’Connor’s COA</i><i>, “Legal representative of the estate,” ch. 7-A, §2.1.2, p. 149.</i>}'
+    field: TODO
+  - token: p017
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p018
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Death action beneficiary,” ch. 3-H, §3.1.1(3), p. 206;</i> <i class="c3">O’Connor’s COA</i><i>, “Statutory beneficiaries,” ch. 7-B, §2.1.2, p. 157.</i>}'
+    field: TODO
+  - token: p019
+    raw: "{<i>set forth reason for lack of standing, e.g., plaintiff is a stockholder suing a corporation</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p021
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Wrong representative of corporation,” ch. 3-H, §3.1.1(4), p. 206.</i>}'
+    field: TODO
+  - token: p022
+    raw: "{<i>corporation/partnership</i>}"
+    field: TODO
+  - token: p023
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p024
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Not corporation or partnership,” ch. 3-H, §3.1.1(5), p. 206.</i>}'
+    field: TODO
+  - token: p025
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p026
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Unauthorized foreign corporation,” ch. 3-H, §3.1.1(6), p. 206.</i>}'
+    field: TODO
+  - token: p027
+    raw: "{<i>he/she/it</i>}"
+    field: TODO
+  - token: p028
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p029
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “No assumed name certificate,” ch. 3-H, §3.1.1(7), p. 206.</i>}'
+    field: TODO
+  - token: p030
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p031
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Necessary party absent,” ch. 3-H, §3.1.1(8), p. 206.</i>}'
+    field: TODO
+  - token: p032
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p033
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p034
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Misnomer of defendant,” ch. 3-H, §3.1.1(9), p. 206.</i>}'
+    field: TODO
+  - token: p035
+    raw: "{<i>state notice provision relied upon, e.g., DTPA, Texas Civil Practice &amp; Remedies Code section 74.051</i>}"
+    field: TODO
+  - token: p036
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p037
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Lack of notice,” ch. 3-H, §3.1.2(1), p. 206.</i>}'
+    field: TODO
+  - token: p038
+    raw: "{<i>state provision with residency requirements, e.g., Texas Family Code section 6.301(2)</i>}"
+    field: TODO
+  - token: p039
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p040
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Lack of residency,” ch. 3-H, §3.1.2(2), p. 206.</i>}'
+    field: TODO
+  - token: p041
+    raw: "{<i>restate reasons for abatement</i>}"
+    field: TODO
+  - token: p042
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “The Hearing,” ch. 3-H, §5, p. 209.</i>}'
+    field: TODO
+  - token: p043
+    raw: "{<i>his/her/its</i>}"
+    field: TODO
+  - token: p044
+    raw: "{<i>his/her/its</i>}"
+    field: TODO

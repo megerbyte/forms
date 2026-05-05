@@ -1,0 +1,182 @@
+form_id: 3D-1
+title: Code FNC Motion
+source: forms/Form_3D-1_Code_FNC_Motion.html
+template: templates/3D-1.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>dismiss/stay</i>}"
+    field: TODO
+  - token: p003
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Code FNC Motion,” ch. 3-D, §3, p. 175.</i>}'
+    field: TODO
+  - token: p004
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>state basis of suit</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>State facts relevant to the motion.</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPH 5</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p010
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Single plaintiff,” ch. 3-D, §3.3.1(1), p. 176.</i>}'
+    field: TODO
+  - token: p011
+    raw: "{<i>number</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>Identify which plaintiffs are legal residents of Texas and which are not.</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>alternate forum</i>}"
+    field: TODO
+  - token: p014
+    raw: "{<i>Demonstrate why joinder of Texas plaintiffs is improper.</i>}"
+    field: TODO
+  - token: p015
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Multiple plaintiffs,” ch. 3-D, §3.3.1(2), p. 176.</i>}'
+    field: TODO
+  - token: p016
+    raw: "{<i>number</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>Identify which plaintiffs are legal residents and which are not.</i>}"
+    field: TODO
+  - token: p018
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p019
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Multiple plaintiffs,” ch. 3-D, §3.3.1(2), p. 176.</i>}'
+    field: TODO
+  - token: p020
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p021
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Interest of justice,” ch. 3-D, §3.3.2, p. 176.</i>}'
+    field: TODO
+  - token: p022
+    raw: "{<i>alternate forum</i>}"
+    field: TODO
+  - token: p023
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p024
+    raw: "{<i>alternate forum</i>}"
+    field: TODO
+  - token: p025
+    raw: "{<i>Show that alternate forum would allow plaintiff’s claim or provide similar relief.</i>}"
+    field: TODO
+  - token: p026
+    raw: "{<i>explain injustice of forcing defendant to defend in Texas</i>}"
+    field: TODO
+  - token: p027
+    raw: "{<i>alternate forum</i>}"
+    field: TODO
+  - token: p028
+    raw: "{<i>Identify properly joined defendants and show why alternate forum can exercise jurisdiction over each. If necessary, file a stipulation agreeing to the exercise of personal jurisdiction by that forum.</i>}"
+    field: TODO
+  - token: p029
+    raw: "{<i>alternate forum</i>}"
+    field: TODO
+  - token: p030
+    raw: "{<i>INCLUDE ALL RELEVANT FACTORS BELOW</i>}"
+    field: TODO
+  - token: p031
+    raw: "{<i>alternate forum</i>}"
+    field: TODO
+  - token: p032
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p033
+    raw: "{<i>alternate forum</i>}"
+    field: TODO
+  - token: p034
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p035
+    raw: "{<i>alternate forum</i>}"
+    field: TODO
+  - token: p036
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p037
+    raw: "{<i>alternate forum</i>}"
+    field: TODO
+  - token: p038
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p039
+    raw: "{<i>alternate forum</i>}"
+    field: TODO
+  - token: p040
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p041
+    raw: "{<i>alternate forum</i>}"
+    field: TODO
+  - token: p042
+    raw: "{<i>INCLUDE ALL RELEVANT FACTORS BELOW</i>}"
+    field: TODO
+  - token: p043
+    raw: "{<i>alternate forum</i>}"
+    field: TODO
+  - token: p044
+    raw: "{<i>identify reasons, e.g., congested docket</i>}"
+    field: TODO
+  - token: p045
+    raw: "{<i>Alternate forum</i>}"
+    field: TODO
+  - token: p046
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p047
+    raw: "{<i>Alternate forum</i>}"
+    field: TODO
+  - token: p048
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p049
+    raw: "{<i>his/her</i>}"
+    field: TODO
+  - token: p050
+    raw: "{<i>injury/death</i>}"
+    field: TODO
+  - token: p051
+    raw: "{<i>alternate forum</i>}"
+    field: TODO
+  - token: p052
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p053
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “No Texas injury,” ch. 3-D, §3.3.3(5)(c), p. 177.</i>}'
+    field: TODO
+  - token: p054
+    raw: "{<i>dismissal/stay</i>}"
+    field: TODO
+  - token: p055
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p056
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “No duplication or proliferation,” ch. 3-D, §3.3.3(6), p. 177.</i>}'
+    field: TODO
+  - token: p057
+    raw: "{<i>alternate forum</i>}"
+    field: TODO
+  - token: p058
+    raw: "{<i>alternate forum</i>}"
+    field: TODO
+  - token: p059
+    raw: "{<i>dismissing/staying</i>}"
+    field: TODO

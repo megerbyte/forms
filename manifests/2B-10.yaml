@@ -1,0 +1,143 @@
+form_id: 2B-10
+title: Parties — Defendant, Resident Individual
+source: forms/Form_2B-10_Parties_-_Defendant,_Resident_Individual.html
+template: templates/2B-10.html
+placeholders:
+  - token: p001
+    raw: "{<i>CHOOSE APPROPRIATE DESIGNATION</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>place of business/abode</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p005
+    raw: "{_______}"
+    field: TODO
+  - token: p006
+    raw: '{<i>See Tex. R. Civ. P. 106;</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Defendant,” ch. 2-B, §3.5 p. 75.</i>}'
+    field: TODO
+  - token: p007
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p009
+    raw: "{_______}"
+    field: TODO
+  - token: p010
+    raw: '{<i>See Tex. Fam. Code §102.003(a); Tex. Prob. Code §§33, 601(14);</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Minor as D,” §3.5.4, p. 76.</i>}'
+    field: TODO
+  - token: p011
+    raw: "{<i>name 1</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>name 2</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p014
+    raw: "{_______}"
+    field: TODO
+  - token: p015
+    raw: "{<i>resides/conducts business</i>}"
+    field: TODO
+  - token: p016
+    raw: '{<i>See Tex. Fam. Code §102.003(a); Tex. Prob. Code §§33, 601(14);</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Minor as D,” §3.5.4, p. 76.</i>}'
+    field: TODO
+  - token: p017
+    raw: "{<i>name 1</i>}"
+    field: TODO
+  - token: p018
+    raw: "{<i>executor/administrator</i>}"
+    field: TODO
+  - token: p019
+    raw: "{<i>name 2</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>place of business/abode</i>}"
+    field: TODO
+  - token: p021
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p022
+    raw: "{_______}"
+    field: TODO
+  - token: p023
+    raw: '{<i>See Tex. R. Civ. P. 106;</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Estate,” ch. 2-B, §3.3.2, p. 73.</i>}'
+    field: TODO
+  - token: p024
+    raw: "{<i>name 1</i>}"
+    field: TODO
+  - token: p025
+    raw: "{<i>an office/a place of business/an agency</i>}"
+    field: TODO
+  - token: p026
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p027
+    raw: "{_______}"
+    field: TODO
+  - token: p028
+    raw: "{<i>agent/clerk</i>}"
+    field: TODO
+  - token: p029
+    raw: "{<i>name 2</i>}"
+    field: TODO
+  - token: p030
+    raw: "{<i>Tex. Civ. Prac. &amp; Rem. Code §17.021(a).</i>}"
+    field: TODO
+  - token: p031
+    raw: "{<i>name 1</i>}"
+    field: TODO
+  - token: p032
+    raw: "{<i>an office/a place of business/an agency</i>}"
+    field: TODO
+  - token: p033
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p034
+    raw: "{_______}"
+    field: TODO
+  - token: p035
+    raw: "{<i>agent/clerk</i>}"
+    field: TODO
+  - token: p036
+    raw: "{<i>name 2</i>}"
+    field: TODO
+  - token: p037
+    raw: "{<i>Tex. Civ. Prac. &amp; Rem. Code §17.021(a), (b).</i>}"
+    field: TODO
+  - token: p038
+    raw: "{<i>name 1</i>}"
+    field: TODO
+  - token: p039
+    raw: "{<i>name 2</i>}"
+    field: TODO
+  - token: p040
+    raw: "{<i>maintains business premises/maintains professional premises/regularly conducts business/regularly renders professional services</i>}"
+    field: TODO
+  - token: p041
+    raw: "{<i>office/place of business/agency</i>}"
+    field: TODO
+  - token: p042
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p043
+    raw: "{_______}"
+    field: TODO
+  - token: p044
+    raw: "{<i>agent/clerk</i>}"
+    field: TODO
+  - token: p045
+    raw: "{<i>name 3</i>}"
+    field: TODO
+  - token: p046
+    raw: "{<i>Tex. Bus. &amp; Com. Code §§36.02(7)(A), 36.10(a).</i>}"
+    field: TODO

@@ -1,0 +1,116 @@
+form_id: 5C-5
+title: Response to Motion to Disqualify or Recuse
+source: forms/Form_5C-5_Response_to_Motion_to_Disqualify_or_Recuse.html
+template: templates/5C-5.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>PARTY</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>adverse</i> <i>party</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>disqualify/ recuse</i>}"
+    field: TODO
+  - token: p006
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Response by other party,” ch. 5-C, §4.5, p. 251.</i>}'
+    field: TODO
+  - token: p007
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>Adverse party</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>disqualify/recuse</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>State other facts relevant to the response.</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p014
+    raw: "{<i>disqualify/recuse</i>}"
+    field: TODO
+  - token: p015
+    raw: "{<i>CHOOSE APPLICABLE REASONS</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>disqualification/ recusal</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>explain deficiency in facts</i>}"
+    field: TODO
+  - token: p018
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p019
+    raw: "{<i>he/she/it</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p021
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p022
+    raw: "{<i>Adverse party</i>}"
+    field: TODO
+  - token: p023
+    raw: "{<i>Elaborate. See objections to affidavits from FORM 7B:11 and modify.</i>}"
+    field: TODO
+  - token: p024
+    raw: "{<i>Describe insufficiency.</i>}"
+    field: TODO
+  - token: p025
+    raw: "{<i>identify any other reason to deny motion</i>}"
+    field: TODO
+  - token: p026
+    raw: "{<i>IF THE MOTION IS FRIVOLOUS, ADD SECTION D</i>}"
+    field: TODO
+  - token: p027
+    raw: "{<i>Adverse party</i>}"
+    field: TODO
+  - token: p028
+    raw: "{<i>disqualify/recuse</i>}"
+    field: TODO
+  - token: p029
+    raw: "{<i>Describe how the motion is frivolous.</i>}"
+    field: TODO
+  - token: p030
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p031
+    raw: "{<i>disqualify/recuse</i>}"
+    field: TODO
+  - token: p032
+    raw: "{<i>adverse</i> <i>party</i>}"
+    field: TODO
+  - token: p033
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Sanctions,” ch. 5-C, §4.8.3, p. 252.</i>}'
+    field: TODO
+  - token: p034
+    raw: "{<i>Briefly summarize the response.</i>}"
+    field: TODO
+  - token: p035
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p036
+    raw: "{<i>disqualify/recuse</i>}"
+    field: TODO
+  - token: p037
+    raw: "{<i>insert if applicable: and impose sanctions under Texas Rule of Civil Procedure 215.2(b)</i>}"
+    field: TODO

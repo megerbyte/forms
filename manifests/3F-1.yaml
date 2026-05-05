@@ -1,0 +1,80 @@
+form_id: 3F-1
+title: Motion to Dismiss for Lack of Jurisdiction
+source: forms/Form_3F-1_Motion_to_Dismiss_for_Lack_of_Jurisdiction.html
+template: templates/3F-1.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Plea to the Jurisdiction-Challenging the Court,” ch. 3-F, p. 191.</i>}'
+    field: TODO
+  - token: p003
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>state basis of suit</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>state factual allegations relevant to jurisdiction</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>State additional facts relevant to jurisdiction.</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>CHOOSE APPROPRIATE GROUND</i>}"
+    field: TODO
+  - token: p009
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “No justiciable issue,” ch. 3-F, §3.1, p. 192.</i>}'
+    field: TODO
+  - token: p010
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Another court has exclusive jurisdiction,” ch. 3-F, §3.4, p. 193.</i>}'
+    field: TODO
+  - token: p011
+    raw: "{<i>identify governmental entity, e.g., State of Texas</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>identify basis for suit</i>}"
+    field: TODO
+  - token: p013
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Governmental immunity from suit,” ch. 3-F, §3.6, p. 193;</i> <i class="c3">O’Connor’s COA</i><i>, “Immunity from suit,” ch. 22-A, §3.4.1, p. 685.</i>}'
+    field: TODO
+  - token: p014
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Federal preemption,” ch. 3-F, §3.7, p. 193.</i>}'
+    field: TODO
+  - token: p015
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p016
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Death,” ch. 3-F, §3.8, p. 194.</i>}'
+    field: TODO
+  - token: p017
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Administrative agency has exclusive jurisdiction,” ch. 3-F, §3.5, p. 193.</i>}'
+    field: TODO
+  - token: p018
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Fabricated jurisdiction,” ch. 3-F, §3.10, p. 194.</i>}'
+    field: TODO
+  - token: p019
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “No standing,” ch. 3-F, §3.2, p. 193.</i>}'
+    field: TODO
+  - token: p020
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Religious matters,” ch. 3-F, §3.11, p. 194.</i>}'
+    field: TODO
+  - token: p021
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Not ripe,” ch. 3-F, §3.3, p. 193.</i>}'
+    field: TODO
+  - token: p022
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Statutory causes of action,” ch. 3-F, §3.9, p. 194.</i>}'
+    field: TODO
+  - token: p023
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Estate as defendant,” ch. 3-F, §3.12, p. 194.</i>}'
+    field: TODO
+  - token: p024
+    raw: "{<i>Elaborate on argument of lack of jurisdiction.</i>}"
+    field: TODO
+  - token: p025
+    raw: "{<i>with/without</i>}"
+    field: TODO

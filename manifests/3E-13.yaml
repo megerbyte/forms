@@ -1,0 +1,110 @@
+form_id: "3E-13"
+title: Motion to Designate Responsible Third Party
+source: forms/Form_3E-13_Motion_to_Designate_Responsible_Third_Party.html
+template: templates/3E-13.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Responsible third party,” ch. 3-E, §6.4, p. 189.</i>}'
+    field: TODO
+  - token: p003
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPH 1</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>state basis of suit</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPH 4</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p014
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p015
+    raw: "{<i>number</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p018
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPHS 5-8</i>}"
+    field: TODO
+  - token: p019
+    raw: "{<i>If responsible third party is known</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>In separately numbered paragraphs, state facts demonstrating the responsible third party’s fault that are sufficient to satisfy the pleading requirements of the Texas Rules of Civil Procedure.</i>}"
+    field: TODO
+  - token: p021
+    raw: "{<i>If responsible third party is unknown criminal</i>}"
+    field: TODO
+  - token: p022
+    raw: "{<i>John Doe/Jane Doe</i>}"
+    field: TODO
+  - token: p023
+    raw: "{<i>State sufficient facts to show reasonable probability that Doe’s acts were criminal.</i>}"
+    field: TODO
+  - token: p024
+    raw: "{<i>John Doe/Jane Doe</i>}"
+    field: TODO
+  - token: p025
+    raw: "{<i>state all identifying characteristics known to defendant</i>}"
+    field: TODO
+  - token: p026
+    raw: "{<i>State sufficient facts concerning Doe’s responsibility to satisfy the pleading requirements of the Texas Rules of Civil Procedure.</i>}"
+    field: TODO
+  - token: p027
+    raw: "{<i>State other facts relevant to the motion.</i>}"
+    field: TODO
+  - token: p028
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPH 11</i>}"
+    field: TODO
+  - token: p029
+    raw: "{<i>Name</i>}"
+    field: TODO
+  - token: p030
+    raw: "{<i>he/she</i>}"
+    field: TODO
+  - token: p031
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p032
+    raw: "{<i>he/she</i>}"
+    field: TODO
+  - token: p033
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p034
+    raw: "{<i>Briefly summarize the motion.</i>}"
+    field: TODO
+  - token: p035
+    raw: "{<i>his/her/its</i>}"
+    field: TODO

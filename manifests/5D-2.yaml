@@ -1,0 +1,458 @@
+form_id: 5D-2
+title: Motion for Continuance — Other Reasons
+source: forms/Form_5D-2_Motion_for_Continuance_-_Other_Reasons.html
+template: templates/5D-2.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>number</i>}"
+    field: TODO
+  - token: p004
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Motion,” ch. 5-D, §2, p. 254.</i>}'
+    field: TODO
+  - token: p005
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>state basis of suit</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>1/2/3</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>will end/ended</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p011
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Discovery Control Plans,” ch. 6-A, §7, p. 332.</i>}'
+    field: TODO
+  - token: p012
+    raw: "{<i>All/Most/A significant part/No significant part/None</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>trial/hearing</i>}"
+    field: TODO
+  - token: p014
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p015
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>State other facts relevant to the motion.</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p018
+    raw: "{<i>CHOOSE APPROPRIATE SECTION C</i>}"
+    field: TODO
+  - token: p019
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Continuance on Agreed Motion,” ch. 5-D, §6, p. 256.</i>}'
+    field: TODO
+  - token: p020
+    raw: "{<i>identify reason for the continuance</i>}"
+    field: TODO
+  - token: p021
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Notice of trial,” ch. 5-D, §7.1, p. 256.</i>}'
+    field: TODO
+  - token: p022
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p023
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p024
+    raw: "{<i>number</i>}"
+    field: TODO
+  - token: p025
+    raw: "{<i>Number</i>}"
+    field: TODO
+  - token: p026
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p027
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Motion,” ch. 5-D, §7.2, p. 256.</i>}'
+    field: TODO
+  - token: p028
+    raw: "{<i>Number</i>}"
+    field: TODO
+  - token: p029
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p030
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p031
+    raw: "{<i>preparing/presenting</i>}"
+    field: TODO
+  - token: p032
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p033
+    raw: "{<i>claim/defense</i>}"
+    field: TODO
+  - token: p034
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p035
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Motion,” ch. 5-D, §7.2, p. 256.</i>}'
+    field: TODO
+  - token: p036
+    raw: "{<i>Number</i>}"
+    field: TODO
+  - token: p037
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p038
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Motion,” ch. 5-D, §7.2, p. 256.</i>}'
+    field: TODO
+  - token: p039
+    raw: "{<i>party/witness</i>}"
+    field: TODO
+  - token: p040
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Continuance When Witness or Party Unavailable,” ch. 5-D, §10, p. 260.</i>}'
+    field: TODO
+  - token: p041
+    raw: "{<i>Name of party or witness</i>}"
+    field: TODO
+  - token: p042
+    raw: "{<i>street address, county, state</i>}"
+    field: TODO
+  - token: p043
+    raw: "{<i>state reasons</i>}"
+    field: TODO
+  - token: p044
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Name &amp; address of witness,” ch. 5-D, §10.1, p. 260; “Unavailable,” ch. 5-D, §10.2, p. 260.</i>}'
+    field: TODO
+  - token: p045
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p046
+    raw: "{<i>name of party or witness</i>}"
+    field: TODO
+  - token: p047
+    raw: "{<i>describe expected testimony</i>}"
+    field: TODO
+  - token: p048
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Description of testimony,” ch. 5-D, §10.3, p. 260.</i>}'
+    field: TODO
+  - token: p049
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p050
+    raw: "{<i>describe facts</i>}"
+    field: TODO
+  - token: p051
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Description of testimony,” ch. 5-D, §10.3, p. 260.</i>}'
+    field: TODO
+  - token: p052
+    raw: "{<i>describe materiality</i>}"
+    field: TODO
+  - token: p053
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Materiality,” ch. 5-D, §10.4, p. 260.</i>}'
+    field: TODO
+  - token: p054
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p055
+    raw: "{<i>name of party or witness</i>}"
+    field: TODO
+  - token: p056
+    raw: "{<i>Summarize discovery attempts showing diligence. If known, state why discovery attempts did not secure evidence.</i>}"
+    field: TODO
+  - token: p057
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Diligence,” ch. 5-D, §10.5, p. 260.</i>}'
+    field: TODO
+  - token: p058
+    raw: "{<i>Name of party or witness</i>}"
+    field: TODO
+  - token: p059
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p060
+    raw: "{<i>name of party or witness</i>}"
+    field: TODO
+  - token: p061
+    raw: "{<i>he/she</i>}"
+    field: TODO
+  - token: p062
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p063
+    raw: "{<i>name of party or witness</i>}"
+    field: TODO
+  - token: p064
+    raw: "{<i>explain why absence was unexpected</i>}"
+    field: TODO
+  - token: p065
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Witness lives within 100 miles of courthouse,” ch. 5-D, §10.5.1, p. 260.</i>}'
+    field: TODO
+  - token: p066
+    raw: "{<i>If party or witness ill, add paragraph 22</i>}"
+    field: TODO
+  - token: p067
+    raw: "{<i>Name of party or witness</i>}"
+    field: TODO
+  - token: p068
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p069
+    raw: "{<i>letter</i>}"
+    field: TODO
+  - token: p070
+    raw: "{<i>name of physician</i>}"
+    field: TODO
+  - token: p071
+    raw: "{<i>name of physician</i>}"
+    field: TODO
+  - token: p072
+    raw: "{<i>name of party or witness</i>}"
+    field: TODO
+  - token: p073
+    raw: "{<i>identify nature and severity of illness</i>}"
+    field: TODO
+  - token: p074
+    raw: "{<i>he/she</i>}"
+    field: TODO
+  - token: p075
+    raw: "{<i>name of physician</i>}"
+    field: TODO
+  - token: p076
+    raw: "{<i>name of party or witness</i>}"
+    field: TODO
+  - token: p077
+    raw: "{<i>he/ she</i>}"
+    field: TODO
+  - token: p078
+    raw: "{<i>Name of party or witness</i>}"
+    field: TODO
+  - token: p079
+    raw: "{<i>explain</i>}"
+    field: TODO
+  - token: p080
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Medical excuse affidavit,” ch. 5-D, §10.6, p. 261.</i>}'
+    field: TODO
+  - token: p081
+    raw: "{<i>If second or later motion, add paragraph 23</i>}"
+    field: TODO
+  - token: p082
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p083
+    raw: "{<i>number</i>}"
+    field: TODO
+  - token: p084
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p085
+    raw: "{<i>State facts that demonstrate inability to obtain testimony elsewhere.</i>}"
+    field: TODO
+  - token: p086
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Testimony not available,” ch. 5-D, §10.9, p. 261.</i>}'
+    field: TODO
+  - token: p087
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPHS 24-29</i>}"
+    field: TODO
+  - token: p088
+    raw: "{<i>Attorney on vacation</i>}"
+    field: TODO
+  - token: p089
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p090
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Attorney vacation letter,” ch. 5-D, §11.1, p. 261.</i>}'
+    field: TODO
+  - token: p091
+    raw: "{<i>Attorney otherwise unavailable</i>}"
+    field: TODO
+  - token: p092
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Attorney not available,” ch. 5-D, §11.2, p. 261.</i>}'
+    field: TODO
+  - token: p093
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p094
+    raw: "{<i>name of attorney</i>}"
+    field: TODO
+  - token: p095
+    raw: "{<i>trial/hearing</i>}"
+    field: TODO
+  - token: p096
+    raw: "{<i>state reason and show good cause, e.g., attorney is in another trial that has a preferential setting; provide details, e.g., name other case, identify other court</i>}"
+    field: TODO
+  - token: p097
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Reason attorney unavailable,” ch. 5-D, §11.2.2, p. 261.</i>}'
+    field: TODO
+  - token: p098
+    raw: "{<i>Name of attorney</i>}"
+    field: TODO
+  - token: p099
+    raw: "{<i>state reasons</i>}"
+    field: TODO
+  - token: p100
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p101
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Attorney is necessary,” ch. 5-D, §11.2.1, p. 261.</i>}'
+    field: TODO
+  - token: p102
+    raw: "{<i>his/her/its</i>}"
+    field: TODO
+  - token: p103
+    raw: "{<i>his/her/its</i>}"
+    field: TODO
+  - token: p104
+    raw: "{<i>Show how party is not at fault for the absence of the attorney.</i>}"
+    field: TODO
+  - token: p105
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Party not represented,” ch. 5-D, §11.3, p. 262.</i>}'
+    field: TODO
+  - token: p106
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPH 29</i>}"
+    field: TODO
+  - token: p107
+    raw: "{<i>name of attorney</i>}"
+    field: TODO
+  - token: p108
+    raw: "{<i>state reasons</i>}"
+    field: TODO
+  - token: p109
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p110
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “No substitute possible,” ch. 5-D, §11.2.3, p. 262.</i>}'
+    field: TODO
+  - token: p111
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p112
+    raw: "{<i>he/she</i>}"
+    field: TODO
+  - token: p113
+    raw: "{<i>him/her</i>}"
+    field: TODO
+  - token: p114
+    raw: "{<i>hearing/trial</i>}"
+    field: TODO
+  - token: p115
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “No substitute possible,” ch. 5-D, §11.2.3, p. 262.</i>}'
+    field: TODO
+  - token: p116
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Continuance for Legislator,” ch. 5-D, §12, p. 262.</i>}'
+    field: TODO
+  - token: p117
+    raw: "{<i>Party/Attorney for party</i>}"
+    field: TODO
+  - token: p118
+    raw: "{<i>member/member-elect</i>}"
+    field: TODO
+  - token: p119
+    raw: "{<i>is/will be</i>}"
+    field: TODO
+  - token: p120
+    raw: "{<i>state dates of attendance</i>}"
+    field: TODO
+  - token: p121
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “No TRO,” ch. 5-D, §12.1.1(4), p. 263.</i>}'
+    field: TODO
+  - token: p122
+    raw: "{<i>ADD PARAGRAPHS 33-35 IF ATTORNEY IS LEGISLATOR</i>}"
+    field: TODO
+  - token: p123
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p124
+    raw: "{<i>name of attorney</i>}"
+    field: TODO
+  - token: p125
+    raw: "{<i>his/her/its</i>}"
+    field: TODO
+  - token: p126
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p127
+    raw: "{<i>Name of attorney</i>}"
+    field: TODO
+  - token: p128
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p129
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Mandatory,” ch. 5-D, §12.1.1(3)(a), p. 263.</i>}'
+    field: TODO
+  - token: p130
+    raw: "{<i>Name of attorney</i>}"
+    field: TODO
+  - token: p131
+    raw: "{<i>letter</i>}"
+    field: TODO
+  - token: p132
+    raw: "{<i>name of attorney</i>}"
+    field: TODO
+  - token: p133
+    raw: "{<i>his/her</i>}"
+    field: TODO
+  - token: p134
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Legislator statements,” ch. 5-D, §12.1.1(2)(a), p. 262.</i>}'
+    field: TODO
+  - token: p135
+    raw: "{<i>Name of attorney</i>}"
+    field: TODO
+  - token: p136
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Legislator statements,” ch. 5-D, §12.1.1(2)(b), p. 263.</i>}'
+    field: TODO
+  - token: p137
+    raw: "{<i>party/party’s attorney</i>}"
+    field: TODO
+  - token: p138
+    raw: "{<i>party/party’s attorney</i>}"
+    field: TODO
+  - token: p139
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Continuance for Religious Holy Day,” ch. 5-D, §13, p. 264.</i>}'
+    field: TODO
+  - token: p140
+    raw: "{<i>ADD PARAGRAPH 37 IF APPROPRIATE</i>}"
+    field: TODO
+  - token: p141
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p142
+    raw: "{<i>name of attorney</i>}"
+    field: TODO
+  - token: p143
+    raw: "{<i>Elaborate, identifying the religious organization.</i>}"
+    field: TODO
+  - token: p144
+    raw: "{<i>him/her</i>}"
+    field: TODO
+  - token: p145
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p146
+    raw: "{<i>he/she</i>}"
+    field: TODO
+  - token: p147
+    raw: "{<i>Elaborate, identifying name of religious holy day.</i>}"
+    field: TODO
+  - token: p148
+    raw: "{<i>Briefly summarize the motion.</i>}"
+    field: TODO
+  - token: p149
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p150
+    raw: "{<i>number</i>}"
+    field: TODO
+  - token: p151
+    raw: "{<i>date</i>}"
+    field: TODO

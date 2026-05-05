@@ -1,0 +1,74 @@
+form_id: 4A-4
+title: Order Referring to Mediation
+source: forms/Form_4A-4_Order_Referring_to_Mediation.html
+template: templates/4A-4.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>PARTY</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>add if appropriate: , and the objection,</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>CHOOSE APPROPRIATE ORDER</i>}"
+    field: TODO
+  - token: p007
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Mediation,” ch. 4-A, §2.1.1, p. 214; “Order for ADR,” ch. 4-A, §5, p. 217.</i>}'
+    field: TODO
+  - token: p008
+    raw: "{<i>Name of impartial third party</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPH 3</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>name of impartial third party</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>list parties and their attorneys</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>name of impartial third party</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>name of impartial third party</i>}"
+    field: TODO
+  - token: p014
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Confidentiality,” ch. 4-A, §7, p. 218.</i>}'
+    field: TODO
+  - token: p015
+    raw: "{<i>Name of impartial third party</i>}"
+    field: TODO
+  - token: p016
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Confidentiality,” ch. 4-A, §7, p. 218.</i>}'
+    field: TODO
+  - token: p017
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Confidentiality,” ch. 4-A, §7, p. 218.</i>}'
+    field: TODO
+  - token: p018
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPH 8</i>}"
+    field: TODO
+  - token: p019
+    raw: "{<i>state reasonable fee</i>}"
+    field: TODO
+  - token: p020
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Fees,” ch. 4-A, §6.3, p. 218.</i>}'
+    field: TODO
+  - token: p021
+    raw: "{<i>state reasonable fee</i>}"
+    field: TODO
+  - token: p022
+    raw: "{<i>identify method of payment</i>}"
+    field: TODO
+  - token: p023
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Fees,” ch. 4-A, §6.3, p. 218.</i>}'
+    field: TODO

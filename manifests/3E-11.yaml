@@ -1,0 +1,92 @@
+form_id: "3E-11"
+title: Petition — Third Party
+source: forms/Form_3E-11_Petition_-_Third_Party.html
+template: templates/3E-11.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>NAME</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPH 1</i>}"
+    field: TODO
+  - token: p004
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Discovery Control Plans,” ch. 2-B, §2, p. 71.</i>}'
+    field: TODO
+  - token: p005
+    raw: "{<i>2/3</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>190.3/190.4</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>explain</i>}"
+    field: TODO
+  - token: p008
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Discovery Control Plans,” ch. 2-B, §2, p. 71.</i>}'
+    field: TODO
+  - token: p009
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p011
+    raw: '{<i>For third-party plaintiff’s designation, see FORM 2B:9, and modify as necessary;</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Plaintiff,” ch. 2-B, §3.4, p. 75.</i>}'
+    field: TODO
+  - token: p012
+    raw: '{<i>For third-party defendant’s designation, see FORMS 2B:10 through 2B:19, and modify as necessary;</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Defendant,” ch. 2-B, §3.5, p. 75.</i>}'
+    field: TODO
+  - token: p013
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p014
+    raw: "{<i>identify location</i>}"
+    field: TODO
+  - token: p015
+    raw: "{_______}"
+    field: TODO
+  - token: p016
+    raw: "{<i>describe events that resulted in lawsuit</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>State other relevant facts in separately numbered paragraphs.</i>}"
+    field: TODO
+  - token: p018
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Pleading a Cause of Action,” ch. 2-B, §6, p. 78.</i>}'
+    field: TODO
+  - token: p019
+    raw: "{<i>plaintiff/third-party plaintiff</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>state cause of action third-party plaintiff alleges against third-party defendant</i>}"
+    field: TODO
+  - token: p021
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Third-party practice,” ch. 3-E, §6.3, p. 189.</i>}'
+    field: TODO
+  - token: p022
+    raw: "{<i>ADD SECTIONS E-H AS APPROPRIATE</i>}"
+    field: TODO
+  - token: p023
+    raw: "{<i>identify code, statute, or contract permitting recovery of attorney fees</i>}"
+    field: TODO
+  - token: p024
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p025
+    raw: '{<i>See</i> <i class="c4">O’Connor’s COA</i>, <i>“Attorney Fees,” ch. 49, p. 1161;</i> <i class="c4">O’Connor’s COA Pleadings</i><i>, FORMS 49.</i>}'
+    field: TODO
+  - token: p026
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Jury Demand,” ch. 2-B, §12, p. 83.</i>}'
+    field: TODO
+  - token: p027
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Conditions Precedent,” ch. 2-B, §11, p. 82.</i>}'
+    field: TODO
+  - token: p028
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Content of request,” ch. 6-D, §3.2, p. 392.</i>}'
+    field: TODO
+  - token: p029
+    raw: "{<i>specify relief sought from third-party defendant</i>}"
+    field: TODO

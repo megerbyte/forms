@@ -1,0 +1,150 @@
+form_id: 4C-1
+title: Application to Compel Arbitration & Motion to Abate
+source: forms/Form_4C-1_Application_to_Compel_Arbitration_&amp;_Motion_to_Abate.html
+template: templates/4C-1.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>PARTY</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p004
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Who may compel arbitration,” ch. 4-C, §3.2.2, p. 225.</i>}'
+    field: TODO
+  - token: p005
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>state basis of suit</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>1/2/3</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>will end/ended</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p011
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Discovery Control Plans,” ch. 6-A, §7, p. 332.</i>}'
+    field: TODO
+  - token: p012
+    raw: "{<i>All/Most/A significant part/No significant part/None</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>trial/hearing</i>}"
+    field: TODO
+  - token: p014
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p015
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>describe purpose of contract</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>letter</i>}"
+    field: TODO
+  - token: p018
+    raw: '{<i><span data-token="c001" class="choice-marker">CHOOSE ONE OF THE FOLLOWING</span></i>}'
+    field: TODO
+  - token: p019
+    raw: "{<i>specify disputes subject to arbitration</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>describe consideration</i>}"
+    field: TODO
+  - token: p021
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p022
+    raw: "{<i>his/her/its</i>}"
+    field: TODO
+  - token: p023
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p024
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p025
+    raw: "{<i>State other facts relevant to the application.</i>}"
+    field: TODO
+  - token: p026
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p027
+    raw: "{<i>all disputes between them/this dispute</i>}"
+    field: TODO
+  - token: p028
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p029
+    raw: "{<i>add if applicable: and, instead, filed this suit</i>}"
+    field: TODO
+  - token: p030
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Who may compel arbitration,” ch. 4-C, §3.2.2, p. 225.</i>}'
+    field: TODO
+  - token: p031
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Who may compel arbitration,” ch. 4-C, §3.2.2, p. 225.</i>}'
+    field: TODO
+  - token: p032
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPHS 14-16</i>}"
+    field: TODO
+  - token: p033
+    raw: "{<i>For Federal Arbitration Act</i>}"
+    field: TODO
+  - token: p034
+    raw: "{<i>Elaborate and identify factors supporting interstate commerce, e.g., location of defendant’s headquarters is in another state, materials used or purchased were transported across state lines, parts used or purchased were manufactured in different states, billings were prepared out of state, the parties used interstate mail and phone calls. In re Big 8 Food Stores, Ltd., 166 S.W.3d 869, 876 (Tex. App.—El Paso 2005, orig. proceeding); see Jack B. Anglin Co. v. Tipps, 842 S.W.2d 266, 269-70 (Tex. 1992).</i>}"
+    field: TODO
+  - token: p035
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Federal Arbitration Act (FAA),” ch. 4-C, §3.1, p. 224.</i>}'
+    field: TODO
+  - token: p036
+    raw: "{<i>For Texas Arbitration Act</i>}"
+    field: TODO
+  - token: p037
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p038
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Requirements to compel arbitration,” ch. 4-C, §3.2.3, p. 226.</i>}'
+    field: TODO
+  - token: p039
+    raw: "{<i>9 U.S.C. §3/Tex. Civ. Prac. &amp; Rem. Code §171.025</i>}"
+    field: TODO
+  - token: p040
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Stay,” ch. 4-C, §3.5.2, p. 229.</i>}'
+    field: TODO
+  - token: p041
+    raw: "{<i>all disputes between them/this dispute</i>}"
+    field: TODO
+  - token: p042
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p043
+    raw: "{<i>add if applicable: and instead filed this suit</i>}"
+    field: TODO
+  - token: p044
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p045
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p046
+    raw: "{<i>his/her/its</i>}"
+    field: TODO
+  - token: p047
+    raw: "{<i>party</i>}"
+    field: TODO
+choices:
+  - token: c001
+    raw: CHOOSE ONE OF THE FOLLOWING
+    field: TODO

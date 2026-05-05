@@ -1,0 +1,89 @@
+form_id: 2B-15
+title: Parties — Defendant, Nonresident Corporation
+source: forms/Form_2B-15_Parties_-_Defendant,_Nonresident_Corporation.html
+template: templates/2B-15.html
+placeholders:
+  - token: p001
+    raw: "{<i>CHOOSE APPROPRIATE DESIGNATION</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>name 1</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>name of state</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p005
+    raw: "{_______}"
+    field: TODO
+  - token: p006
+    raw: "{<i>name of state</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>CHOOSE APPROPRIATE STATEMENT</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>president/vice president</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>name 2</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>Tex. Bus. Corp. Act art. 8.10(A).</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>name 2</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p013
+    raw: "{_______}"
+    field: TODO
+  - token: p014
+    raw: "{<i>Tex. Bus. Corp. Act art. 8.10(A).</i>}"
+    field: TODO
+  - token: p015
+    raw: "{<i>defendant has not appointed a registered agent for service/defendant has not maintained a registered agent for service/defendant’s registered agent cannot with reasonable diligence be found at the registered office</i>}"
+    field: TODO
+  - token: p016
+    raw: '{<i>See Tex. Bus. Corp. Act art. 8.10(B);</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “General rules,” ch. 2-H, §5.1, p. 129.</i>}'
+    field: TODO
+  - token: p017
+    raw: '{<i>See Tex. Bus. Corp. Act art. 8.10(B);</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “General rules,” ch. 2-H, §5.1, p. 129.</i>}'
+    field: TODO
+  - token: p018
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p019
+    raw: "{<i>name of state</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p021
+    raw: "{_______}"
+    field: TODO
+  - token: p022
+    raw: "{<i>name of state</i>}"
+    field: TODO
+  - token: p023
+    raw: "{<i>CHOOSE APPROPRIATE STATEMENT</i>}"
+    field: TODO
+  - token: p024
+    raw: '{<i>See Tex. Civ. Prac. &amp; Rem. Code §§17.044(a)(1), 17.045;</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “General rules,” ch. 2-H, §5.1, p. 129.</i>}'
+    field: TODO
+  - token: p025
+    raw: '{<i>See Tex. Civ. Prac. &amp; Rem. Code §§17.044(a)(1), 17.045;</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “General rules,” ch. 2-H, §5.1, p. 129.</i>}'
+    field: TODO
+  - token: p026
+    raw: '{<i>See Tex. Civ. Prac. &amp; Rem. Code §§17.044(a)(2), 17.045;</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “General rules,” ch. 2-H, §5.1, p. 129.</i>}'
+    field: TODO
+  - token: p027
+    raw: '{<i>See Tex. Civ. Prac. &amp; Rem. Code §§17.044(a)(3), 17.045;</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “General rules,” ch. 2-H, §5.1, p. 129.</i>}'
+    field: TODO
+  - token: p028
+    raw: '{<i>See Tex. Civ. Prac. &amp; Rem. Code §§17.044(b), 17.045;</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “General rules,” ch. 2-H, §5.1, p. 129.</i>}'
+    field: TODO

@@ -1,0 +1,134 @@
+form_id: "3E-9"
+title: Verified Pleas
+source: forms/Form_3E-9_Verified_Pleas.html
+template: templates/3E-9.html
+placeholders:
+  - token: p001
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPHS</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>Identify specific conditions precedent that have not been performed or have not occurred.</i>}"
+    field: TODO
+  - token: p003
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Denial of conditions precedent,” ch. 3-E, §5.4, p. 188.</i>}'
+    field: TODO
+  - token: p004
+    raw: "{<i>state why</i>}"
+    field: TODO
+  - token: p005
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Verified pleas in TRCP 93,” ch. 3-E, §4.1.1, p. 182.</i>}'
+    field: TODO
+  - token: p006
+    raw: "{<i>state why</i>}"
+    field: TODO
+  - token: p007
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Verified pleas in TRCP 93,” ch. 3-E, §4.1.2, p. 183.</i>}'
+    field: TODO
+  - token: p008
+    raw: "{<i>defendant/plaintiff</i>}"
+    field: TODO
+  - token: p009
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Verified pleas in TRCP 93,” ch. 3-E, §4.1.5, p. 183.</i>}'
+    field: TODO
+  - token: p010
+    raw: "{<i>defendant/plaintiff</i>}"
+    field: TODO
+  - token: p011
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Verified pleas in TRCP 93,” ch. 3-E, §4.1.6, p. 183.</i>}'
+    field: TODO
+  - token: p012
+    raw: "{<i>defendant/plaintiff</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p014
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Verified pleas in TRCP 93,” ch. 3-E, §4.1.14, p. 184.</i>}'
+    field: TODO
+  - token: p015
+    raw: "{<i>defendant/plaintiff</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>state other defects of parties</i>}"
+    field: TODO
+  - token: p017
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Verified pleas in TRCP 93,” ch. 3-E, §4.1.4, p. 183.</i>}'
+    field: TODO
+  - token: p018
+    raw: "{<i>Identify the cause number, style, and court of the other suit.</i>}"
+    field: TODO
+  - token: p019
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Verified pleas in TRCP 93,” ch. 3-E, §4.1.3, p. 183.</i>}'
+    field: TODO
+  - token: p020
+    raw: "{<i>identify document</i>}"
+    field: TODO
+  - token: p021
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Verified pleas in TRCP 93,” ch. 3-E, §4.1.7, p. 183.</i>}'
+    field: TODO
+  - token: p022
+    raw: "{<i>identify document</i>}"
+    field: TODO
+  - token: p023
+    raw: "{<i>by/under the authority of</i>}"
+    field: TODO
+  - token: p024
+    raw: "{<i>name of decedent</i>}"
+    field: TODO
+  - token: p025
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Verified pleas in TRCP 93,” ch. 3-E, §4.1.7, p. 183.</i>}'
+    field: TODO
+  - token: p026
+    raw: "{<i>indorsement/assignment</i>}"
+    field: TODO
+  - token: p027
+    raw: "{<i>identify document</i>}"
+    field: TODO
+  - token: p028
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Verified pleas in TRCP 93,” ch. 3-E, §4.1.8, p. 183.</i>}'
+    field: TODO
+  - token: p029
+    raw: "{<i>identify document</i>}"
+    field: TODO
+  - token: p030
+    raw: "{<i>is without consideration/required consideration that failed in whole or in part</i>}"
+    field: TODO
+  - token: p031
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Verified pleas in TRCP 93,” ch. 3-E, §4.1.9, p. 183.</i>}'
+    field: TODO
+  - token: p032
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p033
+    raw: '{<i>See FORM 3E:3;</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Verified pleas in TRCP 93,” ch. 3-E, §4.1.10, p. 184.</i>}'
+    field: TODO
+  - token: p034
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Verified pleas in TRCP 93,” ch. 3-E, §4.1.11, p. 184.</i>}'
+    field: TODO
+  - token: p035
+    raw: "{<i>describe deficiencies in notice and proof of loss with particularity</i>}"
+    field: TODO
+  - token: p036
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Verified pleas in TRCP 93,” ch. 3-E, §4.1.12, p. 184.</i>}'
+    field: TODO
+  - token: p037
+    raw: "{<i>quote specific terms with which plaintiff did not comply</i>}"
+    field: TODO
+  - token: p038
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Verified pleas in TRCP 93,” ch. 3-E, §4.1.15, p. 184.</i>}'
+    field: TODO
+  - token: p039
+    raw: "{<i>identify matters listed in Tex. R. Civ. P. 93(13), regarding an appeal from the Industrial Accident Board</i>}"
+    field: TODO
+  - token: p040
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Verified pleas in TRCP 93,” ch. 3-E, §4.1.13, p. 184.</i>}'
+    field: TODO
+  - token: p041
+    raw: "{<i>identify statute</i>}"
+    field: TODO
+  - token: p042
+    raw: "{<i>state matter that must be denied by statute</i>}"
+    field: TODO
+  - token: p043
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Verified pleas in TRCP 93,” ch. 3-E, §4.1.16, p. 184.</i>}'
+    field: TODO

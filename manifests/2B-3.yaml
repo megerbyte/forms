@@ -1,0 +1,173 @@
+form_id: 2B-3
+title: Petition — Suit on Account
+source: forms/Form_2B-3_Petition_-_Suit_on_Account.html
+template: templates/2B-3.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPH 1</i>}"
+    field: TODO
+  - token: p003
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Discovery Control Plans,” ch. 2-B, §2, p. 71.</i>}'
+    field: TODO
+  - token: p004
+    raw: "{<i>2/3</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>190.3/190.4</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>explain</i>}"
+    field: TODO
+  - token: p007
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Discovery Control Plans,” ch. 2-B, §2, p. 71.</i>}'
+    field: TODO
+  - token: p008
+    raw: '{<i>For plaintiff designation, see FORM 2B:9;</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Plaintiff,” ch. 2-B, §3.4, p. 75.</i>}'
+    field: TODO
+  - token: p009
+    raw: '{<i>For defendant designation, see FORMS 2B:10 through 2B:19;</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Defendant,” ch. 2-B, §3.5, p. 75.</i>}'
+    field: TODO
+  - token: p010
+    raw: '{<i>For jurisdiction allegations, see FORM 2B:20. It is not necessary to plead jurisdiction for most suits.</i> <i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Jurisdiction,” ch. 2-B, §4, p. 77.</i>}'
+    field: TODO
+  - token: p011
+    raw: '{<i>For venue allegations, see FORM 2B:21. It is not necessary to plead venue, but pleading sufficient venue facts could avoid a motion to transfer venue.</i> <i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Venue,” ch. 2-B, §5, p. 78.</i>}'
+    field: TODO
+  - token: p012
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>identify location</i>}"
+    field: TODO
+  - token: p014
+    raw: "{_______}"
+    field: TODO
+  - token: p015
+    raw: "{<i>describe events that resulted in lawsuit</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>State other relevant facts in separately numbered paragraphs.</i>}"
+    field: TODO
+  - token: p017
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Pleading a Cause of Action,” ch. 2-B, §6, p. 78.</i>}'
+    field: TODO
+  - token: p018
+    raw: "{<i>goods/services</i>}"
+    field: TODO
+  - token: p019
+    raw: "{<i>goods/services</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>his/her/ its</i>}"
+    field: TODO
+  - token: p021
+    raw: "{<i>goods/services</i>}"
+    field: TODO
+  - token: p022
+    raw: "{<i>letter</i>}"
+    field: TODO
+  - token: p023
+    raw: "{<i>goods/services</i>}"
+    field: TODO
+  - token: p024
+    raw: "{<i>delivery/performance</i>}"
+    field: TODO
+  - token: p025
+    raw: "{<i>goods/services</i>}"
+    field: TODO
+  - token: p026
+    raw: "{<i>transaction/series of transactions</i>}"
+    field: TODO
+  - token: p027
+    raw: '{<i>See</i> <i class="c3">O’Connor’s COA</i><i>, “Breach of Contract,” ch. 5-B, p. 58.</i>}'
+    field: TODO
+  - token: p028
+    raw: "{<i>ADD PARAGRAPH 9 IF APPROPRIATE</i>}"
+    field: TODO
+  - token: p029
+    raw: "{<i>goods/services</i>}"
+    field: TODO
+  - token: p030
+    raw: "{<i>delivered/performed</i>}"
+    field: TODO
+  - token: p031
+    raw: "{<i>amount</i>}"
+    field: TODO
+  - token: p032
+    raw: "{<i>letter</i>}"
+    field: TODO
+  - token: p033
+    raw: "{<i>letter</i>}"
+    field: TODO
+  - token: p034
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPH 11</i>}"
+    field: TODO
+  - token: p035
+    raw: "{<i>amount</i>}"
+    field: TODO
+  - token: p036
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Unliquidated damages,” ch. 2-B, §8.2, p. 81.</i>}'
+    field: TODO
+  - token: p037
+    raw: "{<i>ADD PARAGRAPH 12 IF APPLICABLE</i> }"
+    field: TODO
+  - token: p038
+    raw: "{<i>defendant/defendant’s duly authorized agent</i>}"
+    field: TODO
+  - token: p039
+    raw: '{<i>See</i> <i class="c3">O’Connor’s COA</i><i>,</i> <i>“Attorney Fees Under CPRC Ch. 38,” ch. 49-B, p. 1175.</i>}'
+    field: TODO
+  - token: p040
+    raw: "{<i>ADD SECTIONS G-K AS APPROPRIATE</i>}"
+    field: TODO
+  - token: p041
+    raw: "{<i>services/materials</i>}"
+    field: TODO
+  - token: p042
+    raw: "{<i>In separately numbered paragraphs, identify elements and facts supporting quantum meruit.</i>}"
+    field: TODO
+  - token: p043
+    raw: '{<i>See</i> <i class="c3">O’Connor’s COA</i><i>, “Quantum Meruit,” ch. 5-C, p. 95;</i> <i class="c3">O’Connor’s COA Pleadings</i><i>, FORM 5C:1.</i>}'
+    field: TODO
+  - token: p044
+    raw: "{<i>the alternative/addition</i>}"
+    field: TODO
+  - token: p045
+    raw: "{<i>identify another cause of action</i>}"
+    field: TODO
+  - token: p046
+    raw: "{<i>In separately numbered paragraphs, identify elements and facts supporting the cause of action.</i>}"
+    field: TODO
+  - token: p047
+    raw: '{<i>For related claims, see</i> <i class="c3">O’Connor’s COA</i><i>, “Related Causes of Action,” ch. 5-B, §7, p. 94.</i>}'
+    field: TODO
+  - token: p048
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Jury Demand,” ch. 2-B, §12, p. 83.</i>}'
+    field: TODO
+  - token: p049
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Conditions Precedent,” ch. 2-B, §11, p. 82.</i>}'
+    field: TODO
+  - token: p050
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Content of request,” ch. 6-D, §3.2, p. 392.</i>}'
+    field: TODO
+  - token: p051
+    raw: "{<i>CHOOSE RELIEF SOUGHT</i>}"
+    field: TODO
+  - token: p052
+    raw: "{<i>Amount</i>}"
+    field: TODO
+  - token: p053
+    raw: '{<i>See</i> <i class="c3">O’Connor’s COA</i><i>, “Interest,” ch. 47, p. 1147.</i>}'
+    field: TODO
+  - token: p054
+    raw: '{<i>See</i> <i class="c3">O’Connor’s COA</i><i>, “Court Costs,” ch. 48, p. 1153.</i>}'
+    field: TODO
+  - token: p055
+    raw: '{<i>See</i> <i class="c3">O’Connor’s COA</i>, <i>“Attorney Fees Under CPRC Ch. 38,” ch. 49-B, p. 1175.</i>}'
+    field: TODO
+  - token: p056
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Prayer,” ch. 2-B, §14, p. 83.</i>}'
+    field: TODO

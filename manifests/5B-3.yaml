@@ -1,0 +1,83 @@
+form_id: 5B-3
+title: Response to Demand for Jury
+source: forms/Form_5B-3_Response_to_Demand_for_Jury.html
+template: templates/5B-3.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>PARTY</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p005
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Response,” ch. 5-B, §5, p. 244.</i>}'
+    field: TODO
+  - token: p006
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>state basis of suit</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>State facts relevant to the response.</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPH 6</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>Adverse party</i>}"
+    field: TODO
+  - token: p014
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p015
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>CHOOSE APPROPRIATE STATEMENT</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p018
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p019
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p021
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p022
+    raw: "{<i>he/she/it</i>}"
+    field: TODO
+  - token: p023
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Deadline in §51.604,” ch. 5-B, §4.2.2, p. 243.</i>}'
+    field: TODO
+  - token: p024
+    raw: "{<i>Briefly summarize the response.</i>}"
+    field: TODO
+  - token: p025
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p026
+    raw: "{<i>adverse party</i>}"
+    field: TODO

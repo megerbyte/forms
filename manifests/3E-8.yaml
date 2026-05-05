@@ -1,0 +1,104 @@
+form_id: "3E-8"
+title: Answer — Bill of Review
+source: forms/Form_3E-8_Answer_-_Bill_of_Review.html
+template: templates/3E-8.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p004
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “General Denial,” ch. 3-E, §3, p. 182.</i>}'
+    field: TODO
+  - token: p005
+    raw: "{<i>ADD SECTIONS B-G AS APPROPRIATE</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p007
+    raw: '{<i>See FORM 3F:1;</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Plea to the Jurisdiction-Challenging the Court,” ch. 3-F, p. 191.</i>}'
+    field: TODO
+  - token: p008
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPHS 3-4</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>number</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>state why, e.g., plaintiff was not a party to the earlier judgment</i>}"
+    field: TODO
+  - token: p011
+    raw: '{<i>For other verified pleas, see FORM 3E:9;</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Verified Pleas,” ch. 3-E, §4, p. 182.</i>}'
+    field: TODO
+  - token: p012
+    raw: "{<i>ADD APPROPRIATE PARAGRAPHS 5-8</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>See French v. Brown, 424 S.W.2d 893, 895 (Tex. 1967).</i>}"
+    field: TODO
+  - token: p014
+    raw: "{<i>Wembley Inv. Co. v. Herrera, 11 S.W.3d 924, 927 (Tex. 1999).</i>}"
+    field: TODO
+  - token: p015
+    raw: "{<i>Id.</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>case name</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>number</i>}"
+    field: TODO
+  - token: p018
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p019
+    raw: "{<i>Rizk v. Mayad, 603 S.W.2d 773, 776 (Tex. 1980).</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p021
+    raw: "{<i>Caldwell v. Barnes, 975 S.W.2d 535, 538 (Tex. 1998).</i>}"
+    field: TODO
+  - token: p022
+    raw: '{<i>For other affirmative defenses, see FORM 3E:10;</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Affirmative Defenses,” ch. 3-E, §5, p. 184.</i>}'
+    field: TODO
+  - token: p023
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPH 9</i>}"
+    field: TODO
+  - token: p024
+    raw: "{<i>he/she/it</i>}"
+    field: TODO
+  - token: p025
+    raw: "{<i>identify claim</i>}"
+    field: TODO
+  - token: p026
+    raw: "{<i>plaintiff/ plaintiff’s duly authorized agent</i>}"
+    field: TODO
+  - token: p027
+    raw: '{<i>See</i> <i class="c5">O’Connor’s COA</i>, <i>“Attorney Fees Under CPRC Ch. 38,” ch. 49-B, p. 1175.</i>}'
+    field: TODO
+  - token: p028
+    raw: "{<i>number</i>}"
+    field: TODO
+  - token: p029
+    raw: '{<i>See</i> <i class="c5">O’Connor’s COA</i><i>, “Attorney Fees Under Written Contract,” ch. 49-C, p. 1185.</i>}'
+    field: TODO
+  - token: p030
+    raw: "{<i>number</i>}"
+    field: TODO
+  - token: p031
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Unliquidated damages,” ch. 3-G, §2.2.5, p. 198. For the order on special exceptions, see FORM 3G:2.</i>}'
+    field: TODO
+  - token: p032
+    raw: "{<i>For other special exceptions, see FORM 3G:1.</i>}"
+    field: TODO
+  - token: p033
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Content of request,” ch. 6-D, §3.2, p. 392.</i>}'
+    field: TODO

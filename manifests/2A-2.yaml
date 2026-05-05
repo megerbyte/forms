@@ -1,0 +1,134 @@
+form_id: 2A-2
+title: Notice — Breach of Contract
+source: forms/Form_2A-2_Notice_-_Breach_of_Contract.html
+template: templates/2A-2.html
+placeholders:
+  - token: p001
+    raw: "{<i>Letterhead</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>Date</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>Name of defendant</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>Address</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>City, state, zip code</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>Description of claim</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>Name of defendant</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>name of client</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>name of client</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>executed a written contract/entered into an oral contract</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>list contractual obligations</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>list contractual obligations</i>}"
+    field: TODO
+  - token: p014
+    raw: "{<i>list unperformed contractual obligations</i>}"
+    field: TODO
+  - token: p015
+    raw: '{<i>See</i> <i class="c4">O’Connor’s COA</i><i>, “Proving an Enforceable Contract,” ch. 5-A, §2, p. 49.</i>}'
+    field: TODO
+  - token: p016
+    raw: "{<i>If no liquidated damages clause</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>amount</i>}"
+    field: TODO
+  - token: p018
+    raw: "{<i>specify type of damages incurred, e.g., expectation, reliance, restitution</i>}"
+    field: TODO
+  - token: p019
+    raw: '{<i>See</i> <i class="c4">O’Connor’s COA</i><i>, “Remedies,” ch. 5-B, §3, p. 70.</i>}'
+    field: TODO
+  - token: p020
+    raw: "{<i>If liquidated damages clause</i>}"
+    field: TODO
+  - token: p021
+    raw: "{<i>amount</i>}"
+    field: TODO
+  - token: p022
+    raw: "{<i>number</i>}"
+    field: TODO
+  - token: p023
+    raw: "{<i>Identify the provisions of the liquidated-damages clause.</i>}"
+    field: TODO
+  - token: p024
+    raw: '{<i>See</i> <i class="c4">O’Connor’s COA</i><i>, “Remedies,” ch. 5-B, §3, p. 70.</i>}'
+    field: TODO
+  - token: p025
+    raw: "{<i>amount</i>}"
+    field: TODO
+  - token: p026
+    raw: "{<i>amount</i>}"
+    field: TODO
+  - token: p027
+    raw: "{<i>CHOOSE APPROPRIATE STATEMENT FOR ATTORNEY FEES</i>}"
+    field: TODO
+  - token: p028
+    raw: '{<i>See</i> <i class="c4">O’Connor’s COA</i><i>, “Attorney fees,” ch. 5-B, §3.8, p. 76.</i>}'
+    field: TODO
+  - token: p029
+    raw: "{<i>number</i>}"
+    field: TODO
+  - token: p030
+    raw: "{<i>quote</i> <i>relevant provisions of contract</i>}"
+    field: TODO
+  - token: p031
+    raw: '{<i>See</i> <i class="c4">O’Connor’s COA</i><i>, “Contract provided for attorney fees,” ch. 49-C, §2.3, p. 1186.</i>}'
+    field: TODO
+  - token: p032
+    raw: "{<i>CHOOSE APPROPRIATE STATEMENT</i>}"
+    field: TODO
+  - token: p033
+    raw: "{<i>amount</i>}"
+    field: TODO
+  - token: p034
+    raw: "{<i>identify unperformed obligations</i>}"
+    field: TODO
+  - token: p035
+    raw: "{<i>number of days, 30 or greater</i>}"
+    field: TODO
+  - token: p036
+    raw: '{<i>See</i> <i class="c4">O’Connor’s COA</i><i>, “Specific performance,” ch. 5-B, §3.5.1, p. 73.</i>}'
+    field: TODO
+  - token: p037
+    raw: "{<i>amount</i>}"
+    field: TODO
+  - token: p038
+    raw: "{<i>specify terms</i>}"
+    field: TODO
+  - token: p039
+    raw: "{<i>number of days, 30 or greater</i>}"
+    field: TODO
+  - token: p040
+    raw: "{<i>amount</i>}"
+    field: TODO
+  - token: p041
+    raw: "{<i>specify terms</i>}"
+    field: TODO
+  - token: p042
+    raw: "{<i>number of days, 30 or greater</i>}"
+    field: TODO
+  - token: p043
+    raw: "{<i>Name of client’s attorney</i>}"
+    field: TODO

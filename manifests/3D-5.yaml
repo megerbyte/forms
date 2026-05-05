@@ -1,0 +1,185 @@
+form_id: 3D-5
+title: Code FNC Reply — P Not Texas Resident
+source: forms/Form_3D-5_Code_FNC_Reply_-_P_Not_Texas_Resident.html
+template: templates/3D-5.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>dismiss/stay</i>}"
+    field: TODO
+  - token: p003
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Defendant’s reply,” ch. 3-D, §3.5, p. 178.</i>}'
+    field: TODO
+  - token: p004
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>state basis of suit</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>State facts relevant to the reply.</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPHS 5-15</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>he/she</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>Elaborate and refer to evidence attached to the reply.</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>he/she</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>he/she</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>Elaborate and refer to evidence attached to the reply.</i>}"
+    field: TODO
+  - token: p014
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Legal resident,” ch. 3-D, §3.1.2, p. 175.</i>}'
+    field: TODO
+  - token: p015
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>alternate forum</i>}"
+    field: TODO
+  - token: p018
+    raw: "{<i>Demonstrate by preponderance of the evidence why joinder of Texas plaintiffs was improper and refer to evidence attached to the reply.</i>}"
+    field: TODO
+  - token: p019
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Plaintiff is Texas resident,” ch. 3-D, §3.4.2(1), p. 177.</i>}'
+    field: TODO
+  - token: p020
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p021
+    raw: "{<i>Demonstrate how the claims of resident and nonresident plaintiffs did not arise out of a single occurrence.</i>}"
+    field: TODO
+  - token: p022
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Plaintiff is Texas resident,” ch. 3-D, §3.4.2(1), p. 177.</i>}'
+    field: TODO
+  - token: p023
+    raw: "{<i>alternate forum</i>}"
+    field: TODO
+  - token: p024
+    raw: "{<i>repeat plaintiff’s allegations</i>}"
+    field: TODO
+  - token: p025
+    raw: "{<i>Refute plaintiff’s allegations and refer to evidence attached to the reply.</i>}"
+    field: TODO
+  - token: p026
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Alternate forum,” ch. 3-D, §3.4.2(2), p. 177.</i>}'
+    field: TODO
+  - token: p027
+    raw: "{<i>alternate forum</i>}"
+    field: TODO
+  - token: p028
+    raw: "{<i>Identify properly joined defendants and show that alternate forum can exercise jurisdiction over each and refer to evidence attached to the reply. If necessary, file a stipulation agreeing to the exercise of personal jurisdiction by that forum.</i>}"
+    field: TODO
+  - token: p029
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “No jurisdiction,” ch. 3-D, §3.4.2(4), p. 177.</i>}'
+    field: TODO
+  - token: p030
+    raw: "{<i>repeat plaintiff’s allegations</i>}"
+    field: TODO
+  - token: p031
+    raw: "{<i>Refute plaintiff’s allegations and refer to evidence attached to the reply.</i>}"
+    field: TODO
+  - token: p032
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “No substantial injustice,” ch. 3-D, §3.4.2(3), p. 177.</i>}'
+    field: TODO
+  - token: p033
+    raw: "{<i>alternate forum</i>}"
+    field: TODO
+  - token: p034
+    raw: "{<i>repeat plaintiff’s private-interest arguments</i>}"
+    field: TODO
+  - token: p035
+    raw: "{<i>Refute each of plaintiff’s arguments.</i>}"
+    field: TODO
+  - token: p036
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Balance of interests,” ch. 3-D, §3.4.2(5), p. 177.</i>}'
+    field: TODO
+  - token: p037
+    raw: "{<i>alternate forum</i>}"
+    field: TODO
+  - token: p038
+    raw: "{<i>repeat plaintiff’s public-interest arguments</i>}"
+    field: TODO
+  - token: p039
+    raw: "{<i>Refute each of plaintiff’s arguments.</i>}"
+    field: TODO
+  - token: p040
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Balance of interests,” ch. 3-D, §3.4.2(5), p. 177.</i>}'
+    field: TODO
+  - token: p041
+    raw: "{<i>his/her</i>}"
+    field: TODO
+  - token: p042
+    raw: "{<i>injury/death</i>}"
+    field: TODO
+  - token: p043
+    raw: "{<i>Elaborate and refer to evidence attached to the reply.</i>}"
+    field: TODO
+  - token: p044
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Texas injury,” ch. 3-D, §3.4.2(5)(b), p. 178.</i>}'
+    field: TODO
+  - token: p045
+    raw: "{<i>dismissal/stay</i>}"
+    field: TODO
+  - token: p046
+    raw: "{<i>Refute plaintiff’s allegations and refer to evidence attached to the reply.</i>}"
+    field: TODO
+  - token: p047
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Duplication or proliferation,” ch. 3-D, §3.4.2(6), p. 178.</i>}'
+    field: TODO
+  - token: p048
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPHS 16-18</i>}"
+    field: TODO
+  - token: p049
+    raw: "{<i>state reasons court should dismiss instead of stay</i>}"
+    field: TODO
+  - token: p050
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Dismissal or stay under Code,” ch. 3-D, §6.1, p. 180.</i>}'
+    field: TODO
+  - token: p051
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p052
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p053
+    raw: "{<i>he/she</i>}"
+    field: TODO
+  - token: p054
+    raw: "{<i>state why terms and conditions are not appropriate</i>}"
+    field: TODO
+  - token: p055
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Dismissal or stay under Code,” ch. 3-D, §6.1, p. 180.</i>}'
+    field: TODO
+  - token: p056
+    raw: "{<i>dismiss/stay</i>}"
+    field: TODO
+  - token: p057
+    raw: "{<i>alternate forum</i>}"
+    field: TODO
+  - token: p058
+    raw: "{<i>alternate forum</i>}"
+    field: TODO
+  - token: p059
+    raw: "{<i>his/her/its</i>}"
+    field: TODO
+  - token: p060
+    raw: "{<i>dismissing/staying</i>}"
+    field: TODO

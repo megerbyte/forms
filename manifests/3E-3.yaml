@@ -1,0 +1,104 @@
+form_id: "3E-3"
+title: Answer — Suit on Account
+source: forms/Form_3E-3_Answer_-_Suit_on_Account.html
+template: templates/3E-3.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p004
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “General Denial,” ch. 3-E, §3, p. 182.</i>}'
+    field: TODO
+  - token: p005
+    raw: "{<i>ADD SECTIONS B-G AS APPROPRIATE</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p007
+    raw: '{<i>See FORM 3F:1;</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Plea to the Jurisdiction-Challenging the Court,” ch. 3-F, p. 191.</i>}'
+    field: TODO
+  - token: p008
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPHS 3-12</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>List each item that is not just or true and explain why it is not just or true.</i>}"
+    field: TODO
+  - token: p010
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Verified pleas in TRCP 93,” ch. 3-E, §4.1.10, p. 184.</i>}'
+    field: TODO
+  - token: p011
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p014
+    raw: "{<i>goods/services/goods and services</i>}"
+    field: TODO
+  - token: p015
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>Elaborate, e.g., defendant had only one business transaction with plaintiff, and defendant paid plaintiff in full at the time of that transaction.</i>}"
+    field: TODO
+  - token: p018
+    raw: "{<i>state any other reason that defendant is not liable to plaintiff as alleged in plaintiff’s suit</i>}"
+    field: TODO
+  - token: p019
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>Identify specific conditions precedent that have not been performed or have not occurred.</i>}"
+    field: TODO
+  - token: p021
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Denial of conditions precedent,” ch. 3-E, §5.4, p. 188.</i>}'
+    field: TODO
+  - token: p022
+    raw: '{<i>For other verified pleas, see FORM 3E:9;</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Verified Pleas,” ch. 3-E, §4, p. 182.</i>}'
+    field: TODO
+  - token: p023
+    raw: '{<i>For affirmative defenses, see FORM 3E:10;</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Affirmative Defenses,” ch. 3-E, §5, p. 184.</i>}'
+    field: TODO
+  - token: p024
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Request for Jury Trial,” ch. 5-B, p. 241.</i>}'
+    field: TODO
+  - token: p025
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPHS 15-17</i>}"
+    field: TODO
+  - token: p026
+    raw: "{<i>number</i>}"
+    field: TODO
+  - token: p027
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Unliquidated damages,” ch. 3-G, §2.2.5, p. 198. For the order on special exceptions, see FORM 3G:2.</i>}'
+    field: TODO
+  - token: p028
+    raw: "{<i>describe cause of action, e.g., breach of a lease</i>}"
+    field: TODO
+  - token: p029
+    raw: "{<i>Elaborate, e.g., a suit involving a breach of a lease agreement is not a valid claim on a sworn account.</i>}"
+    field: TODO
+  - token: p030
+    raw: "{<i>See Murphy v. Cintas Corp., 923 S.W.2d 663, 665 (Tex. App.—Tyler 1996, writ denied).</i>}"
+    field: TODO
+  - token: p031
+    raw: "{<i>For other special exceptions, see FORM 3G:1.</i>}"
+    field: TODO
+  - token: p032
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Content of request,” ch. 6-D, §3.2, p. 392.</i>}'
+    field: TODO
+  - token: p033
+    raw: "{<i>If defendant asserts claims for affirmative relief, include a request for rendition of judgment on those claims. See FORM 2B:1.</i>}"
+    field: TODO

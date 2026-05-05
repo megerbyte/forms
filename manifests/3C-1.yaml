@@ -1,0 +1,177 @@
+form_id: 3C-1
+title: Venue — Motion to Transfer, Improper County
+source: forms/Form_3C-1_Venue_-_Motion_to_Transfer,_Improper_County.html
+template: templates/3C-1.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>current</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>proposed</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>current</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>state basis of suit</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>current</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>proposed</i>}"
+    field: TODO
+  - token: p010
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Improper County &amp; Convenience,” ch. 3-C, §2, p. 162.</i>}'
+    field: TODO
+  - token: p011
+    raw: "{<i>ADD PARAGRAPH 4 IF SPECIAL APPEARANCE IS PENDING</i>}"
+    field: TODO
+  - token: p012
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Due Order of Pleadings,” ch. 3-A, §3, p. 147.</i>}'
+    field: TODO
+  - token: p013
+    raw: "{<i>deny each venue fact pleaded by plaintiff, e.g., a substantial part of the events giving rise to this suit arose in this county, defendant has its principal office in this county</i>}"
+    field: TODO
+  - token: p014
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p015
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Denial of venue facts,” ch. 3-C, §2.11.4(1), p. 168.</i>}'
+    field: TODO
+  - token: p016
+    raw: "{<i>proposed</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>plead venue facts supporting transfer to county of proper venue</i>}"
+    field: TODO
+  - token: p018
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Allege specific county,” ch. 3-C, §2.4.2, p. 164.</i>}'
+    field: TODO
+  - token: p019
+    raw: "{<i>current</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>current</i>}"
+    field: TODO
+  - token: p021
+    raw: "{<i>Elaborate, identifying statutory provision or other reason that makes venue in this county improper, and stating facts that support the argument.</i>}"
+    field: TODO
+  - token: p022
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPH 9</i>}"
+    field: TODO
+  - token: p023
+    raw: "{<i>proposed</i>}"
+    field: TODO
+  - token: p024
+    raw: "{<i>specify mandatory provision, e.g., Texas Civil Practice &amp; Remedies Code section 15.011</i>}"
+    field: TODO
+  - token: p025
+    raw: "{<i>specify reason, e.g., this suit involves partition of real property in Lubbock County</i>}"
+    field: TODO
+  - token: p026
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Mandatory Venue Provisions,” ch. 2-G, §4, p. 118.</i>}'
+    field: TODO
+  - token: p027
+    raw: "{<i>proposed</i>}"
+    field: TODO
+  - token: p028
+    raw: "{<i>proposed</i>}"
+    field: TODO
+  - token: p029
+    raw: "{<i>identify statute, e.g., Texas Civil Practice &amp; Remedies Code section 15.031</i>}"
+    field: TODO
+  - token: p030
+    raw: "{<i>specify reason, e.g., this is a suit for a debt of an estate and the proposed county is the county where the estate is being administered</i>}"
+    field: TODO
+  - token: p031
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p032
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Permissive Venue Provisions,” ch. 2-G, §6, p. 122.</i>}'
+    field: TODO
+  - token: p033
+    raw: "{<i>proposed</i>}"
+    field: TODO
+  - token: p034
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “General Venue Rule,” ch. 2-G, §5, p. 121.</i>}'
+    field: TODO
+  - token: p035
+    raw: "{<i>proposed</i>}"
+    field: TODO
+  - token: p036
+    raw: "{<i>is/was</i>}"
+    field: TODO
+  - token: p037
+    raw: '{<i><span data-token="c001" class="choice-marker">CHOOSE ONE OF THE FOLLOWING</span></i>}'
+    field: TODO
+  - token: p038
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p039
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p040
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p041
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p042
+    raw: "{<i>proposed</i>}"
+    field: TODO
+  - token: p043
+    raw: "{<i>number</i>}"
+    field: TODO
+  - token: p044
+    raw: "{<i>proposed</i>}"
+    field: TODO
+  - token: p045
+    raw: "{<i>proposed</i>}"
+    field: TODO
+  - token: p046
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p047
+    raw: "{<i>letter</i>}"
+    field: TODO
+  - token: p048
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Consent Transfer,” ch. 3-C, §4, p. 172.</i>}'
+    field: TODO
+  - token: p049
+    raw: "{<i>ADD SECTION D IF APPROPRIATE</i>}"
+    field: TODO
+  - token: p050
+    raw: "{<i>Insert allegations from FORM 3C:3.</i>}"
+    field: TODO
+  - token: p051
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Venue convenient elsewhere,” ch. 3-C, §2.3.5, p. 163.</i>}'
+    field: TODO
+  - token: p052
+    raw: "{<i>proposed</i>}"
+    field: TODO
+  - token: p053
+    raw: "{<i>proposed</i>}"
+    field: TODO
+  - token: p054
+    raw: "{<i>his/her/its</i>}"
+    field: TODO
+  - token: p055
+    raw: "{<i>proposed</i>}"
+    field: TODO
+  - token: p056
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Request hearing,” ch. 3-C, §2.2.5, p. 163.</i>}'
+    field: TODO
+choices:
+  - token: c001
+    raw: CHOOSE ONE OF THE FOLLOWING
+    field: TODO

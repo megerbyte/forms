@@ -1,0 +1,185 @@
+form_id: 5D-1
+title: Motion for Continuance — Additional Discovery
+source: forms/Form_5D-1_Motion_for_Continuance_-_Additional_Discovery.html
+template: templates/5D-1.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>number</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>testimony/evidence</i>}"
+    field: TODO
+  - token: p005
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Continuance for Additional Discovery,” ch. 5-D, §8, p. 256.</i>}'
+    field: TODO
+  - token: p006
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>state basis of suit</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>1/2/3</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>will end/ended</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p012
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Discovery Control Plans,” ch. 6-A, §7, p. 332.</i>}'
+    field: TODO
+  - token: p013
+    raw: "{<i>All/Most/A significant part/No significant part/None</i>}"
+    field: TODO
+  - token: p014
+    raw: "{<i>trial/hearing</i>}"
+    field: TODO
+  - token: p015
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>State other facts relevant to the motion.</i>}"
+    field: TODO
+  - token: p018
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p019
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Continuance for Additional Discovery,” ch. 5-D, §8, p. 256.</i>}'
+    field: TODO
+  - token: p020
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p021
+    raw: "{<i>testimony/evidence</i>}"
+    field: TODO
+  - token: p022
+    raw: "{<i>describe the testimony or other evidence needed</i>}"
+    field: TODO
+  - token: p023
+    raw: "{<i>testimony/evidence</i>}"
+    field: TODO
+  - token: p024
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p025
+    raw: "{<i>claim/defense</i>}"
+    field: TODO
+  - token: p026
+    raw: "{<i>identify</i> <i>claim or defense</i>}"
+    field: TODO
+  - token: p027
+    raw: "{<i>state facts showing materiality of evidence</i>}"
+    field: TODO
+  - token: p028
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p029
+    raw: "{<i>testimony/evidence</i>}"
+    field: TODO
+  - token: p030
+    raw: "{<i>Explain.</i>}"
+    field: TODO
+  - token: p031
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p032
+    raw: "{<i>testimony/evidence</i>}"
+    field: TODO
+  - token: p033
+    raw: "{<i>he/she/it</i>}"
+    field: TODO
+  - token: p034
+    raw: "{<i>Summarize discovery attempts demonstrating diligence</i>. <i>If known, state why discovery attempts did not secure evidence.</i>}"
+    field: TODO
+  - token: p035
+    raw: "{<i>ADD APPROPRIATE PARAGRAPHS 14-19</i>}"
+    field: TODO
+  - token: p036
+    raw: "{<i>If continuance based on need for deposition</i>}"
+    field: TODO
+  - token: p037
+    raw: "{<i>name of witness</i>}"
+    field: TODO
+  - token: p038
+    raw: "{<i>street address, county, state</i>}"
+    field: TODO
+  - token: p039
+    raw: "{<i>state facts showing unavailability</i>}"
+    field: TODO
+  - token: p040
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p041
+    raw: "{<i>name of witness</i>}"
+    field: TODO
+  - token: p042
+    raw: "{<i>describe expected testimony</i>}"
+    field: TODO
+  - token: p043
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p044
+    raw: "{<i>name of witness</i>}"
+    field: TODO
+  - token: p045
+    raw: "{<i>letter</i>}"
+    field: TODO
+  - token: p046
+    raw: "{<i>If continuance based on need for other discovery</i>}"
+    field: TODO
+  - token: p047
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p048
+    raw: "{<i>describe type of discovery needed, e.g., request production of documents</i>}"
+    field: TODO
+  - token: p049
+    raw: "{<i>letter</i>}"
+    field: TODO
+  - token: p050
+    raw: "{<i>describe discovery request, e.g., request for production of documents</i>}"
+    field: TODO
+  - token: p051
+    raw: "{<i>If second or later motion</i>}"
+    field: TODO
+  - token: p052
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p053
+    raw: "{<i>number</i>}"
+    field: TODO
+  - token: p054
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p055
+    raw: "{<i>State facts that demonstrate inability to obtain testimony elsewhere.</i>}"
+    field: TODO
+  - token: p056
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Not otherwise available,” ch. 5-D, §8.7, p. 257.</i>}'
+    field: TODO
+  - token: p057
+    raw: "{<i>Briefly summarize the motion.</i>}"
+    field: TODO
+  - token: p058
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p059
+    raw: "{<i>number</i>}"
+    field: TODO
+  - token: p060
+    raw: "{<i>date</i>}"
+    field: TODO

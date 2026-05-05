@@ -1,0 +1,59 @@
+form_id: 1H-2
+title: Pro Hac Vice — Motion by Nonresident Attorney
+source: forms/Form_1H-2_Pro_Hac_Vice_-_Motion_by_Nonresident_Attorney.html
+template: templates/1H-2.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>name of nonresident attorney</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>name of Texas attorney</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>Name of Texas attorney</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>His/Her</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>number</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>his/her</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>address, telephone, and fax number</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPH 2</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>name of state in which licensed</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>name of state in which licensed</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>have/have not</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>a/any</i>}"
+    field: TODO
+  - token: p014
+    raw: "{<i>If necessary, identify and describe all disciplinary actions taken.</i>}"
+    field: TODO
+  - token: p015
+    raw: "{<i>have/have not</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>a/any</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>a/any</i>}"
+    field: TODO
+  - token: p018
+    raw: "{<i>If necessary, identify and describe all denied admissions, including information for court to which admission was denied.</i>}"
+    field: TODO

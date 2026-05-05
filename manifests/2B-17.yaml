@@ -1,0 +1,89 @@
+form_id: 2B-17
+title: Parties — Defendant, Nonresident Joint Stock Company
+source: forms/Form_2B-17_Parties_-_Defendant,_Nonresident_Joint_Stock_Company.html
+template: templates/2B-17.html
+placeholders:
+  - token: p001
+    raw: "{<i>CHOOSE APPROPRIATE DESIGNATION</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>name 1</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>name of state</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>stockholder/member</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>name 2</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>his/her</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>home/home office</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>_______</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>name of state</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>name 2</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>See Tex. Rev. Civ. Stat. arts. 6133, 6137; Tex. Civ. Prac. &amp; Rem. Code §17.045.</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>name 1</i>}"
+    field: TODO
+  - token: p014
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p015
+    raw: "{_______}"
+    field: TODO
+  - token: p016
+    raw: "{<i>name of state</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>CHOOSE APPROPRIATE STATEMENT</i>}"
+    field: TODO
+  - token: p018
+    raw: "{<i>president/secretary/treasurer/general agent</i>}"
+    field: TODO
+  - token: p019
+    raw: "{<i>name 2</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>address</i>}"
+    field: TODO
+  - token: p021
+    raw: "{<i>_______</i>}"
+    field: TODO
+  - token: p022
+    raw: "{<i>name of state</i>}"
+    field: TODO
+  - token: p023
+    raw: "{<i>Tex. Rev. Civ. Stat. arts. 6133, 6134; Tex. Civ. Prac. &amp; Rem. Code §17.045.</i>}"
+    field: TODO
+  - token: p024
+    raw: '{<i>See Tex. Civ. Prac. &amp; Rem. Code §§17.044(a)(1), 17.045;</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “General rules,” ch. 2-H, §5.1, p. 129.</i>}'
+    field: TODO
+  - token: p025
+    raw: '{<i>See Tex. Civ. Prac. &amp; Rem. Code §§17.044(a)(1), 17.045;</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “General rules,” ch. 2-H, §5.1, p. 129.</i>}'
+    field: TODO
+  - token: p026
+    raw: '{<i>See Tex. Civ. Prac. &amp; Rem. Code §§17.044(a)(2), 17.045;</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “General rules,” ch. 2-H, §5.1, p. 129.</i>}'
+    field: TODO
+  - token: p027
+    raw: '{<i>See Tex. Civ. Prac. &amp; Rem. Code §§17.044(a)(3), 17.045;</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “General rules,” ch. 2-H, §5.1, p. 129.</i>}'
+    field: TODO
+  - token: p028
+    raw: '{<i>See Tex. Civ. Prac. &amp; Rem. Code §§17.044(b), 17.045;</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “General rules,” ch. 2-H, §5.1, p. 129.</i>}'
+    field: TODO

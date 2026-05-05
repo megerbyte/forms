@@ -1,0 +1,386 @@
+form_id: 2B-21
+title: Venue
+source: forms/Form_2B-21_Venue.html
+template: templates/2B-21.html
+placeholders:
+  - token: p001
+    raw: "{<i>CHOOSE APPROPRIATE VENUE ALLEGATION</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>General venue allegation</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>mandatory/permissive/proper</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>_______</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>identify statute</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>state reason</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>Mandatory venue allegations from Tex. Civ. Prac. &amp; Rem. Code ch. 15</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>_______</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>number</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>claims/ causes of action</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>transaction/occurrence/ series of transactions/series of occurrences</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>claims/ causes of action</i>}"
+    field: TODO
+  - token: p014
+    raw: "{<i>identify section in Subchapter B</i>}"
+    field: TODO
+  - token: p015
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>all/part</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p018
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>,</i> <i>“Suit affecting title to land,” ch. 2-G, §4.1.1, p. 118;</i> <i class="c5">O’Connor’s COA</i><i>,</i> <i>“Venue,” ch. 21-A, §6.1, p. 594.</i>}'
+    field: TODO
+  - token: p019
+    raw: "{<i>all/part</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p021
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>,</i> <i>“Landlord-tenant suit,” ch. 2-G, §4.1.2, p. 119.</i>}'
+    field: TODO
+  - token: p022
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p023
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>,</i> <i>“Injunction against suit,” ch. 2-G, §4.1.3, p. 119.</i>}'
+    field: TODO
+  - token: p024
+    raw: "{<i>judgment/writ</i>}"
+    field: TODO
+  - token: p025
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p026
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>,</i> <i>“Injunction against execution of judgment,” ch. 2-G, §4.1.4, p. 119.</i>}'
+    field: TODO
+  - token: p027
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p028
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>,</i> <i>“Mandamus against State,” ch. 2-G, §4.1.5, p. 119.</i>}'
+    field: TODO
+  - token: p029
+    raw: "{<i>_______</i>}"
+    field: TODO
+  - token: p030
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p031
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>,</i> <i>“Action against county,” ch. 2-G, §4.1.6, p. 119;</i> <i class="c5">O’Connor’s COA</i><i>,</i> <i>“Venue,” ch. 24-A, §5.1.3, p. 732.</i>}'
+    field: TODO
+  - token: p032
+    raw: "{<i>_______</i>}"
+    field: TODO
+  - token: p033
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p034
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>,</i> <i>“Suit against political subdivisions,” ch. 2-G, §4.1.7, p. 119;</i> <i class="c5">O’Connor’s COA</i><i>,</i> <i>“Venue,” ch. 24-A, §5.1.3, p. 732.</i>}'
+    field: TODO
+  - token: p035
+    raw: "{<i>libel/slander/invasion of privacy</i>}"
+    field: TODO
+  - token: p036
+    raw: "{<i>where plaintiff resided when this claim accrued/where defendant resided when the suit was filed/of defendant’s residence/of defendant’s corporate domicile</i>}"
+    field: TODO
+  - token: p037
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p038
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>,</i> <i>“Suit involving defamation or invasion of privacy,” ch. 2-G, §4.1.8, p. 119;</i> <i class="c5">O’Connor’s COA</i><i>,</i> <i>“Venue,” ch. 15-A, §6.1, p. 329; “Venue,” ch. 17-A, §6.3, p. 397.</i>}'
+    field: TODO
+  - token: p039
+    raw: "{<i>name of TDCJ facility</i>}"
+    field: TODO
+  - token: p040
+    raw: "{<i>_______</i>}"
+    field: TODO
+  - token: p041
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p042
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>,</i> <i>“Inmate litigation,” ch. 2-G, §4.1.10, p. 119.</i>}'
+    field: TODO
+  - token: p043
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p044
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>,</i> <i>“Contractual agreement for venue,” ch. 2-G, §4.1.11, p. 120;</i> <i class="c5">O’Connor’s COA</i><i>, “Major transaction,” ch. 5-B, §6.2.4(1), p. 93.</i>}'
+    field: TODO
+  - token: p045
+    raw: "{<i>Other mandatory venue allegations from Tex. Civ. Prac. &amp; Rem. Code</i>}"
+    field: TODO
+  - token: p046
+    raw: "{<i>_______</i>}"
+    field: TODO
+  - token: p047
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p048
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p049
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>,</i> <i>“Injunction against party,” ch. 2-G, §4.2.2, p. 120.</i>}'
+    field: TODO
+  - token: p050
+    raw: "{<i>proceedings in a suit/execution on a judgment</i>}"
+    field: TODO
+  - token: p051
+    raw: "{<i>suit is pending/the judgment was rendered</i>}"
+    field: TODO
+  - token: p052
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p053
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>,</i> <i>“Injunction against party,” ch. 2-G, §4.2.2, p. 120.</i>}'
+    field: TODO
+  - token: p054
+    raw: "{<i>all/part</i>}"
+    field: TODO
+  - token: p055
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p056
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>,</i> <i>“TTCA suit,” ch. 2-G, §4.2.1, p. 120;</i> <i class="c5">O’Connor’s COA</i><i>,</i> <i>“Venue,” ch. 24-A, §5.1.3, p. 732.</i>}'
+    field: TODO
+  - token: p057
+    raw: "{<i>this is the county of plaintiff’s residence/suit may always be brought in Travis County</i>}"
+    field: TODO
+  - token: p058
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p059
+    raw: '{<i>See</i> <i class="c5">O’Connor’s COA</i><i>, “Venue,” ch. 23-C, §2.3.2(1)(b), p. 701.</i>}'
+    field: TODO
+  - token: p060
+    raw: "{<i>Other mandatory venue allegations</i>}"
+    field: TODO
+  - token: p061
+    raw: "{<i>_______</i>}"
+    field: TODO
+  - token: p062
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p063
+    raw: "{<i>identify statute, e.g., Texas Education Code section 106.38</i>}"
+    field: TODO
+  - token: p064
+    raw: "{<i>name of university</i>}"
+    field: TODO
+  - token: p065
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p066
+    raw: '{<i>See</i> <i class="c5">O’Connor’s COA</i><i>, “University,” ch. 23-A, §3.2.5, p. 684.</i>}'
+    field: TODO
+  - token: p067
+    raw: "{<i>the transaction was entered into/the usurious interest was charged or received/defendant resided when the action was filed/defendant maintains its principal office/plaintiff resided when the claim accrued</i>}"
+    field: TODO
+  - token: p068
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p069
+    raw: '{<i>See</i> <i class="c5">O’Connor’s COA</i><i>, “Venue,” ch. 30, §6.3, p. 849.</i>}'
+    field: TODO
+  - token: p070
+    raw: "{<i>the transaction was entered into/defendant resided when the action was filed</i>}"
+    field: TODO
+  - token: p071
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p072
+    raw: '{<i>See</i> <i class="c5">O’Connor’s COA</i><i>, “Venue,” ch. 30, §6.3, p. 849.</i>}'
+    field: TODO
+  - token: p073
+    raw: "{<i>Permissive venue allegations from Tex. Civ. Prac. &amp; Rem. Code ch. 15</i>}"
+    field: TODO
+  - token: p074
+    raw: "{<i>_______</i>}"
+    field: TODO
+  - token: p075
+    raw: "{<i>executor/administrator/ guardian</i>}"
+    field: TODO
+  - token: p076
+    raw: "{<i>name of decedent</i>}"
+    field: TODO
+  - token: p077
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p078
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>,</i> <i>“Suit against executor, administrator, or guardian,” ch. 2-G, §6.1.1, p. 122.</i>}'
+    field: TODO
+  - token: p079
+    raw: "{<i>fire/marine/inland</i>}"
+    field: TODO
+  - token: p080
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p081
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>,</i> <i>“Suit on insurance contract,” ch. 2-G, §6.1.4, p. 123.</i>}'
+    field: TODO
+  - token: p082
+    raw: "{<i>life/accident/health</i>}"
+    field: TODO
+  - token: p083
+    raw: "{<i>defendant’s principal Texas office is located/the loss occurred/the policyholder who instituted suit resided when the cause of action accrued/the beneficiary who instituted suit resided when the cause of action accrued</i>}"
+    field: TODO
+  - token: p084
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p085
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>,</i> <i>“Suit on insurance contract,” ch. 2-G, §6.1.4, p. 123.</i>}'
+    field: TODO
+  - token: p086
+    raw: "{<i>all or a substantial part of the events or omissions giving rise to the claim occurred/ the manufacturer has its principal Texas office/the plaintiff resided when this cause of action accrued</i>}"
+    field: TODO
+  - token: p087
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p088
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>,</i> <i>“Breach of warranty,” ch. 2-G, §6.1.2, p. 122;</i> <i class="c5">O’Connor’s COA</i><i>,</i> <i>“Venue for manufacturers,” ch. 31-B, §6.4, p. 877.</i>}'
+    field: TODO
+  - token: p089
+    raw: "{<i>was identified as the place for an obligation under the contract to be performed/is where defendant is domiciled</i>}"
+    field: TODO
+  - token: p090
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p091
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>,</i> <i>“County of performance,” ch. 2-G, §6.1.3(1), p. 122;</i> <i class="c5">O’Connor’s COA</i><i>, “Written contract - contractual performance,” ch. 5-B, §6.2.2, p. 93.</i>}'
+    field: TODO
+  - token: p092
+    raw: "{<i>goods/services/loans/ extensions of credit</i>}"
+    field: TODO
+  - token: p093
+    raw: "{<i>personal/family/household/agricultural</i>}"
+    field: TODO
+  - token: p094
+    raw: "{<i>signed the contract/ resided when the suit was commenced</i>}"
+    field: TODO
+  - token: p095
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p096
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>,</i> <i>“Contract in consumer transaction,” ch. 2-G, §6.1.3(2), p. 122;</i> <i class="c5">O’Connor’s COA</i><i>, “Written contract - consumer transaction,” ch. 5-B, §6.2.3, p. 93.</i>}'
+    field: TODO
+  - token: p097
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p098
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p099
+    raw: '{<i>See</i> <i class="c5">O’Connor’s COA</i><i>, “Oral contract,” ch. 5-B, §6.2.1, p. 93.</i>}'
+    field: TODO
+  - token: p100
+    raw: "{<i>Other permissive venue allegations</i>}"
+    field: TODO
+  - token: p101
+    raw: "{<i>_______</i>}"
+    field: TODO
+  - token: p102
+    raw: "{<i>the theft occurred/defendant resides</i>}"
+    field: TODO
+  - token: p103
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p104
+    raw: '{<i>See</i> <i class="c5">O’Connor’s COA</i><i>, “Venue,” ch. 26-A, §6.2, p. 793.</i>}'
+    field: TODO
+  - token: p105
+    raw: "{<i>this is the county where the cause of action arose/suit may always be brought in Travis County</i>}"
+    field: TODO
+  - token: p106
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p107
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>,</i> <i>“Whistleblower suit,” ch. 2-G, §6.2.2, p. 123;</i> <i class="c5">O’Connor’s COA</i><i>, “State,” ch. 33-C, §6.1.1, p. 969.</i>}'
+    field: TODO
+  - token: p108
+    raw: "{<i>the county where the cause of action arose/a county in the same geographic area established with the county where the cause of action arose</i>}"
+    field: TODO
+  - token: p109
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p110
+    raw: '{<i>See</i> <i class="c5">O’Connor’s COA</i><i>, “Local government,” ch. 33-C, §6.1.2, p. 969.</i>}'
+    field: TODO
+  - token: p111
+    raw: "{<i>defendant/defendant’s authorized agent</i>}"
+    field: TODO
+  - token: p112
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p113
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>,</i> <i>“Suit under DTPA,” ch. 2-G, §6.2.1, p. 123;</i> <i class="c5">O’Connor’s COA</i><i>, “Venue,” ch. 8, §6.3, p. 205.</i>}'
+    field: TODO
+  - token: p114
+    raw: "{<i>General venue allegations from venue statute</i>}"
+    field: TODO
+  - token: p115
+    raw: "{<i>_______</i>}"
+    field: TODO
+  - token: p116
+    raw: "{<i>_______</i>}"
+    field: TODO
+  - token: p117
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p118
+    raw: '{<i>See Tex. Civ. Prac. &amp; Rem. Code §15.002(a)(1);</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Selecting venue if no mandatory venue,” ch. 2-G, §5.1.1, p. 121.</i>}'
+    field: TODO
+  - token: p119
+    raw: "{<i>_______</i>}"
+    field: TODO
+  - token: p120
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p121
+    raw: '{<i>See Tex. Civ. Prac. &amp; Rem. Code §15.002(a)(2);</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Selecting venue if no mandatory venue,” ch. 2-G, §5.1.2, p. 121.</i>}'
+    field: TODO
+  - token: p122
+    raw: "{<i>_______</i>}"
+    field: TODO
+  - token: p123
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p124
+    raw: '{<i>See Tex. Civ. Prac. &amp; Rem. Code §15.002(a)(3);</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Selecting venue if no mandatory venue,” ch. 2-G, §5.1.3, p. 121.</i>}'
+    field: TODO
+  - token: p125
+    raw: "{<i>_______</i>}"
+    field: TODO
+  - token: p126
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p127
+    raw: '{<i>See Tex. Civ. Prac. &amp; Rem. Code §15.002(a)(4);</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Selecting venue if no mandatory venue,” ch. 2-G, §5.1.4, p. 121.</i>}'
+    field: TODO

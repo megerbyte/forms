@@ -1,0 +1,83 @@
+form_id: 3C-9
+title: Venue — Reply to Response to Motion to Transfer, Improper County
+source: forms/Form_3C-9_Venue_-_Reply_to_Response_to_Motion_to_Transfer,_Improper_County.html
+template: templates/3C-9.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>current</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>state basis of suit</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p007
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Deadline,” ch. 3-C, §2.9.1, p. 167.</i>}'
+    field: TODO
+  - token: p008
+    raw: "{<i>specifically deny any new venue facts pleaded in plaintiff’s response or in an amended petition</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>plead venue facts supporting transfer to county of proper venue</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>the affidavits attached to plaintiff’s response/the attachments to plaintiff’s affidavits</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>state basis of objection, e.g., the statements in the affidavit are hearsay</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>defendant’s venue facts that were specifically denied by plaintiff/rebuttal facts on the issue of joinder</i>}"
+    field: TODO
+  - token: p013
+    raw: '{<i>See</i> <i class="c5">O’Connor’s Texas Rules</i><i>, “Affidavits &amp; attachments,” ch. 3-C, §2.9.2, p. 167.</i>}'
+    field: TODO
+  - token: p014
+    raw: "{<i>his/her/its</i>}"
+    field: TODO
+  - token: p015
+    raw: "{<i>current</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>proposed</i>}"
+    field: TODO
+  - token: p018
+    raw: "{<i>CHOOSE APPROPRIATE STATEMENT</i>}"
+    field: TODO
+  - token: p019
+    raw: "{<i>state venue facts specifically pleaded in motion to transfer venue</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p021
+    raw: "{<i>state facts proved by affidavits and attachments</i>}"
+    field: TODO
+  - token: p022
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p023
+    raw: "{<i>Briefly summarize the reply.</i>}"
+    field: TODO
+  - token: p024
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p025
+    raw: "{<i>his/her/its</i>}"
+    field: TODO
+  - token: p026
+    raw: "{<i>proposed</i>}"
+    field: TODO

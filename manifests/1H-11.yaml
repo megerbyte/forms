@@ -1,0 +1,140 @@
+form_id: 1H-11
+title: Response to Motion to Disqualify Opposing Counsel
+source: forms/Form_1H-11_Response_to_Motion_to_Disqualify_Opposing_Counsel.html
+template: templates/1H-11.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>PARTY</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>state basis of suit</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>name of attorney or firm</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>State other facts relevant to the response.</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPH 6</i>}"
+    field: TODO
+  - token: p014
+    raw: '{<i>See</i> <i class="c7">O’Connor’s Texas Rules</i><i>, “Lawyer represented other party,” ch. 1-H, §8.2.2, p. 45.</i>}'
+    field: TODO
+  - token: p015
+    raw: '{<i>See</i> <i class="c7">O’Connor’s Texas Rules</i><i>, “Lawyer as witness,” ch. 1-H, §8.2.5, p. 46.</i>}'
+    field: TODO
+  - token: p016
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPHS 7-11</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>Name</i>}"
+    field: TODO
+  - token: p018
+    raw: "{<i>lawyer/partner in the firm/associate in the firm</i>}"
+    field: TODO
+  - token: p019
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p021
+    raw: "{<i>State facts of earlier representation and identify facts that negate a substantial relationship between the earlier matter and the pending litigation, e.g., dissimilar defenses, dissimilar scientific issues, dissimilar liability issues, dissimilar strategies.</i>}"
+    field: TODO
+  - token: p022
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p023
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p024
+    raw: "{<i>Name of firm representing party</i>}"
+    field: TODO
+  - token: p025
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p026
+    raw: "{<i>name of firm representing party</i>}"
+    field: TODO
+  - token: p027
+    raw: "{<i>Describe the procedures that prevent employee’s contact with the case.</i>}"
+    field: TODO
+  - token: p028
+    raw: "{<i>name of employee</i>}"
+    field: TODO
+  - token: p029
+    raw: "{<i>name of firm representing party</i>}"
+    field: TODO
+  - token: p030
+    raw: "{<i>name of firm representing party</i>}"
+    field: TODO
+  - token: p031
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p032
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p033
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p034
+    raw: "{<i>has testified/will testify</i>}"
+    field: TODO
+  - token: p035
+    raw: "{<i>has not caused/will not cause</i>}"
+    field: TODO
+  - token: p036
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p037
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p038
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p039
+    raw: "{<i>has testified/will testify</i>}"
+    field: TODO
+  - token: p040
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p041
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p042
+    raw: "{<i>Specify expertise of counsel and demonstrate hardship.</i>}"
+    field: TODO
+  - token: p043
+    raw: "{<i>Briefly summarize the response.</i>}"
+    field: TODO
+  - token: p044
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p045
+    raw: "{<i>adverse party</i>}"
+    field: TODO

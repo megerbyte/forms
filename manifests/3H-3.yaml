@@ -1,0 +1,137 @@
+form_id: 3H-3
+title: Response to Motion to Abate or Stay
+source: forms/Form_3H-3_Response_to_Motion_to_Abate_or_Stay.html
+template: templates/3H-3.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>abate/stay</i>}"
+    field: TODO
+  - token: p003
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Response,” ch. 3-H, §4, p. 208.</i>}'
+    field: TODO
+  - token: p004
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>state basis of suit</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>abate/stay</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>restate defendant’s allegation</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>State other facts relevant to the response.</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPHS 6-12</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>Defective pleadings</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>state reason defendant’s allegation of pleading defect is inaccurate, e.g., plaintiff is not a minor, plaintiff has standing</i>}"
+    field: TODO
+  - token: p014
+    raw: "{<i>state reason defendant’s assertion of defect in factual allegation is inaccurate, e.g., plaintiff gave proper notice before filing suit</i>}"
+    field: TODO
+  - token: p015
+    raw: "{<i>Same dispute in other forum</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>abate/stay</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>identify other court, e.g., another Texas court, a federal court, a court in another state</i>}"
+    field: TODO
+  - token: p018
+    raw: "{<i>CHOOSE APPROPRIATE REASONS</i>}"
+    field: TODO
+  - token: p019
+    raw: "{<i>filed/commenced</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p021
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Commenced,” ch. 3-H, §3.2.1(1), p. 207.</i>}'
+    field: TODO
+  - token: p022
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p023
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>,</i> “<i>Pending,” ch. 3-H, §3.2.1(2), p. 207.</i>}'
+    field: TODO
+  - token: p024
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p025
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Same parties &amp; issues,” ch. 3-H, §3.2.1(3), p. 207.</i>}'
+    field: TODO
+  - token: p026
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p027
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Same parties &amp; issues,” ch. 3-H, §3.2.1(3), p. 207.</i>}'
+    field: TODO
+  - token: p028
+    raw: "{<i>other</i>}"
+    field: TODO
+  - token: p029
+    raw: "{<i>his/her/its</i>}"
+    field: TODO
+  - token: p030
+    raw: "{<i>other</i>}"
+    field: TODO
+  - token: p031
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Estoppel,” ch. 3-H, §3.2.2(1), p. 207.</i>}'
+    field: TODO
+  - token: p032
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p033
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Lack of intent to prosecute,” ch. 3-H, §3.2.2(2), p. 207.</i>}'
+    field: TODO
+  - token: p034
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p035
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Lack of necessary parties,” ch. 3-H, §3.2.2(3), p. 207.</i>}'
+    field: TODO
+  - token: p036
+    raw: "{<i>Same dispute in administrative agency</i>}"
+    field: TODO
+  - token: p037
+    raw: "{<i>identify statute</i>}"
+    field: TODO
+  - token: p038
+    raw: "{<i>name of administrative agency</i>}"
+    field: TODO
+  - token: p039
+    raw: "{<i>name of administrative agency</i>}"
+    field: TODO
+  - token: p040
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p041
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Abate - administrative agency has primary jurisdiction,” ch. 3-H, §3.4, p. 208.</i>}'
+    field: TODO
+  - token: p042
+    raw: "{<i>restate reasons to deny motion to abate or stay</i>}"
+    field: TODO
+  - token: p043
+    raw: "{<i>abate/stay</i>}"
+    field: TODO
+  - token: p044
+    raw: "{<i>abate/stay</i>}"
+    field: TODO

@@ -1,0 +1,263 @@
+form_id: 3C-8
+title: Venue — Response to Motion to Change, Local Prejudice
+source: forms/Form_3C-8_Venue_-_Response_to_Motion_to_Change,_Local_Prejudice.html
+template: templates/3C-8.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>PARTY</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>current</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>current</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>state basis of suit</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>he/she/ it</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>current</i>}"
+    field: TODO
+  - token: p013
+    raw: '{<i>See</i> <i class="c7">O’Connor’s Texas Rules</i><i>, “Local Prejudice,” ch. 3-C, §3, p. 170.</i>}'
+    field: TODO
+  - token: p014
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p015
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>State other facts relevant to the response.</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p018
+    raw: "{<i>list affiants</i>}"
+    field: TODO
+  - token: p019
+    raw: '{<i>See</i> <i class="c7">O’Connor’s Texas Rules</i><i>, “Response,” ch. 3-C, §3.7, p. 171.</i>}'
+    field: TODO
+  - token: p020
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p021
+    raw: "{<i>CHOOSE APPROPRIATE REASONS</i>}"
+    field: TODO
+  - token: p022
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p023
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p024
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p025
+    raw: '{<i>See</i> <i class="c7">O’Connor’s Texas Rules</i><i>, “Prejudice,” ch. 3-C, §3.3.1, p. 170.</i>}'
+    field: TODO
+  - token: p026
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p027
+    raw: "{<i>him/her/it</i>}"
+    field: TODO
+  - token: p028
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p029
+    raw: '{<i>See</i> <i class="c7">O’Connor’s Texas Rules</i><i>, “Combination,” ch. 3-C, §3.3.2, p. 170.</i>}'
+    field: TODO
+  - token: p030
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p031
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p032
+    raw: "{<i>his/her/its</i>}"
+    field: TODO
+  - token: p033
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p034
+    raw: '{<i>See</i> <i class="c7">O’Connor’s Texas Rules</i><i>, “No impartial trial,” ch. 3-C, §3.3.3, p. 170.</i>}'
+    field: TODO
+  - token: p035
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p036
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p037
+    raw: '{<i>See</i> <i class="c7">O’Connor’s Texas Rules</i><i>, “Affidavits,” ch. 3-C, §3.5, p. 171.</i>}'
+    field: TODO
+  - token: p038
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p039
+    raw: "{<i>are not credible/are not truthful/do not have any means of knowledge about local prejudice</i>}"
+    field: TODO
+  - token: p040
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p041
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p042
+    raw: "{<i>his/her/its</i>}"
+    field: TODO
+  - token: p043
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p044
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p045
+    raw: "{<i>state facts showing adverse party knew about problem much earlier</i>}"
+    field: TODO
+  - token: p046
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p047
+    raw: '{<i>See</i> <i class="c7">O’Connor’s Texas Rules</i><i>, “Deadline,” ch. 3-C, §3.4, p. 170.</i>}'
+    field: TODO
+  - token: p048
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p049
+    raw: "{<i>proposed</i>}"
+    field: TODO
+  - token: p050
+    raw: "{<i>state reasons why adverse party’s proposed county is not a county of proper venue</i>}"
+    field: TODO
+  - token: p051
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p052
+    raw: "{<i>proposed</i>}"
+    field: TODO
+  - token: p053
+    raw: "{<i>alternative</i>}"
+    field: TODO
+  - token: p054
+    raw: "{<i>identify statute</i>}"
+    field: TODO
+  - token: p055
+    raw: "{<i>Elaborate.</i>}"
+    field: TODO
+  - token: p056
+    raw: '{<i>See</i> <i class="c7">O’Connor’s Texas Rules</i><i>, “Ruling,” ch. 3-C, §3.11, p. 171.</i>}'
+    field: TODO
+  - token: p057
+    raw: "{<i>ADD SECTION D IF APPLICABLE</i>}"
+    field: TODO
+  - token: p058
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p059
+    raw: "{<i>his/her/its</i>}"
+    field: TODO
+  - token: p060
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p061
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p062
+    raw: "{<i>letter</i>}"
+    field: TODO
+  - token: p063
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p064
+    raw: "{<i>his/her/its</i>}"
+    field: TODO
+  - token: p065
+    raw: '{<i>See</i> <i class="c7">O’Connor’s Texas Rules</i><i>, “Response,” ch. 3-C, §3.7, p. 171.</i>}'
+    field: TODO
+  - token: p066
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p067
+    raw: "{<i>conduct discovery/secure affidavits</i>}"
+    field: TODO
+  - token: p068
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p069
+    raw: "{<i>send interrogatories to/send requests for admissions to/take the deposition of/get an affidavit from</i>}"
+    field: TODO
+  - token: p070
+    raw: "{<i>adverse party/name of other person</i>}"
+    field: TODO
+  - token: p071
+    raw: "{<i>identify type of information sought</i>}"
+    field: TODO
+  - token: p072
+    raw: "{<i>explain</i>}"
+    field: TODO
+  - token: p073
+    raw: '{<i>See</i> <i class="c7">O’Connor’s Texas Rules</i><i>, “Description of necessary evidence,” ch. 5-D, §8.1, p. 256.</i>}'
+    field: TODO
+  - token: p074
+    raw: "{<i>testimony/evidence</i>}"
+    field: TODO
+  - token: p075
+    raw: "{<i>he/she/it</i>}"
+    field: TODO
+  - token: p076
+    raw: "{<i>Summarize discovery attempts demonstrating diligence. If known, state why discovery attempts did not secure evidence.</i>}"
+    field: TODO
+  - token: p077
+    raw: '{<i>See</i> <i class="c7">O’Connor’s Texas Rules</i><i>, “Diligence,” ch. 5-D, §8.3, p. 257.</i>}'
+    field: TODO
+  - token: p078
+    raw: "{<i>Add appropriate paragraphs 14-19 from FORM 5D:1.</i>}"
+    field: TODO
+  - token: p079
+    raw: "{<i>Briefly summarize the response.</i>}"
+    field: TODO
+  - token: p080
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p081
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p082
+    raw: "{<i>current</i>}"
+    field: TODO
+  - token: p083
+    raw: "{<i>add if applicable: or, in the alternative, grant party’s request for a continuance to conduct additional discovery and collect affidavits</i>}"
+    field: TODO
+  - token: p084
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p085
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p086
+    raw: "{<i>alternative</i>}"
+    field: TODO

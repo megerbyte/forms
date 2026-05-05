@@ -1,0 +1,86 @@
+form_id: 4D-1
+title: Agreed Motion for Special Judge Proceeding
+source: forms/Form_4D-1_Agreed_Motion_for_Special_Judge_Proceeding.html
+template: templates/4D-1.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Agreed Motion for Trial by Special Judge,” ch. 4-D, §2, p. 233.</i>}'
+    field: TODO
+  - token: p003
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>state basis of suit</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>1/2/3</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>will end/ended</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p009
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Discovery Control Plans,” ch. 6-A, §7, p. 332.</i>}'
+    field: TODO
+  - token: p010
+    raw: "{<i>All/Most/A significant part/No significant part/None</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>trial/hearing</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>summarize reasons referral is appropriate</i>}"
+    field: TODO
+  - token: p014
+    raw: "{<i>State facts relevant to the motion.</i>}"
+    field: TODO
+  - token: p015
+    raw: "{<i>list issues to be referred</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p018
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p019
+    raw: "{<i>time</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>place</i>}"
+    field: TODO
+  - token: p021
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p022
+    raw: "{<i>amount</i>}"
+    field: TODO
+  - token: p023
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPH f</i>}"
+    field: TODO
+  - token: p024
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Costs &amp; fees,” ch. 4-D, §5.4, p. 234.</i>}'
+    field: TODO
+  - token: p025
+    raw: "{<i>outline agreement on costs</i>}"
+    field: TODO
+  - token: p026
+    raw: '{<i>See</i> <i class="c3">O’Connor’s Texas Rules</i><i>, “Costs &amp; fees,” ch. 4-D, §5.4, p. 234.</i>}'
+    field: TODO
+  - token: p027
+    raw: "{<i>name</i>}"
+    field: TODO

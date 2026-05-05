@@ -1,0 +1,140 @@
+form_id: 6I-2
+title: Motion to Examine a Person
+source: forms/Form_6I-2_Motion_to_Examine_a_Person.html
+template: templates/6I-2.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>name of person</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>party/person under the control of a party</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>physical/mental</i>}"
+    field: TODO
+  - token: p006
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Motion to Examine the Person,” ch. 6-I, §5, p. 451.</i>}'
+    field: TODO
+  - token: p007
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>state basis of suit</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>1/2/3</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>will end/ended</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p013
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Discovery Control Plans,” ch. 6-A, §7, p. 332.</i>}'
+    field: TODO
+  - token: p014
+    raw: "{<i>trial/hearing</i>}"
+    field: TODO
+  - token: p015
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>State facts relevant to the motion.</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p018
+    raw: "{<i>physical/mental</i>}"
+    field: TODO
+  - token: p019
+    raw: "{<i>CHOOSE APPROPRIATE STATEMENT</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>physical/mental</i>}"
+    field: TODO
+  - token: p021
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “In controversy,” ch. 6-I, §5.1.1(2), p. 452.</i>}'
+    field: TODO
+  - token: p022
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Other party’s psychologist,” ch. 6-I, §5.1.1(3), p. 452.</i>}'
+    field: TODO
+  - token: p023
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Other party’s psychologist,” ch. 6-I, §5.1.1(3), p. 452.</i>}'
+    field: TODO
+  - token: p024
+    raw: "{<i>explain why examination is relevant or is likely to lead to the discovery of relevant evidence, e.g., physical examination of plaintiff who claims physical impairment that prevents him from working</i>}"
+    field: TODO
+  - token: p025
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Good cause,” ch. 6-I, §5.1.1(1)(a), p. 451.</i>}'
+    field: TODO
+  - token: p026
+    raw: "{<i>describe nexus, e.g., physical examination for physical impairment, psychological evaluation for claim for mental anguish</i>}"
+    field: TODO
+  - token: p027
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Good cause,” ch. 6-I, §5.1.1(1)(b), p. 452.</i>}'
+    field: TODO
+  - token: p028
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p029
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Good cause,” ch. 6-I, §5.1.1(1)(c), p. 452.</i>}'
+    field: TODO
+  - token: p030
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPH 11</i>}"
+    field: TODO
+  - token: p031
+    raw: "{<i>Name of person</i>}"
+    field: TODO
+  - token: p032
+    raw: "{<i>physical/mental</i>}"
+    field: TODO
+  - token: p033
+    raw: "{<i>explain why person’s physical or mental condition is in controversy, e.g., in medical malpractice suit, plaintiff claims doctor was impaired by alcohol at the time of the operation</i>}"
+    field: TODO
+  - token: p034
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “In controversy,” ch. 6-I, §5.1.1(2), p. 452.</i>}'
+    field: TODO
+  - token: p035
+    raw: "{<i>Adverse party</i>}"
+    field: TODO
+  - token: p036
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p037
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Other party’s psychologist,” ch. 6-I, §5.1.1(3), p. 452.</i>}'
+    field: TODO
+  - token: p038
+    raw: "{<i>Adverse party</i>}"
+    field: TODO
+  - token: p039
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p040
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Other party’s psychologist,” ch. 6-I, §5.1.1(3), p. 452.</i>}'
+    field: TODO
+  - token: p041
+    raw: "{<i>Briefly summarize the motion.</i>}"
+    field: TODO
+  - token: p042
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p043
+    raw: "{<i>his/her/its</i>}"
+    field: TODO
+  - token: p044
+    raw: "{<i>name of person</i>}"
+    field: TODO
+  - token: p045
+    raw: "{<i>physical/ mental</i>}"
+    field: TODO

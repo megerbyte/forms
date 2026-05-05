@@ -1,0 +1,83 @@
+form_id: 5A-1
+title: Pretrial Conference Statement
+source: forms/Form_5A-1_Pretrial_Conference_Statement.html
+template: templates/5A-1.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>List in separate paragraphs the names of the plaintiff and the plaintiff’s attorneys, addresses, telephone numbers, and fax numbers.</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>List in separate paragraphs the names of the defendant and the defendant’s attorneys, addresses, telephone numbers, and fax numbers.</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>Provide a brief statement of the case.</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>1/2/3</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>will end/ended</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>date.</i>}"
+    field: TODO
+  - token: p008
+    raw: '{<i>See</i> <i class="c6">O’Connor’s Texas Rules</i><i>, “Discovery Control Plans,” ch. 6-A, §7, p. 332.</i>}'
+    field: TODO
+  - token: p009
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPH 5</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>list pending discovery requests</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>list discovery requests party intends to serve</i>}"
+    field: TODO
+  - token: p014
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p015
+    raw: "{<i>adverse party</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>list discovery requests party intends to serve</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>List the pending motions.</i>}"
+    field: TODO
+  - token: p018
+    raw: "{<i>In separate paragraphs, provide a brief statement of the contentions of the parties.</i>}"
+    field: TODO
+  - token: p019
+    raw: "{<i>List all the facts the parties have admitted and stipulated.</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>List the factual issues that are in dispute and the resolutions that are necessary to the disposition of the case.</i>}"
+    field: TODO
+  - token: p021
+    raw: "{<i>List the agreed propositions of law.</i>}"
+    field: TODO
+  - token: p022
+    raw: "{<i>List the disputed propositions of law.</i>}"
+    field: TODO
+  - token: p023
+    raw: "{<i>Attach lists of the parties’ trial exhibits. All exhibits should be provided to the other party so the parties can make objections to authenticity before trial.</i>}"
+    field: TODO
+  - token: p024
+    raw: "{<i>List the names, addresses, and telephone numbers of witnesses who will or may be used at trial with a short statement of the anticipated testimony.</i>}"
+    field: TODO
+  - token: p025
+    raw: "{<i>State the probable length of trial and the availability of witnesses, including out-of-state witnesses.</i>}"
+    field: TODO
+  - token: p026
+    raw: "{<i>Identify the attachments, including exhibits, jury instructions, definitions, and questions.</i>}"
+    field: TODO

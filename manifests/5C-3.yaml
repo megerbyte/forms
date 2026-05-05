@@ -1,0 +1,89 @@
+form_id: 5C-3
+title: Motion to Disqualify the Trial Judge
+source: forms/Form_5C-3_Motion_to_Disqualify_the_Trial_Judge.html
+template: templates/5C-3.html
+placeholders:
+  - token: p001
+    raw: "{<i>STYLE OF THE CASE - FORM 1B:2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>himself/herself</i>}"
+    field: TODO
+  - token: p004
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Motion to Recuse or Disqualify,” ch. 5-C, §4, p. 249.</i>}'
+    field: TODO
+  - token: p005
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>State facts relevant to the motion.</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPH 4</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>CHOOSE APPROPRIATE GROUND</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>he/she</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>See O’Connor’s Texas Appeals, “Judge served as a lawyer,” ch. 13-J, §3.1, p. 104.</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>See O’Connor’s Texas Appeals, “Disqualifying interests,” ch. 13-J, §3.2, p. 105.</i>}"
+    field: TODO
+  - token: p014
+    raw: "{<i>See O’Connor’s Texas Appeals, “Related to party,” ch. 13-J, §3.3, p. 106.</i>}"
+    field: TODO
+  - token: p015
+    raw: "{<i>CHOOSE APPROPRIATE GROUND</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>See O’Connor’s Texas Appeals, “Association with lawyer,” ch. 13-J, §3.4.1(1), p. 108.</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>See O’Connor’s Texas Appeals, “Association with lawyer,” ch. 13-J, §3.4.1(1), p. 108.</i>}"
+    field: TODO
+  - token: p018
+    raw: "{<i>he/she</i>}"
+    field: TODO
+  - token: p019
+    raw: "{<i>See O’Connor’s Texas Appeals, “Interest in suit,” ch. 13-J, §3.4.1(2), p. 108.</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>See O’Connor’s Texas Appeals, “Related to party,” ch. 13-J, §3.4.1(3), p. 108.</i>}"
+    field: TODO
+  - token: p021
+    raw: "{<i>State specific facts that show the judge is disqualified under the Texas Constitution or Rule 18b(1).</i>}"
+    field: TODO
+  - token: p022
+    raw: "{<i>Party</i>}"
+    field: TODO
+  - token: p023
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p024
+    raw: "{<i>name</i>}"
+    field: TODO
+  - token: p025
+    raw: '{<i>See</i> <i class="c4">O’Connor’s Texas Rules</i><i>, “Notice to other parties,” ch 5-C, §4.2, p. 250.</i>}'
+    field: TODO
+  - token: p026
+    raw: "{<i>Briefly summarize the motion.</i>}"
+    field: TODO
+  - token: p027
+    raw: "{<i>party</i>}"
+    field: TODO
+  - token: p028
+    raw: "{<i>himself/herself</i>}"
+    field: TODO

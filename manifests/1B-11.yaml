@@ -1,0 +1,65 @@
+form_id: 1B-11
+title: Certificate of Conference
+source: forms/Form_1B-11_Certificate_of_Conference.html
+template: templates/1B-11.html
+placeholders:
+  - token: p001
+    raw: "{<i>CERTIFICATE VERSION 1 - TRCP 191.2</i>}"
+    field: TODO
+  - token: p002
+    raw: "{<i>CERTIFICATE VERSION 2 - HARRIS &amp; TARRANT COUNTIES</i>}"
+    field: TODO
+  - token: p003
+    raw: "{<i>CHOOSE APPROPRIATE STATEMENT</i>}"
+    field: TODO
+  - token: p004
+    raw: "{<i>name of opposing counsel</i>}"
+    field: TODO
+  - token: p005
+    raw: "{<i>date</i>}"
+    field: TODO
+  - token: p006
+    raw: "{<i>attempted in good faith/made a reasonable effort</i>}"
+    field: TODO
+  - token: p007
+    raw: "{<i>specify motion or other matter in dispute</i>}"
+    field: TODO
+  - token: p008
+    raw: "{<i>state the reason</i>}"
+    field: TODO
+  - token: p009
+    raw: "{<i>name of opposing counsel</i>}"
+    field: TODO
+  - token: p010
+    raw: "{<i>give reasons for inability to confer</i>}"
+    field: TODO
+  - token: p011
+    raw: "{<i>CERTIFICATE VERSION 3 - DALLAS COUNTY</i>}"
+    field: TODO
+  - token: p012
+    raw: "{<i>CHOOSE APPROPRIATE STATEMENT</i>}"
+    field: TODO
+  - token: p013
+    raw: "{<i>identify dates, times, methods of contacts, and results</i>}"
+    field: TODO
+  - token: p014
+    raw: "{<i>identify dates, times, methods of contact, and results</i>}"
+    field: TODO
+  - token: p015
+    raw: "{<i>state details of emergency and harm</i>}"
+    field: TODO
+  - token: p016
+    raw: "{<i>CHOOSE APPROPRIATE PARAGRAPH</i>}"
+    field: TODO
+  - token: p017
+    raw: "{<i>For certificate version 1 &amp; 2</i>}"
+    field: TODO
+  - token: p018
+    raw: "{<i>Name of attorney</i>}"
+    field: TODO
+  - token: p019
+    raw: "{<i>For certificate version 3</i>}"
+    field: TODO
+  - token: p020
+    raw: "{<i>Name of attorney</i>}"
+    field: TODO
