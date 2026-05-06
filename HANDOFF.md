@@ -9,6 +9,18 @@ Start a new Claude Code session in this directory and paste this prompt:
 ## Master plan
 `/Users/muttroyalty/.claude/plans/i-want-to-create-deep-stallman.md` — five-layer architecture (catalog / question bank / form manifests / normalized templates / runtime). Approved.
 
+## Product spec — `SPECS.md`
+`SPECS.md` (in this repo) is the canonical product/methodology document. **Read it before making roadmap or UX decisions.** Key commitments that extend beyond the original five-layer plan:
+
+- **Methodology**: "Twenty-Questions" boolean-first interview that extracts an expert's tacit knowledge and replays it to a novice. Yes/no directs mental flow; open-ended prompts disrupt it.
+- **Question-bank presentation patterns** (Phase 3 schema needs these): per-question `popup:` (auto-explanation when the question implies background the user lacks — e.g. "taken directly to the nearest magistrate?"), per-question scoped `clarify:` text boxes for the rare cases where yes/no is genuinely misleading, and a content rule to **avoid adjectives** in prompts (SPECS.md line 53 — words like "lawful", "reasonable", "proper", "valid", "timely", "material" should be decomposed into the underlying yes/no test).
+- **Prospecting Tool is v1** (civil substrate, criminal as subset): the civil corpus in `forms/` is the engineering substrate; SPECS.md's arrest/magistrate examples illustrate methodology, and criminal-defense intake is a content specialization on top of the same catalog/manifest/template/question-bank layers — not a separate product. Output: synopsis + issues + implicated motions + filled motions, broadcast to a subscribed-lawyer panel.
+- **Document output**: case synopsis + list of legal issues + motions/pleadings implicated + filled-out motions, all in the final report.
+- **Companion workstreams** (post-Phase 4):
+  - Federal Penal Code, Code of Criminal Procedure, Rules of Civil Procedure, Rules of Evidence, Rules of Professional Conduct, Cannons of Judicial Conduct, Pattern Jury Charges — each gets its own questionnaire library; ProfConduct and JudConduct also auto-generate grievances/complaints.
+  - 2008 case-law refresh: every cited case in `templates/` needs a current-authority replacement.
+  - 3-page brief per legal point/issue at `briefs/<issue-slug>.md`.
+
 ## What's done
 
 - ✅ Moved 100 form HTML files from project root into `forms/` subdirectory (via `git mv`).
